@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scommaaccent.alt5.color0" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="233.33333333333334" y="0.0" type="line"/>
+      <point x="848.3333333333334" y="0.0" type="line"/>
+      <point x="1024.0" y="218.0" type="line"/>
+      <point x="1024.0" y="372.33333333333337" type="line"/>
+      <point x="413.6666666666667" y="733.6666666666667" type="line"/>
+      <point x="413.6666666666667" y="770.3333333333334" type="line"/>
+      <point x="511.6666666666667" y="883.3333333333334" type="line"/>
+      <point x="1014.0000000000001" y="883.3333333333334" type="line"/>
+      <point x="990.6666666666667" y="1027.3333333333335" type="line"/>
+      <point x="398.00000000000006" y="1027.3333333333335" type="line"/>
+      <point x="222.33333333333337" y="809.3333333333334" type="line"/>
+      <point x="222.33333333333337" y="655.0" type="line"/>
+      <point x="834.0" y="293.6666666666667" type="line"/>
+      <point x="834.0" y="257.0" type="line"/>
+      <point x="736.0" y="144.0" type="line"/>
+      <point x="210.0" y="144.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="500.6666666666667" y="-516.0" type="line"/>
+      <point x="683.0" y="-516.0" type="line"/>
+      <point x="683.0" y="-453.33333333333337" type="line"/>
+      <point x="481.33333333333337" y="-711.6666666666667" type="line"/>
+      <point x="573.0" y="-760.0" type="line"/>
+      <point x="758.3333333333334" y="-519.3333333333334" type="line"/>
+      <point x="758.3333333333334" y="-258.33333333333337" type="line"/>
+      <point x="500.6666666666667" y="-258.33333333333337" type="line"/>
+    </contour>
+  </outline>
+</glyph>

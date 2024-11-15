@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat.alt5.color0" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="432.0" y="1217.6666666666667" type="line"/>
+      <point x="1185.3333333333335" y="1217.6666666666667" type="line"/>
+      <point x="1185.3333333333335" y="1336.6666666666667" type="line"/>
+      <point x="972.0000000000001" y="1336.6666666666667" type="line"/>
+      <point x="943.0" y="1336.6666666666667" type="line"/>
+      <point x="432.0" y="1336.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="936.3333333333334" y="0.0" type="line"/>
+      <point x="1068.6666666666667" y="0.0" type="line"/>
+      <point x="1068.6666666666667" y="1530.0" type="line"/>
+      <point x="876.0000000000001" y="1496.6666666666667" type="line"/>
+      <point x="876.0000000000001" y="903.3333333333334" type="line"/>
+      <point x="887.6666666666667" y="862.6666666666667" type="line"/>
+      <point x="887.6666666666667" y="146.66666666666669" type="line"/>
+    </contour>
+    <contour>
+      <point x="964.6666666666667" y="966.6666666666667" type="line"/>
+      <point x="466.33333333333337" y="966.6666666666667" type="line"/>
+      <point x="150.0" y="655.6666666666667" type="line"/>
+      <point x="150.0" y="245.00000000000003" type="line"/>
+      <point x="449.0" y="-24.0" type="line"/>
+      <point x="964.6666666666667" y="141.33333333333334" type="line"/>
+      <point x="964.6666666666667" y="266.33333333333337" type="line"/>
+      <point x="509.00000000000006" y="157.66666666666669" type="line"/>
+      <point x="340.33333333333337" y="298.6666666666667" type="line"/>
+      <point x="340.33333333333337" y="598.3333333333334" type="line"/>
+      <point x="552.3333333333334" y="816.3333333333334" type="line"/>
+      <point x="964.6666666666667" y="816.3333333333334" type="line"/>
+    </contour>
+  </outline>
+</glyph>

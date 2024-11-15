@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftArrowTipUp.alt5.color0" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="575.0" y="1266.6666666666667" type="line"/>
+      <point x="93.33333333333334" y="786.6666666666667" type="line"/>
+      <point x="200.33333333333334" y="679.6666666666667" type="line"/>
+      <point x="603.6666666666667" y="1086.0" type="line"/>
+      <point x="546.0" y="1086.0" type="line"/>
+      <point x="949.3333333333335" y="679.6666666666667" type="line"/>
+      <point x="1056.3333333333335" y="786.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="656.0" y="1104.6666666666667" type="line"/>
+      <point x="493.33333333333337" y="1104.6666666666667" type="line"/>
+      <point x="493.33333333333337" y="211.00000000000003" type="line"/>
+      <point x="656.0" y="211.00000000000003" type="line"/>
+    </contour>
+    <contour>
+      <point x="408.33333333333337" y="990.3333333333334" type="line"/>
+      <point x="575.0" y="923.6666666666667" type="line"/>
+      <point x="741.3333333333334" y="989.3333333333334" type="line"/>
+      <point x="575.0" y="1060.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="493.33333333333337" y="377.6666666666667" type="line"/>
+      <point x="493.33333333333337" y="211.00000000000003" type="line"/>
+      <point x="1116.6666666666667" y="211.00000000000003" type="line"/>
+      <point x="1116.6666666666667" y="377.6666666666667" type="line"/>
+    </contour>
+  </outline>
+</glyph>

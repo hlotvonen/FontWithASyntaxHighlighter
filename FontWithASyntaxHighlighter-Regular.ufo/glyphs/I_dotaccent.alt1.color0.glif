@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent.alt1.color0" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="516.3333333333334" y="0.0" type="line"/>
+      <point x="710.3333333333334" y="0.0" type="line"/>
+      <point x="710.3333333333334" y="1460.0" type="line"/>
+      <point x="516.3333333333334" y="1460.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="169.66666666666669" y="0.0" type="line"/>
+      <point x="1070.3333333333335" y="0.0" type="line"/>
+      <point x="1090.3333333333335" y="163.66666666666669" type="line"/>
+      <point x="149.66666666666669" y="163.66666666666669" type="line"/>
+    </contour>
+    <contour>
+      <point x="149.66666666666669" y="1296.3333333333335" type="line"/>
+      <point x="1090.3333333333335" y="1296.3333333333335" type="line"/>
+      <point x="1070.3333333333335" y="1460.0" type="line"/>
+      <point x="169.66666666666669" y="1460.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="618.6666666666667" y="1623.6000000000001" type="line"/>
+      <point x="768.1333333333334" y="1766.2666666666667" type="line"/>
+      <point x="618.6666666666667" y="1908.6666666666667" type="line"/>
+      <point x="468.9333333333334" y="1766.2666666666667" type="line"/>
+    </contour>
+  </outline>
+</glyph>

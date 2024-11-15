@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j.alt3" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="192.66666666666669" y="-400.0" type="line"/>
+      <point x="627.0" y="-400.0" type="line"/>
+      <point x="878.0" y="-101.66666666666667" type="line"/>
+      <point x="878.0" y="912.3333333333334" type="line"/>
+      <point x="775.6666666666667" y="1027.3333333333335" type="line"/>
+      <point x="225.33333333333334" y="1027.3333333333335" type="line"/>
+      <point x="202.0" y="861.6666666666667" type="line"/>
+      <point x="737.3333333333334" y="861.6666666666667" type="line"/>
+      <point x="687.0" y="904.0" type="line"/>
+      <point x="687.0" y="-43.66666666666667" type="line"/>
+      <point x="527.6666666666667" y="-234.33333333333334" type="line"/>
+      <point x="169.33333333333337" y="-234.33333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="737.6666666666667" y="1261.0" type="line"/>
+      <point x="901.6666666666667" y="1417.6666666666667" type="line"/>
+      <point x="737.6666666666667" y="1574.0" type="line"/>
+      <point x="573.3333333333334" y="1417.6666666666667" type="line"/>
+    </contour>
+  </outline>
+</glyph>
