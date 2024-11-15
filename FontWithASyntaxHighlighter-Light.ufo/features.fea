@@ -317,13 +317,13 @@ lookup ccmp_Other_2 {
 feature locl {
 # automatic
 lookup locl_latn_0 {
-	# script latn; # FontForge issue 5442
-	# language ROM; # FontForge issue 5442
+	script latn;
+	language ROM;
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
 	sub Tcedilla by Tcommaaccent;
 	sub tcedilla by tcommaaccent;
-	# language MOL; # FontForge issue 5442
+	language MOL;
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
 	sub Tcedilla by Tcommaaccent;
@@ -331,8 +331,8 @@ lookup locl_latn_0 {
 } locl_latn_0;
 
 lookup locl_latn_1 {
-	# script latn; # FontForge issue 5442
-	# language CAT; # FontForge issue 5442
+	script latn;
+	language CAT;
 	sub  l' periodcentered' l by ldot;
 	sub  L' periodcentered' L by Ldot;
 } locl_latn_1;

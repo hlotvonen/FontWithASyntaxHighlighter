@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb.alt5.color0" format="2">
+  <outline>
+    <contour>
+      <point x="299.0" y="1325.6666666666667" type="line"/>
+      <point x="941.0000000000001" y="1325.6666666666667" type="line"/>
+      <point x="941.0000000000001" y="1456.6666666666667" type="line"/>
+      <point x="299.0" y="1456.6666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1240</integer>
+    </dict>
+  </lib>
+</glyph>

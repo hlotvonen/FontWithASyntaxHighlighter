@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ.alt5" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="183.33333333333334" y="659.3333333333334" type="line"/>
+      <point x="379.0" y="659.3333333333334" type="line"/>
+      <point x="379.0" y="1460.0" type="line"/>
+      <point x="183.33333333333334" y="1460.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="460.33333333333337" y="0.0" type="line"/>
+      <point x="773.0" y="0.0" type="line"/>
+      <point x="1058.0" y="208.33333333333337" type="line"/>
+      <point x="1058.0" y="1460.0" type="line"/>
+      <point x="862.3333333333334" y="1460.0" type="line"/>
+      <point x="862.3333333333334" y="285.6666666666667" type="line"/>
+      <point x="678.3333333333334" y="163.66666666666669" type="line"/>
+      <point x="555.0" y="163.66666666666669" type="line"/>
+      <point x="377.6666666666667" y="285.6666666666667" type="line"/>
+      <point x="377.6666666666667" y="423.0" type="line"/>
+      <point x="182.00000000000003" y="423.0" type="line"/>
+      <point x="182.00000000000003" y="208.33333333333337" type="line"/>
+    </contour>
+    <contour>
+      <point x="558.6666666666667" y="1294.6666666666667" type="line"/>
+      <point x="979.6666666666667" y="1294.6666666666667" type="line"/>
+      <point x="979.6666666666667" y="1460.0" type="line"/>
+      <point x="582.0" y="1460.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

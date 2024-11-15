@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar.alt1" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="98.0" y="601.0" type="line"/>
+      <point x="1066.6666666666667" y="601.0" type="line"/>
+      <point x="1066.6666666666667" y="734.0" type="line"/>
+      <point x="479.33333333333337" y="734.0" type="line"/>
+      <point x="450.33333333333337" y="734.0" type="line"/>
+      <point x="98.0" y="734.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="98.0" y="984.6666666666667" type="line"/>
+      <point x="1066.6666666666667" y="984.6666666666667" type="line"/>
+      <point x="1066.6666666666667" y="1117.6666666666667" type="line"/>
+      <point x="479.33333333333337" y="1117.6666666666667" type="line"/>
+      <point x="450.33333333333337" y="1117.6666666666667" type="line"/>
+      <point x="98.0" y="1117.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="608.0" y="-0.3333333333333333" type="line"/>
+      <point x="1066.6666666666667" y="-0.3333333333333333" type="line"/>
+      <point x="1066.6666666666667" y="158.66666666666669" type="line"/>
+      <point x="702.0" y="158.66666666666669" type="line"/>
+      <point x="542.6666666666667" y="356.0" type="line"/>
+      <point x="542.6666666666667" y="1307.6666666666667" type="line"/>
+      <point x="357.00000000000006" y="1274.3333333333335" type="line"/>
+      <point x="357.00000000000006" y="298.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

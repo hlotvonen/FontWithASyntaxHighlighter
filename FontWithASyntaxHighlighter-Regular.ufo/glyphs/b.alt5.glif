@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b.alt5" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="171.33333333333337" y="0.0" type="line"/>
+      <point x="352.33333333333337" y="0.0" type="line"/>
+      <point x="352.33333333333337" y="862.6666666666667" type="line"/>
+      <point x="364.0" y="892.0000000000001" type="line"/>
+      <point x="364.0" y="1530.0" type="line"/>
+      <point x="171.33333333333337" y="1496.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="275.33333333333337" y="0.0" type="line"/>
+      <point x="773.6666666666667" y="0.0" type="line"/>
+      <point x="1090.0" y="311.0" type="line"/>
+      <point x="1090.0" y="781.6666666666667" type="line"/>
+      <point x="791.0000000000001" y="1050.6666666666667" type="line"/>
+      <point x="275.33333333333337" y="885.3333333333335" type="line"/>
+      <point x="275.33333333333337" y="760.3333333333334" type="line"/>
+      <point x="731.0" y="869.0" type="line"/>
+      <point x="899.6666666666667" y="728.0" type="line"/>
+      <point x="899.6666666666667" y="368.33333333333337" type="line"/>
+      <point x="687.6666666666667" y="150.33333333333331" type="line"/>
+      <point x="275.33333333333337" y="150.33333333333331" type="line"/>
+    </contour>
+  </outline>
+</glyph>

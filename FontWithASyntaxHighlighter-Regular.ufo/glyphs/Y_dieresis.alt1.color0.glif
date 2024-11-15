@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydieresis.alt1.color0" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="523.6666666666667" y="570.0" type="line"/>
+      <point x="716.3333333333334" y="570.0" type="line"/>
+      <point x="1078.6666666666667" y="1092.3333333333335" type="line"/>
+      <point x="1078.6666666666667" y="1460.0" type="line"/>
+      <point x="886.3333333333335" y="1460.0" type="line"/>
+      <point x="886.3333333333335" y="1142.3333333333335" type="line"/>
+      <point x="596.3333333333334" y="713.0" type="line"/>
+      <point x="647.0" y="713.0" type="line"/>
+      <point x="357.0" y="1145.0" type="line"/>
+      <point x="357.0" y="1460.0" type="line"/>
+      <point x="161.33333333333334" y="1460.0" type="line"/>
+      <point x="161.33333333333334" y="1092.3333333333335" type="line"/>
+    </contour>
+    <contour>
+      <point x="523.0" y="0.0" type="line"/>
+      <point x="716.6666666666667" y="0.0" type="line"/>
+      <point x="716.6666666666667" y="671.3333333333334" type="line"/>
+      <point x="523.0" y="671.3333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="362.2933333333334" y="1623.6000000000001" type="line"/>
+      <point x="508.77066666666667" y="1766.2666666666667" type="line"/>
+      <point x="362.2933333333334" y="1908.6666666666667" type="line"/>
+      <point x="215.5546666666667" y="1766.2666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="877.96" y="1623.6000000000001" type="line"/>
+      <point x="1024.4373333333335" y="1766.2666666666667" type="line"/>
+      <point x="877.96" y="1908.6666666666667" type="line"/>
+      <point x="731.2213333333334" y="1766.2666666666667" type="line"/>
+    </contour>
+  </outline>
+</glyph>
