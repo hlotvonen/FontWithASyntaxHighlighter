@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ntilde.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="137" y="0" type="line"/>
+      <point x="257" y="0" type="line"/>
+      <point x="503" y="1266" type="line"/>
+      <point x="515" y="1266" type="line"/>
+      <point x="1094" y="1" type="line"/>
+      <point x="1225" y="1" type="line"/>
+      <point x="1509" y="1461" type="line"/>
+      <point x="1389" y="1461" type="line"/>
+      <point x="1147" y="214" type="line"/>
+      <point x="1135" y="214" type="line"/>
+      <point x="554" y="1460" type="line"/>
+      <point x="421" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="951" y="1893" type="line"/>
+      <point x="751" y="1893" type="line"/>
+      <point x="586" y="1765" type="line"/>
+      <point x="562" y="1643" type="line"/>
+      <point x="652" y="1643" type="line"/>
+      <point x="670" y="1734" type="line"/>
+      <point x="772" y="1805" type="line"/>
+      <point x="893" y="1805" type="line"/>
+      <point x="1097" y="1643" type="line"/>
+      <point x="1297" y="1643" type="line"/>
+      <point x="1462" y="1771" type="line"/>
+      <point x="1486" y="1893" type="line"/>
+      <point x="1396" y="1893" type="line"/>
+      <point x="1378" y="1802" type="line"/>
+      <point x="1276" y="1731" type="line"/>
+      <point x="1155" y="1731" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

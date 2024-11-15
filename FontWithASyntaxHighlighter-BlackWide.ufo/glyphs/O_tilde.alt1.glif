@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otilde.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="576" y="0" type="line"/>
+      <point x="981" y="0" type="line"/>
+      <point x="1462" y="528" type="line"/>
+      <point x="1462" y="932" type="line"/>
+      <point x="964" y="1460" type="line"/>
+      <point x="576" y="1460" type="line"/>
+      <point x="93" y="932" type="line"/>
+      <point x="93" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="729" y="311" type="line"/>
+      <point x="418" y="653" type="line"/>
+      <point x="418" y="807" type="line"/>
+      <point x="729" y="1149" type="line"/>
+      <point x="827" y="1149" type="line"/>
+      <point x="1137" y="807" type="line"/>
+      <point x="1137" y="653" type="line"/>
+      <point x="827" y="311" type="line"/>
+    </contour>
+    <contour>
+      <point x="763" y="1911" type="line"/>
+      <point x="465" y="1911" type="line"/>
+      <point x="312" y="1758" type="line"/>
+      <point x="312" y="1615" type="line"/>
+      <point x="515" y="1615" type="line"/>
+      <point x="515" y="1686" type="line"/>
+      <point x="575" y="1758" type="line"/>
+      <point x="653" y="1758" type="line"/>
+      <point x="793" y="1615" type="line"/>
+      <point x="1091" y="1615" type="line"/>
+      <point x="1244" y="1768" type="line"/>
+      <point x="1244" y="1911" type="line"/>
+      <point x="1041" y="1911" type="line"/>
+      <point x="1041" y="1830" type="line"/>
+      <point x="981" y="1768" type="line"/>
+      <point x="903" y="1768" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

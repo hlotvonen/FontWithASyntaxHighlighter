@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="573" y="0" type="line"/>
+      <point x="898" y="0" type="line"/>
+      <point x="898" y="867" type="line"/>
+      <point x="713" y="1082" type="line"/>
+      <point x="157" y="1082" type="line"/>
+      <point x="127" y="781" type="line"/>
+      <point x="632" y="781" type="line"/>
+      <point x="573" y="836" type="line"/>
+    </contour>
+    <contour>
+      <point x="667" y="1275" type="line"/>
+      <point x="408" y="1275" type="line"/>
+      <point x="591" y="1643" type="line"/>
+      <point x="916" y="1643" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

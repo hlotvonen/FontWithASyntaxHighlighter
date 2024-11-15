@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="1240"/>
+  <unicode hex="010F"/>
+  <outline>
+    <contour>
+      <point x="771" y="0" type="line"/>
+      <point x="976" y="0" type="line"/>
+      <point x="976" y="1530" type="line"/>
+      <point x="658" y="1470" type="line"/>
+      <point x="658" y="942" type="line"/>
+      <point x="693" y="882" type="line"/>
+      <point x="693" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="830" y="1080" type="line"/>
+      <point x="423" y="1080" type="line"/>
+      <point x="78" y="763" type="line"/>
+      <point x="78" y="279" type="line"/>
+      <point x="393" y="-26" type="line"/>
+      <point x="830" y="152" type="line"/>
+      <point x="830" y="351" type="line"/>
+      <point x="467" y="275" type="line"/>
+      <point x="373" y="358" type="line"/>
+      <point x="373" y="657" type="line"/>
+      <point x="533" y="817" type="line"/>
+      <point x="830" y="817" type="line"/>
+    </contour>
+    <contour>
+      <point x="1055.034" y="1312" type="line"/>
+      <point x="1271.332" y="1312" type="line"/>
+      <point x="1307.235" y="1708" type="line"/>
+      <point x="1069.921" y="1708" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

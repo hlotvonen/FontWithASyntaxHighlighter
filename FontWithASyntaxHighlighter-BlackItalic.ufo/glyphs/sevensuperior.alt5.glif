@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sevensuperior.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="591" y="1655" type="line"/>
+      <point x="565" y="1524" type="line"/>
+      <point x="962" y="1524" type="line"/>
+      <point x="905" y="1569" type="line"/>
+      <point x="594" y="1100" type="line"/>
+      <point x="757" y="1100" type="line"/>
+      <point x="1069" y="1572" type="line"/>
+      <point x="1085" y="1655" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

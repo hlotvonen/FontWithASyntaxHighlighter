@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nhookleft.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="365" y="50" type="line"/>
+      <point x="241" y="50" type="line"/>
+      <point x="241" y="-142" type="line"/>
+      <point x="123" y="-302" type="line"/>
+      <point x="-12" y="-302" type="line"/>
+      <point x="8" y="-400" type="line"/>
+      <point x="187" y="-400" type="line"/>
+      <point x="365" y="-172" type="line"/>
+    </contour>
+    <contour>
+      <point x="1199" y="0" type="line"/>
+      <point x="1325" y="0" type="line"/>
+      <point x="1325" y="781" type="line"/>
+      <point x="1006" y="1023" type="line"/>
+      <point x="300" y="864" type="line"/>
+      <point x="300" y="782" type="line"/>
+      <point x="968" y="907" type="line"/>
+      <point x="1199" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="0" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="365" y="858" type="line"/>
+      <point x="328" y="1000" type="line"/>
+      <point x="241" y="1000" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

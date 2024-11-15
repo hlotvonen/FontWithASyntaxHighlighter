@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="1067" y="169" type="line"/>
+      <point x="1067" y="399" type="line"/>
+      <point x="174" y="399" type="line"/>
+      <point x="174" y="169" type="line"/>
+    </contour>
+    <contour>
+      <point x="1067" y="546" type="line"/>
+      <point x="1067" y="776" type="line"/>
+      <point x="174" y="776" type="line"/>
+      <point x="174" y="546" type="line"/>
+    </contour>
+    <contour>
+      <point x="784" y="0" type="line"/>
+      <point x="784" y="808" type="line"/>
+      <point x="455" y="808" type="line"/>
+      <point x="455" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="14" y="1460" type="line"/>
+      <point x="471" y="547" type="line"/>
+      <point x="768" y="547" type="line"/>
+      <point x="1227" y="1460" type="line"/>
+      <point x="895" y="1460" type="line"/>
+      <point x="642" y="872" type="line"/>
+      <point x="627" y="872" type="line"/>
+      <point x="369" y="1460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

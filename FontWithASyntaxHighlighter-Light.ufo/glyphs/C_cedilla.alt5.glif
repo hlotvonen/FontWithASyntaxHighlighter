@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccedilla.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="510" y="0" type="line"/>
+      <point x="1070" y="0" type="line"/>
+      <point x="1090" y="110" type="line"/>
+      <point x="580" y="110" type="line"/>
+      <point x="256" y="570" type="line"/>
+      <point x="256" y="900" type="line"/>
+      <point x="580" y="1350" type="line"/>
+      <point x="1090" y="1350" type="line"/>
+      <point x="1070" y="1460" type="line"/>
+      <point x="510" y="1460" type="line"/>
+      <point x="130" y="933" type="line"/>
+      <point x="130" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="634" y="-565" type="line"/>
+      <point x="818" y="-565" type="line"/>
+      <point x="954" y="-455" type="line"/>
+      <point x="954" y="-279" type="line"/>
+      <point x="817" y="-169" type="line"/>
+      <point x="749" y="-169" type="line"/>
+      <point x="768" y="-196" type="line"/>
+      <point x="768" y="48" type="line"/>
+      <point x="674" y="48" type="line"/>
+      <point x="674" y="-259" type="line"/>
+      <point x="780" y="-259" type="line"/>
+      <point x="866" y="-329" type="line"/>
+      <point x="866" y="-405" type="line"/>
+      <point x="780" y="-475" type="line"/>
+      <point x="634" y="-475" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

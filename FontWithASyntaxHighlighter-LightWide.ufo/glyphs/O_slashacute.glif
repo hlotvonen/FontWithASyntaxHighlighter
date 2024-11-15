@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslashacute" format="2">
+  <advance width="1555"/>
+  <unicode hex="01FE"/>
+  <outline>
+    <contour>
+      <point x="487" y="259" type="line"/>
+      <point x="1151" y="1125" type="line"/>
+      <point x="1067" y="1200" type="line"/>
+      <point x="403" y="333" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="-83" type="line"/>
+      <point x="499" y="267" type="line"/>
+      <point x="406" y="353" type="line"/>
+      <point x="125" y="-6" type="line"/>
+    </contour>
+    <contour>
+      <point x="1149" y="1105" type="line"/>
+      <point x="1434" y="1471" type="line"/>
+      <point x="1334" y="1548" type="line"/>
+      <point x="1055" y="1191" type="line"/>
+    </contour>
+    <contour>
+      <point x="651" y="0" type="line"/>
+      <point x="909" y="0" type="line"/>
+      <point x="1406" y="540" type="line"/>
+      <point x="1406" y="930" type="line"/>
+      <point x="912" y="1460" type="line"/>
+      <point x="651" y="1460" type="line"/>
+      <point x="153" y="930" type="line"/>
+      <point x="153" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="710" y="110" type="line"/>
+      <point x="279" y="581" type="line"/>
+      <point x="279" y="889" type="line"/>
+      <point x="710" y="1350" type="line"/>
+      <point x="849" y="1350" type="line"/>
+      <point x="1280" y="889" type="line"/>
+      <point x="1280" y="581" type="line"/>
+      <point x="849" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="829" y="1652" type="line"/>
+      <point x="710" y="1652" type="line"/>
+      <point x="982" y="1884" type="line"/>
+      <point x="1135" y="1884" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:00</string>
+    </dict>
+  </lib>
+</glyph>

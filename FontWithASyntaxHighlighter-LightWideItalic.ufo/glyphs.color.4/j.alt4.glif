@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j.alt4" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="147" y="-400" type="line"/>
+      <point x="569" y="-400" type="line"/>
+      <point x="864" y="-112" type="line"/>
+      <point x="1068" y="935" type="line"/>
+      <point x="1019" y="1000" type="line"/>
+      <point x="471" y="1000" type="line"/>
+      <point x="432" y="902" type="line"/>
+      <point x="983" y="902" type="line"/>
+      <point x="944" y="938" type="line"/>
+      <point x="746" y="-82" type="line"/>
+      <point x="524" y="-302" type="line"/>
+      <point x="146" y="-302" type="line"/>
+    </contour>
+    <contour>
+      <point x="1009" y="1276" type="line"/>
+      <point x="1171" y="1406" type="line"/>
+      <point x="1060" y="1536" type="line"/>
+      <point x="897" y="1406" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/25 21:22:43</string>
+    </dict>
+  </lib>
+</glyph>

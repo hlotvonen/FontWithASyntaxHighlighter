@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior" format="2">
+  <advance width="1555"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="972" y="1100" type="line"/>
+      <point x="972" y="1655" type="line"/>
+      <point x="799" y="1655" type="line"/>
+      <point x="515" y="1341" type="line"/>
+      <point x="515" y="1211" type="line"/>
+      <point x="1051" y="1211" type="line"/>
+      <point x="1051" y="1341" type="line"/>
+      <point x="922" y="1341" type="line"/>
+      <point x="867" y="1331" type="line"/>
+      <point x="619" y="1331" type="line"/>
+      <point x="646" y="1305" type="line"/>
+      <point x="841" y="1504" type="line"/>
+      <point x="814" y="1514" type="line"/>
+      <point x="814" y="1100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:03</string>
+    </dict>
+  </lib>
+</glyph>

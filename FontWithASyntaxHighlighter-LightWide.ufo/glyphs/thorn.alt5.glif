@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="229" y="-400" type="line"/>
+      <point x="353" y="-400" type="line"/>
+      <point x="353" y="1530" type="line"/>
+      <point x="229" y="1530" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="0" type="line"/>
+      <point x="934" y="0" type="line"/>
+      <point x="1363" y="334" type="line"/>
+      <point x="1363" y="746" type="line"/>
+      <point x="945" y="1023" type="line"/>
+      <point x="294" y="864" type="line"/>
+      <point x="294" y="776" type="line"/>
+      <point x="914" y="901" type="line"/>
+      <point x="1237" y="700" type="line"/>
+      <point x="1237" y="372" type="line"/>
+      <point x="876" y="94" type="line"/>
+      <point x="294" y="94" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

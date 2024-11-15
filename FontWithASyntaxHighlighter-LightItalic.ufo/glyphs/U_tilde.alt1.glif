@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Utilde.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="270" y="0" type="line"/>
+      <point x="776" y="0" type="line"/>
+      <point x="974" y="198" type="line"/>
+      <point x="1220" y="1460" type="line"/>
+      <point x="1094" y="1460" type="line"/>
+      <point x="859" y="252" type="line"/>
+      <point x="724" y="110" type="line"/>
+      <point x="354" y="110" type="line"/>
+      <point x="283" y="242" type="line"/>
+      <point x="520" y="1460" type="line"/>
+      <point x="394" y="1460" type="line"/>
+      <point x="150" y="208" type="line"/>
+    </contour>
+    <contour>
+      <point x="834" y="1893" type="line"/>
+      <point x="664" y="1893" type="line"/>
+      <point x="519" y="1765" type="line"/>
+      <point x="495" y="1643" type="line"/>
+      <point x="585" y="1643" type="line"/>
+      <point x="603" y="1734" type="line"/>
+      <point x="685" y="1805" type="line"/>
+      <point x="776" y="1805" type="line"/>
+      <point x="899" y="1643" type="line"/>
+      <point x="1069" y="1643" type="line"/>
+      <point x="1214" y="1771" type="line"/>
+      <point x="1238" y="1893" type="line"/>
+      <point x="1148" y="1893" type="line"/>
+      <point x="1130" y="1802" type="line"/>
+      <point x="1048" y="1731" type="line"/>
+      <point x="957" y="1731" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

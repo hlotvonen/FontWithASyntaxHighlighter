@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="existential" format="2">
+  <advance width="1555"/>
+  <unicode hex="2203"/>
+  <outline>
+    <contour>
+      <point x="198" y="0" type="line"/>
+      <point x="1241" y="0" type="line"/>
+      <point x="1525" y="1460" type="line"/>
+      <point x="482" y="1460" type="line"/>
+      <point x="460" y="1350" type="line"/>
+      <point x="1422" y="1350" type="line"/>
+      <point x="1386" y="1395" type="line"/>
+      <point x="1262" y="754" type="line"/>
+      <point x="1315" y="799" type="line"/>
+      <point x="476" y="799" type="line"/>
+      <point x="456" y="694" type="line"/>
+      <point x="1295" y="694" type="line"/>
+      <point x="1259" y="739" type="line"/>
+      <point x="1128" y="65" type="line"/>
+      <point x="1181" y="110" type="line"/>
+      <point x="219" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:04</string>
+    </dict>
+  </lib>
+</glyph>

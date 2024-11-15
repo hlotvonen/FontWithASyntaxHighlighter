@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcircumflex.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="1105" y="0" type="line"/>
+      <point x="1430" y="0" type="line"/>
+      <point x="1434" y="820" type="line"/>
+      <point x="1059" y="1106" type="line"/>
+      <point x="312" y="928" type="line"/>
+      <point x="312" y="747" type="line"/>
+      <point x="935" y="823" type="line"/>
+      <point x="1105" y="740" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="453" y="1530" type="line"/>
+      <point x="128" y="1470" type="line"/>
+    </contour>
+    <contour>
+      <point x="-148" y="1690" type="line"/>
+      <point x="166" y="1690" type="line"/>
+      <point x="366" y="1936" type="line"/>
+      <point x="298" y="1936" type="line"/>
+      <point x="499" y="1690" type="line"/>
+      <point x="813" y="1690" type="line"/>
+      <point x="525" y="1978" type="line"/>
+      <point x="139" y="1978" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

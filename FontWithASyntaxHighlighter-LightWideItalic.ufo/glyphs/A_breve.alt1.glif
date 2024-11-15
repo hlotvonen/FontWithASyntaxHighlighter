@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreve.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="137" y="0" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="429" y="821" type="line"/>
+      <point x="975" y="1380" type="line"/>
+      <point x="935" y="1380" type="line"/>
+      <point x="1265" y="825" type="line"/>
+      <point x="1105" y="0" type="line"/>
+      <point x="1225" y="0" type="line"/>
+      <point x="1392" y="861" type="line"/>
+      <point x="1038" y="1460" type="line"/>
+      <point x="892" y="1460" type="line"/>
+      <point x="304" y="861" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="449" type="line"/>
+      <point x="1228" y="449" type="line"/>
+      <point x="1248" y="552" type="line"/>
+      <point x="323" y="552" type="line"/>
+    </contour>
+    <contour>
+      <point x="829" y="1643" type="line"/>
+      <point x="1163" y="1643" type="line"/>
+      <point x="1336" y="1760" type="line"/>
+      <point x="1360" y="1883" type="line"/>
+      <point x="1270" y="1883" type="line"/>
+      <point x="1253" y="1797" type="line"/>
+      <point x="1140" y="1731" type="line"/>
+      <point x="886" y="1731" type="line"/>
+      <point x="799" y="1797" type="line"/>
+      <point x="816" y="1883" type="line"/>
+      <point x="726" y="1883" type="line"/>
+      <point x="702" y="1759" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

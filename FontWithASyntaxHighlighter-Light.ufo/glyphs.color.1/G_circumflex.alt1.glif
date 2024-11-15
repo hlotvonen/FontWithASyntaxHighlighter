@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcircumflex.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="510" y="0" type="line"/>
+      <point x="1000" y="0" type="line"/>
+      <point x="1102" y="114" type="line"/>
+      <point x="1102" y="763" type="line"/>
+      <point x="656" y="763" type="line"/>
+      <point x="656" y="659" type="line"/>
+      <point x="1047" y="659" type="line"/>
+      <point x="990" y="704" type="line"/>
+      <point x="990" y="176" type="line"/>
+      <point x="930" y="110" type="line"/>
+      <point x="576" y="110" type="line"/>
+      <point x="256" y="570" type="line"/>
+      <point x="256" y="900" type="line"/>
+      <point x="576" y="1350" type="line"/>
+      <point x="1050" y="1350" type="line"/>
+      <point x="1030" y="1460" type="line"/>
+      <point x="510" y="1460" type="line"/>
+      <point x="130" y="930" type="line"/>
+      <point x="130" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="368" y="1650" type="line"/>
+      <point x="499" y="1650" type="line"/>
+      <point x="718" y="1854" type="line"/>
+      <point x="662" y="1854" type="line"/>
+      <point x="881" y="1650" type="line"/>
+      <point x="1012" y="1650" type="line"/>
+      <point x="748" y="1883" type="line"/>
+      <point x="632" y="1883" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

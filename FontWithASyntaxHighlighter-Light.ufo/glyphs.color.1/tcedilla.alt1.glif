@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcedilla.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="629" y="0" type="line"/>
+      <point x="1051" y="0" type="line"/>
+      <point x="1051" y="98" type="line"/>
+      <point x="685" y="98" type="line"/>
+      <point x="506" y="318" type="line"/>
+      <point x="506" y="1291" type="line"/>
+      <point x="390" y="1271" type="line"/>
+      <point x="390" y="288" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="818" type="line"/>
+      <point x="1051" y="818" type="line"/>
+      <point x="1051" y="918" type="line"/>
+      <point x="128" y="918" type="line"/>
+    </contour>
+    <contour>
+      <point x="627" y="-565" type="line"/>
+      <point x="811" y="-565" type="line"/>
+      <point x="947" y="-455" type="line"/>
+      <point x="947" y="-279" type="line"/>
+      <point x="810" y="-169" type="line"/>
+      <point x="742" y="-169" type="line"/>
+      <point x="761" y="-196" type="line"/>
+      <point x="761" y="48" type="line"/>
+      <point x="667" y="48" type="line"/>
+      <point x="667" y="-259" type="line"/>
+      <point x="773" y="-259" type="line"/>
+      <point x="859" y="-329" type="line"/>
+      <point x="859" y="-405" type="line"/>
+      <point x="773" y="-475" type="line"/>
+      <point x="627" y="-475" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

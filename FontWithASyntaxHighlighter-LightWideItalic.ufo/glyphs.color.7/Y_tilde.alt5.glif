@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ytilde.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="728" y="564" type="line"/>
+      <point x="854" y="564" type="line"/>
+      <point x="1442" y="1079" type="line"/>
+      <point x="1516" y="1460" type="line"/>
+      <point x="1384" y="1460" type="line"/>
+      <point x="1317" y="1115" type="line"/>
+      <point x="782" y="654" type="line"/>
+      <point x="822" y="654" type="line"/>
+      <point x="467" y="1119" type="line"/>
+      <point x="533" y="1460" type="line"/>
+      <point x="413" y="1460" type="line"/>
+      <point x="339" y="1079" type="line"/>
+    </contour>
+    <contour>
+      <point x="618" y="0" type="line"/>
+      <point x="744" y="0" type="line"/>
+      <point x="869" y="644" type="line"/>
+      <point x="743" y="644" type="line"/>
+    </contour>
+    <contour>
+      <point x="951" y="1893" type="line"/>
+      <point x="751" y="1893" type="line"/>
+      <point x="586" y="1765" type="line"/>
+      <point x="562" y="1643" type="line"/>
+      <point x="652" y="1643" type="line"/>
+      <point x="670" y="1734" type="line"/>
+      <point x="772" y="1805" type="line"/>
+      <point x="893" y="1805" type="line"/>
+      <point x="1097" y="1643" type="line"/>
+      <point x="1297" y="1643" type="line"/>
+      <point x="1462" y="1771" type="line"/>
+      <point x="1486" y="1893" type="line"/>
+      <point x="1396" y="1893" type="line"/>
+      <point x="1378" y="1802" type="line"/>
+      <point x="1276" y="1731" type="line"/>
+      <point x="1155" y="1731" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

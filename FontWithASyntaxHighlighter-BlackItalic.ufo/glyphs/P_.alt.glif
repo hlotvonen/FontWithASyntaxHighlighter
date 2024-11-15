@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P.alt" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="247" y="482" type="line"/>
+      <point x="822" y="482" type="line"/>
+      <point x="1218" y="799" type="line"/>
+      <point x="1285" y="1143" type="line"/>
+      <point x="1002" y="1460" type="line"/>
+      <point x="437" y="1460" type="line"/>
+      <point x="378" y="1159" type="line"/>
+      <point x="823" y="1159" type="line"/>
+      <point x="938" y="1029" type="line"/>
+      <point x="915" y="913" type="line"/>
+      <point x="719" y="723" type="line"/>
+      <point x="294" y="723" type="line"/>
+    </contour>
+    <contour>
+      <point x="22" y="0" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="643" y="1460" type="line"/>
+      <point x="306" y="1460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.0</string>
+          <integer>0</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/25 15:43:49</string>
+    </dict>
+  </lib>
+</glyph>

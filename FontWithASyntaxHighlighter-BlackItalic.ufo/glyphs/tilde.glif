@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="1240"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="814" y="1613" type="line"/>
+      <point x="526" y="1613" type="line"/>
+      <point x="337" y="1430" type="line"/>
+      <point x="303" y="1257" type="line"/>
+      <point x="506" y="1257" type="line"/>
+      <point x="526" y="1358" type="line"/>
+      <point x="604" y="1450" type="line"/>
+      <point x="672" y="1450" type="line"/>
+      <point x="774" y="1257" type="line"/>
+      <point x="1062" y="1257" type="line"/>
+      <point x="1251" y="1440" type="line"/>
+      <point x="1285" y="1613" type="line"/>
+      <point x="1082" y="1613" type="line"/>
+      <point x="1060" y="1502" type="line"/>
+      <point x="984" y="1420" type="line"/>
+      <point x="916" y="1420" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:02</string>
+    </dict>
+  </lib>
+</glyph>

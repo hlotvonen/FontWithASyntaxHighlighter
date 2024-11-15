@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcroat.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="15" y="594" type="line"/>
+      <point x="820" y="594" type="line"/>
+      <point x="820" y="867" type="line"/>
+      <point x="15" y="867" type="line"/>
+    </contour>
+    <contour>
+      <point x="305" y="0" type="line"/>
+      <point x="1032" y="0" type="line"/>
+      <point x="1472" y="539" type="line"/>
+      <point x="1472" y="943" type="line"/>
+      <point x="1032" y="1460" type="line"/>
+      <point x="305" y="1460" type="line"/>
+      <point x="275" y="1159" type="line"/>
+      <point x="865" y="1159" type="line"/>
+      <point x="1147" y="821" type="line"/>
+      <point x="1147" y="662" type="line"/>
+      <point x="865" y="301" type="line"/>
+      <point x="275" y="301" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="498" y="1460" type="line"/>
+      <point x="169" y="1460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

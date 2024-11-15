@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="573" y="0" type="line"/>
+      <point x="898" y="0" type="line"/>
+      <point x="898" y="867" type="line"/>
+      <point x="713" y="1082" type="line"/>
+      <point x="157" y="1082" type="line"/>
+      <point x="127" y="781" type="line"/>
+      <point x="632" y="781" type="line"/>
+      <point x="573" y="836" type="line"/>
+    </contour>
+    <contour>
+      <point x="252.46" y="1227.184" type="line"/>
+      <point x="444.954" y="1436.533" type="line"/>
+      <point x="252.46" y="1644.885" type="line"/>
+      <point x="59.083" y="1436.533" type="line"/>
+    </contour>
+    <contour>
+      <point x="813.46" y="1227.184" type="line"/>
+      <point x="1005.954" y="1436.533" type="line"/>
+      <point x="813.46" y="1644.885" type="line"/>
+      <point x="620.083" y="1436.533" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

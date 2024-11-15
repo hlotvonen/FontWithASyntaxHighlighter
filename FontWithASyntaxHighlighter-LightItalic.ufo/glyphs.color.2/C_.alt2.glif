@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C.alt2" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="413" y="0" type="line"/>
+      <point x="973" y="0" type="line"/>
+      <point x="1014" y="110" type="line"/>
+      <point x="499" y="110" type="line"/>
+      <point x="269" y="565" type="line"/>
+      <point x="331" y="885" type="line"/>
+      <point x="760" y="1350" type="line"/>
+      <point x="1255" y="1350" type="line"/>
+      <point x="1257" y="1460" type="line"/>
+      <point x="697" y="1460" type="line"/>
+      <point x="214" y="933" type="line"/>
+      <point x="137" y="537" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/26 08:52:38</string>
+    </dict>
+  </lib>
+</glyph>

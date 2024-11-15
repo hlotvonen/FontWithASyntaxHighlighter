@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downArrow.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="722" y="218" type="line"/>
+      <point x="1326" y="721" type="line"/>
+      <point x="1261" y="802" type="line"/>
+      <point x="723" y="350" type="line"/>
+      <point x="774" y="350" type="line"/>
+      <point x="412" y="802" type="line"/>
+      <point x="315" y="721" type="line"/>
+    </contour>
+    <contour>
+      <point x="804" y="333" type="line"/>
+      <point x="977" y="1226" type="line"/>
+      <point x="859" y="1226" type="line"/>
+      <point x="686" y="333" type="line"/>
+    </contour>
+    <contour>
+      <point x="602" y="412" type="line"/>
+      <point x="747" y="347" type="line"/>
+      <point x="918" y="413" type="line"/>
+      <point x="772" y="474" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

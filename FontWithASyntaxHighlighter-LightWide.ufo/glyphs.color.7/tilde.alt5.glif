@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="691" y="1577" type="line"/>
+      <point x="503" y="1577" type="line"/>
+      <point x="323" y="1419" type="line"/>
+      <point x="323" y="1267" type="line"/>
+      <point x="413" y="1267" type="line"/>
+      <point x="413" y="1378" type="line"/>
+      <point x="541" y="1489" type="line"/>
+      <point x="642" y="1489" type="line"/>
+      <point x="874" y="1267" type="line"/>
+      <point x="1062" y="1267" type="line"/>
+      <point x="1242" y="1425" type="line"/>
+      <point x="1242" y="1577" type="line"/>
+      <point x="1152" y="1577" type="line"/>
+      <point x="1152" y="1466" type="line"/>
+      <point x="1024" y="1355" type="line"/>
+      <point x="923" y="1355" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

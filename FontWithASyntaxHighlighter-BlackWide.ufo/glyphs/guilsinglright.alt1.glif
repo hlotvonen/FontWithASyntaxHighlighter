@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="475" y="956" type="line"/>
+      <point x="871" y="388" type="line"/>
+      <point x="1135" y="543" type="line"/>
+      <point x="759" y="1106" type="line"/>
+    </contour>
+    <contour>
+      <point x="758" y="-24" type="line"/>
+      <point x="1135" y="543" type="line"/>
+      <point x="869" y="676" type="line"/>
+      <point x="475" y="124" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

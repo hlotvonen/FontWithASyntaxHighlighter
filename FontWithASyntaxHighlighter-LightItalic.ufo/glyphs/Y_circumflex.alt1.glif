@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ycircumflex.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="574" y="589" type="line"/>
+      <point x="700" y="589" type="line"/>
+      <point x="1171" y="1104" type="line"/>
+      <point x="1240" y="1460" type="line"/>
+      <point x="1109" y="1460" type="line"/>
+      <point x="1046" y="1137" type="line"/>
+      <point x="627" y="679" type="line"/>
+      <point x="675" y="679" type="line"/>
+      <point x="437" y="1136" type="line"/>
+      <point x="500" y="1460" type="line"/>
+      <point x="374" y="1460" type="line"/>
+      <point x="305" y="1104" type="line"/>
+    </contour>
+    <contour>
+      <point x="460" y="0" type="line"/>
+      <point x="586" y="0" type="line"/>
+      <point x="716" y="669" type="line"/>
+      <point x="590" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="522" y="1650" type="line"/>
+      <point x="653" y="1650" type="line"/>
+      <point x="911" y="1854" type="line"/>
+      <point x="855" y="1854" type="line"/>
+      <point x="1035" y="1650" type="line"/>
+      <point x="1166" y="1650" type="line"/>
+      <point x="947" y="1883" type="line"/>
+      <point x="831" y="1883" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

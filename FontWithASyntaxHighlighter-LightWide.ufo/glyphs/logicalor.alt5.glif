@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalor.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="164" y="1225" type="line"/>
+      <point x="761" y="225" type="line"/>
+      <point x="809" y="225" type="line"/>
+      <point x="1392" y="1225" type="line"/>
+      <point x="1268" y="1225" type="line"/>
+      <point x="800" y="407" type="line"/>
+      <point x="783" y="407" type="line"/>
+      <point x="298" y="1225" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

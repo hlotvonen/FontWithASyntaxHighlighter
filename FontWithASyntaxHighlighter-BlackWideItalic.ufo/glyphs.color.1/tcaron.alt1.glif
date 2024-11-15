@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="609" y="-1" type="line"/>
+      <point x="1242" y="-1" type="line"/>
+      <point x="1296" y="280" type="line"/>
+      <point x="833" y="280" type="line"/>
+      <point x="743" y="432" type="line"/>
+      <point x="920" y="1341" type="line"/>
+      <point x="583" y="1281" type="line"/>
+      <point x="396" y="318" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="695" type="line"/>
+      <point x="1377" y="695" type="line"/>
+      <point x="1427" y="953" type="line"/>
+      <point x="219" y="953" type="line"/>
+    </contour>
+    <contour>
+      <point x="1360" y="1242" type="line"/>
+      <point x="1627" y="1242" type="line"/>
+      <point x="1745" y="1638" type="line"/>
+      <point x="1454" y="1638" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

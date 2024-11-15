@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fiveinferior.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="411" y="275" type="line"/>
+      <point x="364" y="-30" type="line"/>
+      <point x="506" y="-46" type="line"/>
+      <point x="532" y="-24"/>
+      <point x="572" y="-15"/>
+      <point x="609" y="-15" type="curve" smooth="yes"/>
+      <point x="691" y="-15"/>
+      <point x="717" y="-46"/>
+      <point x="717" y="-85" type="curve" smooth="yes"/>
+      <point x="717" y="-134"/>
+      <point x="676" y="-163"/>
+      <point x="606" y="-163" type="curve" smooth="yes"/>
+      <point x="552" y="-163"/>
+      <point x="509" y="-144"/>
+      <point x="499" y="-106" type="curve"/>
+      <point x="347" y="-121" type="line"/>
+      <point x="347" y="-252"/>
+      <point x="466" y="-288"/>
+      <point x="607" y="-288" type="curve" smooth="yes"/>
+      <point x="767" y="-288"/>
+      <point x="877" y="-225"/>
+      <point x="877" y="-87" type="curve" smooth="yes"/>
+      <point x="877" y="34"/>
+      <point x="791" y="83"/>
+      <point x="658" y="83" type="curve" smooth="yes"/>
+      <point x="588" y="83"/>
+      <point x="542" y="67"/>
+      <point x="499" y="46" type="curve"/>
+      <point x="508" y="14" type="line"/>
+      <point x="545" y="189" type="line"/>
+      <point x="508" y="144" type="line"/>
+      <point x="844" y="144" type="line"/>
+      <point x="844" y="275" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

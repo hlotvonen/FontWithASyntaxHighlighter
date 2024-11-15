@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etilde.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="343" y="0" type="line"/>
+      <point x="343" y="1460" type="line"/>
+      <point x="217" y="1460" type="line"/>
+      <point x="217" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1078" y="110" type="line"/>
+      <point x="302" y="110" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="1058" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="915" y="779" type="line"/>
+      <point x="302" y="779" type="line"/>
+      <point x="302" y="674" type="line"/>
+      <point x="915" y="674" type="line"/>
+    </contour>
+    <contour>
+      <point x="1038" y="1350" type="line"/>
+      <point x="1018" y="1460" type="line"/>
+      <point x="302" y="1460" type="line"/>
+      <point x="302" y="1350" type="line"/>
+    </contour>
+    <contour>
+      <point x="593" y="1893" type="line"/>
+      <point x="423" y="1893" type="line"/>
+      <point x="303" y="1765" type="line"/>
+      <point x="303" y="1643" type="line"/>
+      <point x="393" y="1643" type="line"/>
+      <point x="393" y="1734" type="line"/>
+      <point x="461" y="1805" type="line"/>
+      <point x="552" y="1805" type="line"/>
+      <point x="707" y="1643" type="line"/>
+      <point x="877" y="1643" type="line"/>
+      <point x="997" y="1771" type="line"/>
+      <point x="997" y="1893" type="line"/>
+      <point x="907" y="1893" type="line"/>
+      <point x="907" y="1802" type="line"/>
+      <point x="839" y="1731" type="line"/>
+      <point x="748" y="1731" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

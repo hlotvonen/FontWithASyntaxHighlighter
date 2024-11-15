@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gradient" format="2">
+  <advance width="1240"/>
+  <unicode hex="2207"/>
+  <outline>
+    <contour>
+      <point x="106" y="1351" type="line"/>
+      <point x="552" y="1" type="line"/>
+      <point x="690" y="1" type="line"/>
+      <point x="1135" y="1351" type="line"/>
+      <point x="1006" y="1388" type="line"/>
+      <point x="1006" y="1342" type="line"/>
+      <point x="627" y="152" type="line"/>
+      <point x="616" y="152" type="line"/>
+      <point x="238" y="1342" type="line"/>
+      <point x="238" y="1384" type="line"/>
+    </contour>
+    <contour>
+      <point x="1135" y="1461" type="line"/>
+      <point x="107" y="1461" type="line"/>
+      <point x="106" y="1351" type="line"/>
+      <point x="1135" y="1351" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:04</string>
+    </dict>
+  </lib>
+</glyph>

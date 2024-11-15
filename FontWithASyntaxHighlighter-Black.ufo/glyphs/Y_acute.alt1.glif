@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="457" y="532" type="line"/>
+      <point x="783" y="532" type="line"/>
+      <point x="1130" y="1069" type="line"/>
+      <point x="1130" y="1460" type="line"/>
+      <point x="805" y="1460" type="line"/>
+      <point x="805" y="1163" type="line"/>
+      <point x="589" y="781" type="line"/>
+      <point x="661" y="781" type="line"/>
+      <point x="445" y="1163" type="line"/>
+      <point x="445" y="1460" type="line"/>
+      <point x="110" y="1460" type="line"/>
+      <point x="110" y="1069" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="0" type="line"/>
+      <point x="784" y="0" type="line"/>
+      <point x="784" y="676" type="line"/>
+      <point x="455" y="676" type="line"/>
+    </contour>
+    <contour>
+      <point x="754" y="1619.05" type="line"/>
+      <point x="495" y="1619.05" type="line"/>
+      <point x="678" y="1877.386" type="line"/>
+      <point x="1003" y="1877.386" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

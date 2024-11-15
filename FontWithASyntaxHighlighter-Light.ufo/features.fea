@@ -1,0 +1,1282 @@
+@Css = [ one two three four five six seven eight nine zero a b c d e f g h i j k l m n o p q r s t u v w x y z hyphen period numbersign asterisk A B C D E F G H I J K L M O N P Q R S T U V W X Y Z underscore
+
+];
+
+@CssAlt = [ one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt zero.alt a.alt b.alt c.alt d.alt e.alt f.alt g.alt h.alt i.alt j.alt k.alt l.alt m.alt n.alt o.alt p.alt q.alt r.alt s.alt t.alt u.alt v.alt w.alt x.alt y.alt z.alt hyphen.alt period.alt numbersign.alt asterisk.alt A.alt B.alt C.alt D.alt E.alt F.alt G.alt H.alt I.alt J.alt K.alt L.alt M.alt O.alt N.alt P.alt Q.alt R.alt S.alt T.alt U.alt V.alt W.alt X.alt Y.alt Z.alt underscore.alt
+
+];
+
+@CssAlt2 = [ one.alt2 two.alt2 three.alt2 four.alt2 five.alt2 six.alt2 seven.alt2 eight.alt2 nine.alt2 zero.alt2 a.alt2 b.alt2 c.alt2 d.alt2 e.alt2 f.alt2 g.alt2 h.alt2 i.alt2 j.alt2 k.alt2 l.alt2 m.alt2 n.alt2 o.alt2 p.alt2 q.alt2 r.alt2 s.alt2 t.alt2 u.alt2 v.alt2 w.alt2 x.alt2 y.alt2 z.alt2 hyphen.alt2 period.alt2 numbersign.alt2 asterisk.alt2 A.alt2 B.alt2 C.alt2 D.alt2 E.alt2 F.alt2 G.alt2 H.alt2 I.alt2 J.alt2 K.alt2 L.alt2 M.alt2 O.alt2 N.alt2 P.alt2 Q.alt2 R.alt2 S.alt2 T.alt2 U.alt2 V.alt2 W.alt2 X.alt2 Y.alt2 Z.alt2 underscore.alt2
+
+];
+
+@CssAlt3 = [ one.alt3 two.alt3 three.alt3 four.alt3 five.alt3 six.alt3 seven.alt3 eight.alt3 nine.alt3 zero.alt3 a.alt3 b.alt3 c.alt3 d.alt3 e.alt3 f.alt3 g.alt3 h.alt3 i.alt3 j.alt3 k.alt3 l.alt3 m.alt3 n.alt3 o.alt3 p.alt3 q.alt3 r.alt3 s.alt3 t.alt3 u.alt3 v.alt3 w.alt3 x.alt3 y.alt3 z.alt3 hyphen.alt3 period.alt3 numbersign.alt3 asterisk.alt3 A.alt3 B.alt3 C.alt3 D.alt3 E.alt3 F.alt3 G.alt3 H.alt3 I.alt3 J.alt3 K.alt3 L.alt3 M.alt3 O.alt3 N.alt3 P.alt3 Q.alt3 R.alt3 S.alt3 T.alt3 U.alt3 V.alt3 W.alt3 X.alt3 Y.alt3 Z.alt3 underscore.alt3
+
+];
+
+@CssAlt4 = [ one.alt4 two.alt4 three.alt4 four.alt4 five.alt4 six.alt4 seven.alt4 eight.alt4 nine.alt4 zero.alt4 a.alt4 b.alt4 c.alt4 d.alt4 e.alt4 f.alt4 g.alt4 h.alt4 i.alt4 j.alt4 k.alt4 l.alt4 m.alt4 n.alt4 o.alt4 p.alt4 q.alt4 r.alt4 s.alt4 t.alt4 u.alt4 v.alt4 w.alt4 x.alt4 y.alt4 z.alt4 hyphen.alt4 period.alt4 numbersign.alt4 asterisk.alt4 A.alt4 B.alt4 C.alt4 D.alt4 E.alt4 F.alt4 G.alt4 H.alt4 I.alt4 J.alt4 K.alt4 L.alt4 M.alt4 O.alt4 N.alt4 P.alt4 Q.alt4 R.alt4 S.alt4 T.alt4 U.alt4 V.alt4 W.alt4 X.alt4 Y.alt4 Z.alt4 underscore.alt4
+];
+
+@CssAlt5 = [ one.alt5 two.alt5 three.alt5 four.alt5 five.alt5 six.alt5 seven.alt5 eight.alt5 nine.alt5 zero.alt5 a.alt5 b.alt5 c.alt5 d.alt5 e.alt5 f.alt5 g.alt5 h.alt5 i.alt5 j.alt5 k.alt5 l.alt5 m.alt5 n.alt5 o.alt5 p.alt5 q.alt5 r.alt5 s.alt5 t.alt5 u.alt5 v.alt5 w.alt5 x.alt5 y.alt5 z.alt5 hyphen.alt5 period.alt5 numbersign.alt5 asterisk.alt5 A.alt5 B.alt5 C.alt5 D.alt5 E.alt5 F.alt5 G.alt5 H.alt5 I.alt5 J.alt5 K.alt5 L.alt5 M.alt5 O.alt5 N.alt5 P.alt5 Q.alt5 R.alt5 S.alt5 T.alt5 U.alt5 V.alt5 W.alt5 X.alt5 Y.alt5 Z.alt5 underscore.alt5
+
+];
+
+@CssParam = [ a b c d e f g h i j k l m n o p q r s t u v w x y z hyphen A B C D E F G H I J K L M O N P Q R S T U V W X Y Z
+
+];
+
+@CssParamAlt4 = [ a.alt4 b.alt4 c.alt4 d.alt4 e.alt4 f.alt4 g.alt4 h.alt4 i.alt4 j.alt4 k.alt4 l.alt4 m.alt4 n.alt4 o.alt4 p.alt4 q.alt4 r.alt4 s.alt4 t.alt4 u.alt4 v.alt4 w.alt4 x.alt4 y.alt4 z.alt4 hyphen.alt4 A.alt4 B.alt4 C.alt4 D.alt4 E.alt4 F.alt4 G.alt4 H.alt4 I.alt4 J.alt4 K.alt4 L.alt4 M.alt4 O.alt4 N.alt4 P.alt4 Q.alt4 R.alt4 S.alt4 T.alt4 U.alt4 V.alt4 W.alt4 X.alt4 Y.alt4 Z.alt4
+
+];
+
+# automatic
+@All = [ A Aacute Abreve Acircumflex Adieresis Adotbelow Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Edotbelow Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Nhookleft Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Odotbelow Ograve Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ymacron Ytilde Z Zacute Zcaron Zdotaccent A.alt B.alt C.alt D.alt E.alt F.alt G.alt H.alt I.alt J.alt K.alt L.alt M.alt N.alt O.alt P.alt Q.alt R.alt S.alt T.alt U.alt V.alt W.alt X.alt Y.alt Z.alt A.alt1 Aacute.alt1 Abreve.alt1 Acircumflex.alt1 Adieresis.alt1 Adotbelow.alt1 Agrave.alt1 Amacron.alt1 Aogonek.alt1 Aring.alt1 Atilde.alt1 AE.alt1 AEacute.alt1 B.alt1 C.alt1 Cacute.alt1 Ccaron.alt1 Ccedilla.alt1 Ccircumflex.alt1 Cdotaccent.alt1 D.alt1 Eth.alt1 Dcaron.alt1 Dcroat.alt1 E.alt1 Eacute.alt1 Ebreve.alt1 Ecaron.alt1 Ecircumflex.alt1 Edieresis.alt1 Edotaccent.alt1 Edotbelow.alt1 Egrave.alt1 Emacron.alt1 Eogonek.alt1 Etilde.alt1 Schwa.alt1 F.alt1 G.alt1 Gbreve.alt1 Gcaron.alt1 Gcircumflex.alt1 Gcommaaccent.alt1 Gdotaccent.alt1 H.alt1 Hbar.alt1 Hcircumflex.alt1 I.alt1 IJ.alt1 Iacute.alt1 Ibreve.alt1 Icircumflex.alt1 Idieresis.alt1 Idotaccent.alt1 Idotbelow.alt1 Igrave.alt1 Imacron.alt1 Iogonek.alt1 Itilde.alt1 J.alt1 Jcircumflex.alt1 K.alt1 Kcommaaccent.alt1 L.alt1 Lacute.alt1 Lcaron.alt1 Lcommaaccent.alt1 Ldot.alt1 Lslash.alt1 M.alt1 N.alt1 Nacute.alt1 Ncaron.alt1 Ncommaaccent.alt1 Nhookleft.alt1 Ntilde.alt1 Eng.alt1 O.alt1 Oacute.alt1 Obreve.alt1 Ocircumflex.alt1 Odieresis.alt1 Odotbelow.alt1 Ograve.alt1 Ohungarumlaut.alt1 Omacron.alt1 Oogonek.alt1 Oslash.alt1 Oslashacute.alt1 Otilde.alt1 OE.alt1 P.alt1 Thorn.alt1 Q.alt1 R.alt1 Racute.alt1 Rcaron.alt1 Rcommaaccent.alt1 S.alt1 Sacute.alt1 Scaron.alt1 Scedilla.alt1 Scircumflex.alt1 Scommaaccent.alt1 Germandbls.alt1 T.alt1 Tbar.alt1 Tcaron.alt1 Tcedilla.alt1 Tcommaaccent.alt1 U.alt1 Uacute.alt1 Ubreve.alt1 Ucircumflex.alt1 Udieresis.alt1 Udotbelow.alt1 Ugrave.alt1 Uhungarumlaut.alt1 Umacron.alt1 Uogonek.alt1 Uring.alt1 Utilde.alt1 V.alt1 W.alt1 Wacute.alt1 Wcircumflex.alt1 Wdieresis.alt1 Wgrave.alt1 X.alt1 Y.alt1 Yacute.alt1 Ycircumflex.alt1 Ydieresis.alt1 Ygrave.alt1 Ymacron.alt1 Ytilde.alt1 Z.alt1 Zacute.alt1 Zcaron.alt1 Zdotaccent.alt1 A.alt2 B.alt2 C.alt2 D.alt2 E.alt2 F.alt2 G.alt2 H.alt2 I.alt2 J.alt2 K.alt2 L.alt2 M.alt2 N.alt2 O.alt2 P.alt2 Q.alt2 R.alt2 S.alt2 T.alt2 U.alt2 V.alt2 W.alt2 X.alt2 Y.alt2 Z.alt2 A.alt3 B.alt3 C.alt3 D.alt3 E.alt3 F.alt3 G.alt3 H.alt3 I.alt3 J.alt3 K.alt3 L.alt3 M.alt3 N.alt3 O.alt3 P.alt3 Q.alt3 R.alt3 S.alt3 T.alt3 U.alt3 V.alt3 W.alt3 X.alt3 Y.alt3 Z.alt3 A.alt4 B.alt4 C.alt4 D.alt4 E.alt4 F.alt4 G.alt4 H.alt4 I.alt4 J.alt4 K.alt4 L.alt4 M.alt4 N.alt4 O.alt4 P.alt4 Q.alt4 R.alt4 S.alt4 T.alt4 U.alt4 V.alt4 W.alt4 X.alt4 Y.alt4 Z.alt4 a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d eth dcaron dcroat e eacute ebreve ecaron ecircumflex edieresis edotaccent edotbelow egrave emacron eogonek etilde schwa f g gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute ibreve icircumflex idieresis idotbelow igrave ij imacron iogonek j jdotless jcircumflex k kcommaaccent kgreenlandic l lacute lcaron lcommaaccent ldot lslash m n nacute ncaron ncommaaccent nhookleft ntilde eng o oacute obreve ocircumflex odieresis odotbelow ograve ohungarumlaut omacron oogonek oslash oslashacute otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent germandbls t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucircumflex udieresis udotbelow ugrave uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave ymacron ytilde z zacute zcaron zdotaccent a.alt b.alt c.alt d.alt e.alt f.alt g.alt h.alt i.alt j.alt k.alt l.alt m.alt n.alt o.alt p.alt q.alt r.alt s.alt t.alt u.alt v.alt w.alt x.alt y.alt z.alt a.alt1 aacute.alt1 abreve.alt1 acircumflex.alt1 adieresis.alt1 agrave.alt1 amacron.alt1 aogonek.alt1 aring.alt1 atilde.alt1 ae.alt1 aeacute.alt1 b.alt1 c.alt1 cacute.alt1 ccaron.alt1 ccedilla.alt1 ccircumflex.alt1 cdotaccent.alt1 d.alt1 eth.alt1 dcaron.alt1 dcroat.alt1 e.alt1 eacute.alt1 ebreve.alt1 ecaron.alt1 ecircumflex.alt1 edieresis.alt1 edotaccent.alt1 edotbelow.alt1 egrave.alt1 emacron.alt1 eogonek.alt1 etilde.alt1 schwa.alt1 f.alt1 g.alt1 gbreve.alt1 gcaron.alt1 gcircumflex.alt1 gcommaaccent.alt1 gdotaccent.alt1 h.alt1 hbar.alt1 hcircumflex.alt1 i.alt1 idotless.alt1 iacute.alt1 ibreve.alt1 icircumflex.alt1 idieresis.alt1 idotbelow.alt1 igrave.alt1 ij.alt1 imacron.alt1 iogonek.alt1 j.alt1 jdotless.alt1 jcircumflex.alt1 k.alt1 kcommaaccent.alt1 kgreenlandic.alt1 l.alt1 lacute.alt1 lcaron.alt1 lcommaaccent.alt1 ldot.alt1 lslash.alt1 m.alt1 n.alt1 nacute.alt1 ncaron.alt1 ncommaaccent.alt1 nhookleft.alt1 ntilde.alt1 eng.alt1 o.alt1 oacute.alt1 obreve.alt1 ocircumflex.alt1 odieresis.alt1 odotbelow.alt1 ograve.alt1 ohungarumlaut.alt1 omacron.alt1 oogonek.alt1 oslash.alt1 oslashacute.alt1 otilde.alt1 oe.alt1 p.alt1 thorn.alt1 q.alt1 r.alt1 racute.alt1 rcaron.alt1 rcommaaccent.alt1 s.alt1 sacute.alt1 scaron.alt1 scedilla.alt1 scircumflex.alt1 scommaaccent.alt1 germandbls.alt1 t.alt1 tbar.alt1 tcaron.alt1 tcedilla.alt1 tcommaaccent.alt1 u.alt1 uacute.alt1 ubreve.alt1 ucircumflex.alt1 udieresis.alt1 udotbelow.alt1 ugrave.alt1 uhungarumlaut.alt1 umacron.alt1 uogonek.alt1 uring.alt1 utilde.alt1 v.alt1 w.alt1 wacute.alt1 wcircumflex.alt1 wdieresis.alt1 wgrave.alt1 x.alt1 y.alt1 yacute.alt1 ycircumflex.alt1 ydieresis.alt1 ygrave.alt1 ymacron.alt1 ytilde.alt1 z.alt1 zacute.alt1 zcaron.alt1 zdotaccent.alt1 a.alt2 b.alt2 c.alt2 d.alt2 e.alt2 f.alt2 g.alt2 h.alt2 i.alt2 j.alt2 k.alt2 l.alt2 m.alt2 n.alt2 o.alt2 p.alt2 q.alt2 r.alt2 s.alt2 t.alt2 u.alt2 v.alt2 w.alt2 x.alt2 y.alt2 z.alt2 a.alt3 b.alt3 c.alt3 d.alt3 e.alt3 f.alt3 g.alt3 h.alt3 i.alt3 j.alt3 k.alt3 l.alt3 m.alt3 n.alt3 o.alt3 p.alt3 q.alt3 r.alt3 s.alt3 t.alt3 u.alt3 v.alt3 w.alt3 x.alt3 y.alt3 z.alt3 a.alt4 b.alt4 c.alt4 d.alt4 e.alt4 f.alt4 g.alt4 h.alt4 i.alt4 j.alt4 k.alt4 l.alt4 m.alt4 n.alt4 o.alt4 p.alt4 q.alt4 r.alt4 s.alt4 t.alt4 u.alt4 v.alt4 w.alt4 x.alt4 y.alt4 z.alt4 ordfeminine ordmasculine ordfeminine.alt1 ordmasculine.alt1 Omega Omega.alt1 zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt zero.alt1 one.alt1 two.alt1 three.alt1 four.alt1 five.alt1 six.alt1 seven.alt1 eight.alt1 nine.alt1 zero.alt2 one.alt2 two.alt2 three.alt2 four.alt2 five.alt2 six.alt2 seven.alt2 eight.alt2 nine.alt2 zero.alt3 one.alt3 two.alt3 three.alt3 four.alt3 five.alt3 six.alt3 seven.alt3 eight.alt3 nine.alt3 zero.alt4 one.alt4 two.alt4 three.alt4 four.alt4 five.alt4 six.alt4 seven.alt4 eight.alt4 nine.alt4 zero.alt5 one.alt5 two.alt5 three.alt5 four.alt5 five.alt5 six.alt5 seven.alt5 eight.alt5 nine.alt5 onehalf onethird twothirds onequarter threequarters oneeighth threeeighths fiveeighths seveneighths onehalf.alt1 onethird.alt1 twothirds.alt1 onequarter.alt1 threequarters.alt1 oneeighth.alt1 threeeighths.alt1 fiveeighths.alt1 seveneighths.alt1 zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior zeroinferior.alt1 oneinferior.alt1 twoinferior.alt1 threeinferior.alt1 fourinferior.alt1 fiveinferior.alt1 sixinferior.alt1 seveninferior.alt1 eightinferior.alt1 nineinferior.alt1 zerosuperior.alt1 onesuperior.alt1 twosuperior.alt1 threesuperior.alt1 foursuperior.alt1 fivesuperior.alt1 sixsuperior.alt1 sevensuperior.alt1 eightsuperior.alt1 ninesuperior.alt1 space space.alt1 period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash triangularbullet period.alt asterisk.alt numbersign.alt period.alt1 comma.alt1 colon.alt1 semicolon.alt1 ellipsis.alt1 exclam.alt1 exclamdown.alt1 question.alt1 questiondown.alt1 periodcentered.alt1 bullet.alt1 asterisk.alt1 numbersign.alt1 slash.alt1 backslash.alt1 triangularbullet.alt1 period.alt2 asterisk.alt2 numbersign.alt2 period.alt3 asterisk.alt3 numbersign.alt3 period.alt4 asterisk.alt4 numbersign.alt4 hyphen softhyphen endash emdash underscore hyphen.alt underscore.alt hyphen.alt1 softhyphen.alt1 endash.alt1 emdash.alt1 underscore.alt1 hyphen.alt2 underscore.alt2 hyphen.alt3 underscore.alt3 hyphen.alt4 underscore.alt4 parenleft parenright braceleft braceright bracketleft bracketright parenleft.alt1 parenright.alt1 braceleft.alt1 braceright.alt1 bracketleft.alt1 bracketright.alt1 quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle quotesinglbase.alt1 quotedblbase.alt1 quotedblleft.alt1 quotedblright.alt1 quoteleft.alt1 quoteright.alt1 guillemetleft.alt1 guillemetright.alt1 guilsinglleft.alt1 guilsinglright.alt1 quotedbl.alt1 quotesingle.alt1 florin florin.alt1 brick brick.alt1 at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger literSign daggerdbl numero versicle at.alt1 ampersand.alt1 paragraph.alt1 section.alt1 copyright.alt1 registered.alt1 trademark.alt1 degree.alt1 bar.alt1 brokenbar.alt1 dagger.alt1 literSign.alt1 daggerdbl.alt1 numero.alt1 versicle.alt1 bitcoin cent colonsign currency dollar euro liraTurkish peso ruble sterling won yen bitcoin.alt1 cent.alt1 colonsign.alt1 currency.alt1 dollar.alt1 euro.alt1 liraTurkish.alt1 peso.alt1 ruble.alt1 sterling.alt1 won.alt1 yen.alt1 angle coproduct element equivalence existential gradient plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity logicaland logicalor integral increment product summation radical partialdiff micro percent perthousand proportion subset therefore universal angle.alt1 coproduct.alt1 element.alt1 equivalence.alt1 existential.alt1 gradient.alt1 plus.alt1 minus.alt1 multiply.alt1 divide.alt1 equal.alt1 notequal.alt1 greater.alt1 less.alt1 greaterequal.alt1 lessequal.alt1 plusminus.alt1 approxequal.alt1 asciitilde.alt1 logicalnot.alt1 asciicircum.alt1 infinity.alt1 logicaland.alt1 logicalor.alt1 integral.alt1 increment.alt1 product.alt1 summation.alt1 radical.alt1 partialdiff.alt1 micro.alt1 percent.alt1 perthousand.alt1 proportion.alt1 subset.alt1 therefore.alt1 universal.alt1 upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow leftHookArrow rightHookArrow rightTipDownArrow rightTipUpArrow leftArrowTipDown leftArrowTipUp anticlockwiseOpenCircleArrow clockwiseOpenCircleArrow rightOverLeftArrow leftAndRightArrow upArrow.alt1 northEastArrow.alt1 rightArrow.alt1 southEastArrow.alt1 downArrow.alt1 southWestArrow.alt1 leftArrow.alt1 northWestArrow.alt1 leftRightArrow.alt1 upDownArrow.alt1 leftHookArrow.alt1 rightHookArrow.alt1 rightTipDownArrow.alt1 rightTipUpArrow.alt1 leftArrowTipDown.alt1 leftArrowTipUp.alt1 anticlockwiseOpenCircleArrow.alt1 clockwiseOpenCircleArrow.alt1 rightOverLeftArrow.alt1 leftAndRightArrow.alt1 lozenge upBlackTriangle rightBlackTriangle downBlackTriangle leftBlackTriangle upBlackSmallTriangle rightBlackSmallTriangle downBlackSmallTriangle leftBlackSmallTriangle lozenge.alt1 upBlackTriangle.alt1 rightBlackTriangle.alt1 downBlackTriangle.alt1 leftBlackTriangle.alt1 upBlackSmallTriangle.alt1 rightBlackSmallTriangle.alt1 downBlackSmallTriangle.alt1 leftBlackSmallTriangle.alt1 dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb dotbelowcomb commaaccentcomb cedillacomb ogonekcomb dieresiscomb.alt1 dotaccentcomb.alt1 gravecomb.alt1 acutecomb.alt1 hungarumlautcomb.alt1 circumflexcomb.alt1 caroncomb.alt1 brevecomb.alt1 ringcomb.alt1 tildecomb.alt1 macroncomb.alt1 dotbelowcomb.alt1 commaaccentcomb.alt1 cedillacomb.alt1 ogonekcomb.alt1 dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek dieresis.alt1 dotaccent.alt1 grave.alt1 acute.alt1 hungarumlaut.alt1 circumflex.alt1 caron.alt1 breve.alt1 ring.alt1 tilde.alt1 macron.alt1 cedilla.alt1 ogonek.alt1 bowl bowl.alt1
+];
+
+@AllAlt1 = [ A.alt1 Aacute.alt1 Abreve.alt1 Acircumflex.alt1 Adieresis.alt1 Adotbelow.alt1 Agrave.alt1 Amacron.alt1 Aogonek.alt1 Aring.alt1 Atilde.alt1 AE.alt1 AEacute.alt1 B.alt1 C.alt1 Cacute.alt1 Ccaron.alt1 Ccedilla.alt1 Ccircumflex.alt1 Cdotaccent.alt1 D.alt1 Eth.alt1 Dcaron.alt1 Dcroat.alt1 E.alt1 Eacute.alt1 Ebreve.alt1 Ecaron.alt1 Ecircumflex.alt1 Edieresis.alt1 Edotaccent.alt1 Edotbelow.alt1 Egrave.alt1 Emacron.alt1 Eogonek.alt1 Etilde.alt1 Schwa.alt1 F.alt1 G.alt1 Gbreve.alt1 Gcaron.alt1 Gcircumflex.alt1 Gcommaaccent.alt1 Gdotaccent.alt1 H.alt1 Hbar.alt1 Hcircumflex.alt1 I.alt1 IJ.alt1 Iacute.alt1 Ibreve.alt1 Icircumflex.alt1 Idieresis.alt1 Idotaccent.alt1 Idotbelow.alt1 Igrave.alt1 Imacron.alt1 Iogonek.alt1 Itilde.alt1 J.alt1 Jcircumflex.alt1 K.alt1 Kcommaaccent.alt1 L.alt1 Lacute.alt1 Lcaron.alt1 Lcommaaccent.alt1 Ldot.alt1 Lslash.alt1 M.alt1 N.alt1 Nacute.alt1 Ncaron.alt1 Ncommaaccent.alt1 Nhookleft.alt1 Ntilde.alt1 Eng.alt1 O.alt1 Oacute.alt1 Obreve.alt1 Ocircumflex.alt1 Odieresis.alt1 Odotbelow.alt1 Ograve.alt1 Ohungarumlaut.alt1 Omacron.alt1 Oogonek.alt1 Oslash.alt1 Oslashacute.alt1 Otilde.alt1 OE.alt1 P.alt1 Thorn.alt1 Q.alt1 R.alt1 Racute.alt1 Rcaron.alt1 Rcommaaccent.alt1 S.alt1 Sacute.alt1 Scaron.alt1 Scedilla.alt1 Scircumflex.alt1 Scommaaccent.alt1 Germandbls.alt1 T.alt1 Tbar.alt1 Tcaron.alt1 Tcedilla.alt1 Tcommaaccent.alt1 U.alt1 Uacute.alt1 Ubreve.alt1 Ucircumflex.alt1 Udieresis.alt1 Udotbelow.alt1 Ugrave.alt1 Uhungarumlaut.alt1 Umacron.alt1 Uogonek.alt1 Uring.alt1 Utilde.alt1 V.alt1 W.alt1 Wacute.alt1 Wcircumflex.alt1 Wdieresis.alt1 Wgrave.alt1 X.alt1 Y.alt1 Yacute.alt1 Ycircumflex.alt1 Ydieresis.alt1 Ygrave.alt1 Ymacron.alt1 Ytilde.alt1 Z.alt1 Zacute.alt1 Zcaron.alt1 Zdotaccent.alt1 A.alt1 B.alt1 C.alt1 D.alt1 E.alt1 F.alt1 G.alt1 H.alt1 I.alt1 J.alt1 K.alt1 L.alt1 M.alt1 N.alt1 O.alt1 P.alt1 Q.alt1 R.alt1 S.alt1 T.alt1 U.alt1 V.alt1 W.alt1 X.alt1 Y.alt1 Z.alt1 A.alt1 Aacute.alt1 Abreve.alt1 Acircumflex.alt1 Adieresis.alt1 Adotbelow.alt1 Agrave.alt1 Amacron.alt1 Aogonek.alt1 Aring.alt1 Atilde.alt1 AE.alt1 AEacute.alt1 B.alt1 C.alt1 Cacute.alt1 Ccaron.alt1 Ccedilla.alt1 Ccircumflex.alt1 Cdotaccent.alt1 D.alt1 Eth.alt1 Dcaron.alt1 Dcroat.alt1 E.alt1 Eacute.alt1 Ebreve.alt1 Ecaron.alt1 Ecircumflex.alt1 Edieresis.alt1 Edotaccent.alt1 Edotbelow.alt1 Egrave.alt1 Emacron.alt1 Eogonek.alt1 Etilde.alt1 Schwa.alt1 F.alt1 G.alt1 Gbreve.alt1 Gcaron.alt1 Gcircumflex.alt1 Gcommaaccent.alt1 Gdotaccent.alt1 H.alt1 Hbar.alt1 Hcircumflex.alt1 I.alt1 IJ.alt1 Iacute.alt1 Ibreve.alt1 Icircumflex.alt1 Idieresis.alt1 Idotaccent.alt1 Idotbelow.alt1 Igrave.alt1 Imacron.alt1 Iogonek.alt1 Itilde.alt1 J.alt1 Jcircumflex.alt1 K.alt1 Kcommaaccent.alt1 L.alt1 Lacute.alt1 Lcaron.alt1 Lcommaaccent.alt1 Ldot.alt1 Lslash.alt1 M.alt1 N.alt1 Nacute.alt1 Ncaron.alt1 Ncommaaccent.alt1 Nhookleft.alt1 Ntilde.alt1 Eng.alt1 O.alt1 Oacute.alt1 Obreve.alt1 Ocircumflex.alt1 Odieresis.alt1 Odotbelow.alt1 Ograve.alt1 Ohungarumlaut.alt1 Omacron.alt1 Oogonek.alt1 Oslash.alt1 Oslashacute.alt1 Otilde.alt1 OE.alt1 P.alt1 Thorn.alt1 Q.alt1 R.alt1 Racute.alt1 Rcaron.alt1 Rcommaaccent.alt1 S.alt1 Sacute.alt1 Scaron.alt1 Scedilla.alt1 Scircumflex.alt1 Scommaaccent.alt1 Germandbls.alt1 T.alt1 Tbar.alt1 Tcaron.alt1 Tcedilla.alt1 Tcommaaccent.alt1 U.alt1 Uacute.alt1 Ubreve.alt1 Ucircumflex.alt1 Udieresis.alt1 Udotbelow.alt1 Ugrave.alt1 Uhungarumlaut.alt1 Umacron.alt1 Uogonek.alt1 Uring.alt1 Utilde.alt1 V.alt1 W.alt1 Wacute.alt1 Wcircumflex.alt1 Wdieresis.alt1 Wgrave.alt1 X.alt1 Y.alt1 Yacute.alt1 Ycircumflex.alt1 Ydieresis.alt1 Ygrave.alt1 Ymacron.alt1 Ytilde.alt1 Z.alt1 Zacute.alt1 Zcaron.alt1 Zdotaccent.alt1 A.alt1 B.alt1 C.alt1 D.alt1 E.alt1 F.alt1 G.alt1 H.alt1 I.alt1 J.alt1 K.alt1 L.alt1 M.alt1 N.alt1 O.alt1 P.alt1 Q.alt1 R.alt1 S.alt1 T.alt1 U.alt1 V.alt1 W.alt1 X.alt1 Y.alt1 Z.alt1 A.alt1 B.alt1 C.alt1 D.alt1 E.alt1 F.alt1 G.alt1 H.alt1 I.alt1 J.alt1 K.alt1 L.alt1 M.alt1 N.alt1 O.alt1 P.alt1 Q.alt1 R.alt1 S.alt1 T.alt1 U.alt1 V.alt1 W.alt1 X.alt1 Y.alt1 Z.alt1 A.alt1 B.alt1 C.alt1 D.alt1 E.alt1 F.alt1 G.alt1 H.alt1 I.alt1 J.alt1 K.alt1 L.alt1 M.alt1 N.alt1 O.alt1 P.alt1 Q.alt1 R.alt1 S.alt1 T.alt1 U.alt1 V.alt1 W.alt1 X.alt1 Y.alt1 Z.alt1 a.alt1 aacute.alt1 abreve.alt1 acircumflex.alt1 adieresis.alt1 agrave.alt1 amacron.alt1 aogonek.alt1 aring.alt1 atilde.alt1 ae.alt1 aeacute.alt1 b.alt1 c.alt1 cacute.alt1 ccaron.alt1 ccedilla.alt1 ccircumflex.alt1 cdotaccent.alt1 d.alt1 eth.alt1 dcaron.alt1 dcroat.alt1 e.alt1 eacute.alt1 ebreve.alt1 ecaron.alt1 ecircumflex.alt1 edieresis.alt1 edotaccent.alt1 edotbelow.alt1 egrave.alt1 emacron.alt1 eogonek.alt1 etilde.alt1 schwa.alt1 f.alt1 g.alt1 gbreve.alt1 gcaron.alt1 gcircumflex.alt1 gcommaaccent.alt1 gdotaccent.alt1 h.alt1 hbar.alt1 hcircumflex.alt1 i.alt1 idotless.alt1 iacute.alt1 ibreve.alt1 icircumflex.alt1 idieresis.alt1 idotbelow.alt1 igrave.alt1 ij.alt1 imacron.alt1 iogonek.alt1 j.alt1 jdotless.alt1 jcircumflex.alt1 k.alt1 kcommaaccent.alt1 kgreenlandic.alt1 l.alt1 lacute.alt1 lcaron.alt1 lcommaaccent.alt1 ldot.alt1 lslash.alt1 m.alt1 n.alt1 nacute.alt1 ncaron.alt1 ncommaaccent.alt1 nhookleft.alt1 ntilde.alt1 eng.alt1 o.alt1 oacute.alt1 obreve.alt1 ocircumflex.alt1 odieresis.alt1 odotbelow.alt1 ograve.alt1 ohungarumlaut.alt1 omacron.alt1 oogonek.alt1 oslash.alt1 oslashacute.alt1 otilde.alt1 oe.alt1 p.alt1 thorn.alt1 q.alt1 r.alt1 racute.alt1 rcaron.alt1 rcommaaccent.alt1 s.alt1 sacute.alt1 scaron.alt1 scedilla.alt1 scircumflex.alt1 scommaaccent.alt1 germandbls.alt1 t.alt1 tbar.alt1 tcaron.alt1 tcedilla.alt1 tcommaaccent.alt1 u.alt1 uacute.alt1 ubreve.alt1 ucircumflex.alt1 udieresis.alt1 udotbelow.alt1 ugrave.alt1 uhungarumlaut.alt1 umacron.alt1 uogonek.alt1 uring.alt1 utilde.alt1 v.alt1 w.alt1 wacute.alt1 wcircumflex.alt1 wdieresis.alt1 wgrave.alt1 x.alt1 y.alt1 yacute.alt1 ycircumflex.alt1 ydieresis.alt1 ygrave.alt1 ymacron.alt1 ytilde.alt1 z.alt1 zacute.alt1 zcaron.alt1 zdotaccent.alt1 a.alt1 b.alt1 c.alt1 d.alt1 e.alt1 f.alt1 g.alt1 h.alt1 i.alt1 j.alt1 k.alt1 l.alt1 m.alt1 n.alt1 o.alt1 p.alt1 q.alt1 r.alt1 s.alt1 t.alt1 u.alt1 v.alt1 w.alt1 x.alt1 y.alt1 z.alt1 a.alt1 aacute.alt1 abreve.alt1 acircumflex.alt1 adieresis.alt1 agrave.alt1 amacron.alt1 aogonek.alt1 aring.alt1 atilde.alt1 ae.alt1 aeacute.alt1 b.alt1 c.alt1 cacute.alt1 ccaron.alt1 ccedilla.alt1 ccircumflex.alt1 cdotaccent.alt1 d.alt1 eth.alt1 dcaron.alt1 dcroat.alt1 e.alt1 eacute.alt1 ebreve.alt1 ecaron.alt1 ecircumflex.alt1 edieresis.alt1 edotaccent.alt1 edotbelow.alt1 egrave.alt1 emacron.alt1 eogonek.alt1 etilde.alt1 schwa.alt1 f.alt1 g.alt1 gbreve.alt1 gcaron.alt1 gcircumflex.alt1 gcommaaccent.alt1 gdotaccent.alt1 h.alt1 hbar.alt1 hcircumflex.alt1 i.alt1 idotless.alt1 iacute.alt1 ibreve.alt1 icircumflex.alt1 idieresis.alt1 idotbelow.alt1 igrave.alt1 ij.alt1 imacron.alt1 iogonek.alt1 j.alt1 jdotless.alt1 jcircumflex.alt1 k.alt1 kcommaaccent.alt1 kgreenlandic.alt1 l.alt1 lacute.alt1 lcaron.alt1 lcommaaccent.alt1 ldot.alt1 lslash.alt1 m.alt1 n.alt1 nacute.alt1 ncaron.alt1 ncommaaccent.alt1 nhookleft.alt1 ntilde.alt1 eng.alt1 o.alt1 oacute.alt1 obreve.alt1 ocircumflex.alt1 odieresis.alt1 odotbelow.alt1 ograve.alt1 ohungarumlaut.alt1 omacron.alt1 oogonek.alt1 oslash.alt1 oslashacute.alt1 otilde.alt1 oe.alt1 p.alt1 thorn.alt1 q.alt1 r.alt1 racute.alt1 rcaron.alt1 rcommaaccent.alt1 s.alt1 sacute.alt1 scaron.alt1 scedilla.alt1 scircumflex.alt1 scommaaccent.alt1 germandbls.alt1 t.alt1 tbar.alt1 tcaron.alt1 tcedilla.alt1 tcommaaccent.alt1 u.alt1 uacute.alt1 ubreve.alt1 ucircumflex.alt1 udieresis.alt1 udotbelow.alt1 ugrave.alt1 uhungarumlaut.alt1 umacron.alt1 uogonek.alt1 uring.alt1 utilde.alt1 v.alt1 w.alt1 wacute.alt1 wcircumflex.alt1 wdieresis.alt1 wgrave.alt1 x.alt1 y.alt1 yacute.alt1 ycircumflex.alt1 ydieresis.alt1 ygrave.alt1 ymacron.alt1 ytilde.alt1 z.alt1 zacute.alt1 zcaron.alt1 zdotaccent.alt1 a.alt1 b.alt1 c.alt1 d.alt1 e.alt1 f.alt1 g.alt1 h.alt1 i.alt1 j.alt1 k.alt1 l.alt1 m.alt1 n.alt1 o.alt1 p.alt1 q.alt1 r.alt1 s.alt1 t.alt1 u.alt1 v.alt1 w.alt1 x.alt1 y.alt1 z.alt1 a.alt1 b.alt1 c.alt1 d.alt1 e.alt1 f.alt1 g.alt1 h.alt1 i.alt1 j.alt1 k.alt1 l.alt1 m.alt1 n.alt1 o.alt1 p.alt1 q.alt1 r.alt1 s.alt1 t.alt1 u.alt1 v.alt1 w.alt1 x.alt1 y.alt1 z.alt1 a.alt1 b.alt1 c.alt1 d.alt1 e.alt1 f.alt1 g.alt1 h.alt1 i.alt1 j.alt1 k.alt1 l.alt1 m.alt1 n.alt1 o.alt1 p.alt1 q.alt1 r.alt1 s.alt1 t.alt1 u.alt1 v.alt1 w.alt1 x.alt1 y.alt1 z.alt1 ordfeminine.alt1 ordmasculine.alt1 ordfeminine.alt1 ordmasculine.alt1 Omega.alt1 Omega.alt1 zero.alt1 one.alt1 two.alt1 three.alt1 four.alt1 five.alt1 six.alt1 seven.alt1 eight.alt1 nine.alt1 zero.alt1 one.alt1 two.alt1 three.alt1 four.alt1 five.alt1 six.alt1 seven.alt1 eight.alt1 nine.alt1 zero.alt1 one.alt1 two.alt1 three.alt1 four.alt1 five.alt1 six.alt1 seven.alt1 eight.alt1 nine.alt1 zero.alt1 one.alt1 two.alt1 three.alt1 four.alt1 five.alt1 six.alt1 seven.alt1 eight.alt1 nine.alt1 zero.alt1 one.alt1 two.alt1 three.alt1 four.alt1 five.alt1 six.alt1 seven.alt1 eight.alt1 nine.alt1 zero.alt1 one.alt1 two.alt1 three.alt1 four.alt1 five.alt1 six.alt1 seven.alt1 eight.alt1 nine.alt1 zero.alt1 one.alt1 two.alt1 three.alt1 four.alt1 five.alt1 six.alt1 seven.alt1 eight.alt1 nine.alt1 onehalf.alt1 onethird.alt1 twothirds.alt1 onequarter.alt1 threequarters.alt1 oneeighth.alt1 threeeighths.alt1 fiveeighths.alt1 seveneighths.alt1 onehalf.alt1 onethird.alt1 twothirds.alt1 onequarter.alt1 threequarters.alt1 oneeighth.alt1 threeeighths.alt1 fiveeighths.alt1 seveneighths.alt1 zeroinferior.alt1 oneinferior.alt1 twoinferior.alt1 threeinferior.alt1 fourinferior.alt1 fiveinferior.alt1 sixinferior.alt1 seveninferior.alt1 eightinferior.alt1 nineinferior.alt1 zerosuperior.alt1 onesuperior.alt1 twosuperior.alt1 threesuperior.alt1 foursuperior.alt1 fivesuperior.alt1 sixsuperior.alt1 sevensuperior.alt1 eightsuperior.alt1 ninesuperior.alt1 zeroinferior.alt1 oneinferior.alt1 twoinferior.alt1 threeinferior.alt1 fourinferior.alt1 fiveinferior.alt1 sixinferior.alt1 seveninferior.alt1 eightinferior.alt1 nineinferior.alt1 zerosuperior.alt1 onesuperior.alt1 twosuperior.alt1 threesuperior.alt1 foursuperior.alt1 fivesuperior.alt1 sixsuperior.alt1 sevensuperior.alt1 eightsuperior.alt1 ninesuperior.alt1 space.alt1 space.alt1 period.alt1 comma.alt1 colon.alt1 semicolon.alt1 ellipsis.alt1 exclam.alt1 exclamdown.alt1 question.alt1 questiondown.alt1 periodcentered.alt1 bullet.alt1 asterisk.alt1 numbersign.alt1 slash.alt1 backslash.alt1 triangularbullet.alt1 period.alt1 asterisk.alt1 numbersign.alt1 period.alt1 comma.alt1 colon.alt1 semicolon.alt1 ellipsis.alt1 exclam.alt1 exclamdown.alt1 question.alt1 questiondown.alt1 periodcentered.alt1 bullet.alt1 asterisk.alt1 numbersign.alt1 slash.alt1 backslash.alt1 triangularbullet.alt1 period.alt1 asterisk.alt1 numbersign.alt1 period.alt1 asterisk.alt1 numbersign.alt1 period.alt1 asterisk.alt1 numbersign.alt1 hyphen.alt1 softhyphen.alt1 endash.alt1 emdash.alt1 underscore.alt1 hyphen.alt1 underscore.alt1 hyphen.alt1 softhyphen.alt1 endash.alt1 emdash.alt1 underscore.alt1 hyphen.alt1 underscore.alt1 hyphen.alt1 underscore.alt1 hyphen.alt1 underscore.alt1 parenleft.alt1 parenright.alt1 braceleft.alt1 braceright.alt1 bracketleft.alt1 bracketright.alt1 parenleft.alt1 parenright.alt1 braceleft.alt1 braceright.alt1 bracketleft.alt1 bracketright.alt1 quotesinglbase.alt1 quotedblbase.alt1 quotedblleft.alt1 quotedblright.alt1 quoteleft.alt1 quoteright.alt1 guillemetleft.alt1 guillemetright.alt1 guilsinglleft.alt1 guilsinglright.alt1 quotedbl.alt1 quotesingle.alt1 quotesinglbase.alt1 quotedblbase.alt1 quotedblleft.alt1 quotedblright.alt1 quoteleft.alt1 quoteright.alt1 guillemetleft.alt1 guillemetright.alt1 guilsinglleft.alt1 guilsinglright.alt1 quotedbl.alt1 quotesingle.alt1 florin.alt1 florin.alt1 brick.alt1 brick.alt1 at.alt1 ampersand.alt1 paragraph.alt1 section.alt1 copyright.alt1 registered.alt1 trademark.alt1 degree.alt1 bar.alt1 brokenbar.alt1 dagger.alt1 literSign.alt1 daggerdbl.alt1 numero.alt1 versicle.alt1 at.alt1 ampersand.alt1 paragraph.alt1 section.alt1 copyright.alt1 registered.alt1 trademark.alt1 degree.alt1 bar.alt1 brokenbar.alt1 dagger.alt1 literSign.alt1 daggerdbl.alt1 numero.alt1 versicle.alt1 bitcoin.alt1 cent.alt1 colonsign.alt1 currency.alt1 dollar.alt1 euro.alt1 liraTurkish.alt1 peso.alt1 ruble.alt1 sterling.alt1 won.alt1 yen.alt1 bitcoin.alt1 cent.alt1 colonsign.alt1 currency.alt1 dollar.alt1 euro.alt1 liraTurkish.alt1 peso.alt1 ruble.alt1 sterling.alt1 won.alt1 yen.alt1 angle.alt1 coproduct.alt1 element.alt1 equivalence.alt1 existential.alt1 gradient.alt1 plus.alt1 minus.alt1 multiply.alt1 divide.alt1 equal.alt1 notequal.alt1 greater.alt1 less.alt1 greaterequal.alt1 lessequal.alt1 plusminus.alt1 approxequal.alt1 asciitilde.alt1 logicalnot.alt1 asciicircum.alt1 infinity.alt1 logicaland.alt1 logicalor.alt1 integral.alt1 increment.alt1 product.alt1 summation.alt1 radical.alt1 partialdiff.alt1 micro.alt1 percent.alt1 perthousand.alt1 proportion.alt1 subset.alt1 therefore.alt1 universal.alt1 angle.alt1 coproduct.alt1 element.alt1 equivalence.alt1 existential.alt1 gradient.alt1 plus.alt1 minus.alt1 multiply.alt1 divide.alt1 equal.alt1 notequal.alt1 greater.alt1 less.alt1 greaterequal.alt1 lessequal.alt1 plusminus.alt1 approxequal.alt1 asciitilde.alt1 logicalnot.alt1 asciicircum.alt1 infinity.alt1 logicaland.alt1 logicalor.alt1 integral.alt1 increment.alt1 product.alt1 summation.alt1 radical.alt1 partialdiff.alt1 micro.alt1 percent.alt1 perthousand.alt1 proportion.alt1 subset.alt1 therefore.alt1 universal.alt1 upArrow.alt1 northEastArrow.alt1 rightArrow.alt1 southEastArrow.alt1 downArrow.alt1 southWestArrow.alt1 leftArrow.alt1 northWestArrow.alt1 leftRightArrow.alt1 upDownArrow.alt1 leftHookArrow.alt1 rightHookArrow.alt1 rightTipDownArrow.alt1 rightTipUpArrow.alt1 leftArrowTipDown.alt1 leftArrowTipUp.alt1 anticlockwiseOpenCircleArrow.alt1 clockwiseOpenCircleArrow.alt1 rightOverLeftArrow.alt1 leftAndRightArrow.alt1 upArrow.alt1 northEastArrow.alt1 rightArrow.alt1 southEastArrow.alt1 downArrow.alt1 southWestArrow.alt1 leftArrow.alt1 northWestArrow.alt1 leftRightArrow.alt1 upDownArrow.alt1 leftHookArrow.alt1 rightHookArrow.alt1 rightTipDownArrow.alt1 rightTipUpArrow.alt1 leftArrowTipDown.alt1 leftArrowTipUp.alt1 anticlockwiseOpenCircleArrow.alt1 clockwiseOpenCircleArrow.alt1 rightOverLeftArrow.alt1 leftAndRightArrow.alt1 lozenge.alt1 upBlackTriangle.alt1 rightBlackTriangle.alt1 downBlackTriangle.alt1 leftBlackTriangle.alt1 upBlackSmallTriangle.alt1 rightBlackSmallTriangle.alt1 downBlackSmallTriangle.alt1 leftBlackSmallTriangle.alt1 lozenge.alt1 upBlackTriangle.alt1 rightBlackTriangle.alt1 downBlackTriangle.alt1 leftBlackTriangle.alt1 upBlackSmallTriangle.alt1 rightBlackSmallTriangle.alt1 downBlackSmallTriangle.alt1 leftBlackSmallTriangle.alt1 dieresiscomb.alt1 dotaccentcomb.alt1 gravecomb.alt1 acutecomb.alt1 hungarumlautcomb.alt1 caroncomb.alt1 circumflexcomb.alt1 caroncomb.alt1 brevecomb.alt1 ringcomb.alt1 tildecomb.alt1 macroncomb.alt1 dotbelowcomb.alt1 commaaccentcomb.alt1 cedillacomb.alt1 ogonekcomb.alt1 dieresiscomb.alt1 dotaccentcomb.alt1 gravecomb.alt1 acutecomb.alt1 hungarumlautcomb.alt1 circumflexcomb.alt1 caroncomb.alt1 brevecomb.alt1 ringcomb.alt1 tildecomb.alt1 macroncomb.alt1 dotbelowcomb.alt1 commaaccentcomb.alt1 cedillacomb.alt1 ogonekcomb.alt1 dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case dieresis.alt1 dotaccent.alt1 grave.alt1 acute.alt1 hungarumlaut.alt1 circumflex.alt1 caron.alt1 breve.alt1 ring.alt1 tilde.alt1 macron.alt1 cedilla.alt1 ogonek.alt1 dieresis.alt1 dotaccent.alt1 grave.alt1 acute.alt1 hungarumlaut.alt1 circumflex.alt1 caron.alt1 breve.alt1 ring.alt1 tilde.alt1 macron.alt1 cedilla.alt1 ogonek.alt1 bowl.alt1 bowl
+
+];
+
+@AllAlt5 = [ A.alt5 Aacute.alt5 Abreve.alt5 Acircumflex.alt5 Adieresis.alt5 Adotbelow.alt5 Agrave.alt5 Amacron.alt5 Aogonek.alt5 Aring.alt5 Atilde.alt5 AE.alt5 AEacute.alt5 B.alt5 C.alt5 Cacute.alt5 Ccaron.alt5 Ccedilla.alt5 Ccircumflex.alt5 Cdotaccent.alt5 D.alt5 Eth.alt5 Dcaron.alt5 Dcroat.alt5 E.alt5 Eacute.alt5 Ebreve.alt5 Ecaron.alt5 Ecircumflex.alt5 Edieresis.alt5 Edotaccent.alt5 Edotbelow.alt5 Egrave.alt5 Emacron.alt5 Eogonek.alt5 Etilde.alt5 Schwa.alt5 F.alt5 G.alt5 Gbreve.alt5 Gcaron.alt5 Gcircumflex.alt5 Gcommaaccent.alt5 Gdotaccent.alt5 H.alt5 Hbar.alt5 Hcircumflex.alt5 I.alt5 IJ.alt5 Iacute.alt5 Ibreve.alt5 Icircumflex.alt5 Idieresis.alt5 Idotaccent.alt5 Idotbelow.alt5 Igrave.alt5 Imacron.alt5 Iogonek.alt5 Itilde.alt5 J.alt5 Jcircumflex.alt5 K.alt5 Kcommaaccent.alt5 L.alt5 Lacute.alt5 Lcaron.alt5 Lcommaaccent.alt5 Ldot.alt5 Lslash.alt5 M.alt5 N.alt5 Nacute.alt5 Ncaron.alt5 Ncommaaccent.alt5 Nhookleft.alt5 Ntilde.alt5 Eng.alt5 O.alt5 Oacute.alt5 Obreve.alt5 Ocircumflex.alt5 Odieresis.alt5 Odotbelow.alt5 Ograve.alt5 Ohungarumlaut.alt5 Omacron.alt5 Oogonek.alt5 Oslash.alt5 Oslashacute.alt5 Otilde.alt5 OE.alt5 P.alt5 Thorn.alt5 Q.alt5 R.alt5 Racute.alt5 Rcaron.alt5 Rcommaaccent.alt5 S.alt5 Sacute.alt5 Scaron.alt5 Scedilla.alt5 Scircumflex.alt5 Scommaaccent.alt5 Germandbls.alt5 T.alt5 Tbar.alt5 Tcaron.alt5 Tcedilla.alt5 Tcommaaccent.alt5 U.alt5 Uacute.alt5 Ubreve.alt5 Ucircumflex.alt5 Udieresis.alt5 Udotbelow.alt5 Ugrave.alt5 Uhungarumlaut.alt5 Umacron.alt5 Uogonek.alt5 Uring.alt5 Utilde.alt5 V.alt5 W.alt5 Wacute.alt5 Wcircumflex.alt5 Wdieresis.alt5 Wgrave.alt5 X.alt5 Y.alt5 Yacute.alt5 Ycircumflex.alt5 Ydieresis.alt5 Ygrave.alt5 Ymacron.alt5 Ytilde.alt5 Z.alt5 Zacute.alt5 Zcaron.alt5 Zdotaccent.alt5 A.alt5 B.alt5 C.alt5 D.alt5 E.alt5 F.alt5 G.alt5 H.alt5 I.alt5 J.alt5 K.alt5 L.alt5 M.alt5 N.alt5 O.alt5 P.alt5 Q.alt5 R.alt5 S.alt5 T.alt5 U.alt5 V.alt5 W.alt5 X.alt5 Y.alt5 Z.alt5 A.alt5 Aacute.alt5 Abreve.alt5 Acircumflex.alt5 Adieresis.alt5 Adotbelow.alt5 Agrave.alt5 Amacron.alt5 Aogonek.alt5 Aring.alt5 Atilde.alt5 AE.alt5 AEacute.alt5 B.alt5 C.alt5 Cacute.alt5 Ccaron.alt5 Ccedilla.alt5 Ccircumflex.alt5 Cdotaccent.alt5 D.alt5 Eth.alt5 Dcaron.alt5 Dcroat.alt5 E.alt5 Eacute.alt5 Ebreve.alt5 Ecaron.alt5 Ecircumflex.alt5 Edieresis.alt5 Edotaccent.alt5 Edotbelow.alt5 Egrave.alt5 Emacron.alt5 Eogonek.alt5 Etilde.alt5 Schwa.alt5 F.alt5 G.alt5 Gbreve.alt5 Gcaron.alt5 Gcircumflex.alt5 Gcommaaccent.alt5 Gdotaccent.alt5 H.alt5 Hbar.alt5 Hcircumflex.alt5 I.alt5 IJ.alt5 Iacute.alt5 Ibreve.alt5 Icircumflex.alt5 Idieresis.alt5 Idotaccent.alt5 Idotbelow.alt5 Igrave.alt5 Imacron.alt5 Iogonek.alt5 Itilde.alt5 J.alt5 Jcircumflex.alt5 K.alt5 Kcommaaccent.alt5 L.alt5 Lacute.alt5 Lcaron.alt5 Lcommaaccent.alt5 Ldot.alt5 Lslash.alt5 M.alt5 N.alt5 Nacute.alt5 Ncaron.alt5 Ncommaaccent.alt5 Nhookleft.alt5 Ntilde.alt5 Eng.alt5 O.alt5 Oacute.alt5 Obreve.alt5 Ocircumflex.alt5 Odieresis.alt5 Odotbelow.alt5 Ograve.alt5 Ohungarumlaut.alt5 Omacron.alt5 Oogonek.alt5 Oslash.alt5 Oslashacute.alt5 Otilde.alt5 OE.alt5 P.alt5 Thorn.alt5 Q.alt5 R.alt5 Racute.alt5 Rcaron.alt5 Rcommaaccent.alt5 S.alt5 Sacute.alt5 Scaron.alt5 Scedilla.alt5 Scircumflex.alt5 Scommaaccent.alt5 Germandbls.alt5 T.alt5 Tbar.alt5 Tcaron.alt5 Tcedilla.alt5 Tcommaaccent.alt5 U.alt5 Uacute.alt5 Ubreve.alt5 Ucircumflex.alt5 Udieresis.alt5 Udotbelow.alt5 Ugrave.alt5 Uhungarumlaut.alt5 Umacron.alt5 Uogonek.alt5 Uring.alt5 Utilde.alt5 V.alt5 W.alt5 Wacute.alt5 Wcircumflex.alt5 Wdieresis.alt5 Wgrave.alt5 X.alt5 Y.alt5 Yacute.alt5 Ycircumflex.alt5 Ydieresis.alt5 Ygrave.alt5 Ymacron.alt5 Ytilde.alt5 Z.alt5 Zacute.alt5 Zcaron.alt5 Zdotaccent.alt5 A.alt5 B.alt5 C.alt5 D.alt5 E.alt5 F.alt5 G.alt5 H.alt5 I.alt5 J.alt5 K.alt5 L.alt5 M.alt5 N.alt5 O.alt5 P.alt5 Q.alt5 R.alt5 S.alt5 T.alt5 U.alt5 V.alt5 W.alt5 X.alt5 Y.alt5 Z.alt5 A.alt5 B.alt5 C.alt5 D.alt5 E.alt5 F.alt5 G.alt5 H.alt5 I.alt5 J.alt5 K.alt5 L.alt5 M.alt5 N.alt5 O.alt5 P.alt5 Q.alt5 R.alt5 S.alt5 T.alt5 U.alt5 V.alt5 W.alt5 X.alt5 Y.alt5 Z.alt5 A.alt5 B.alt5 C.alt5 D.alt5 E.alt5 F.alt5 G.alt5 H.alt5 I.alt5 J.alt5 K.alt5 L.alt5 M.alt5 N.alt5 O.alt5 P.alt5 Q.alt5 R.alt5 S.alt5 T.alt5 U.alt5 V.alt5 W.alt5 X.alt5 Y.alt5 Z.alt5 a.alt5 aacute.alt5 abreve.alt5 acircumflex.alt5 adieresis.alt5 agrave.alt5 amacron.alt5 aogonek.alt5 aring.alt5 atilde.alt5 ae.alt5 aeacute.alt5 b.alt5 c.alt5 cacute.alt5 ccaron.alt5 ccedilla.alt5 ccircumflex.alt5 cdotaccent.alt5 d.alt5 eth.alt5 dcaron.alt5 dcroat.alt5 e.alt5 eacute.alt5 ebreve.alt5 ecaron.alt5 ecircumflex.alt5 edieresis.alt5 edotaccent.alt5 edotbelow.alt5 egrave.alt5 emacron.alt5 eogonek.alt5 etilde.alt5 schwa.alt5 f.alt5 g.alt5 gbreve.alt5 gcaron.alt5 gcircumflex.alt5 gcommaaccent.alt5 gdotaccent.alt5 h.alt5 hbar.alt5 hcircumflex.alt5 i.alt5 idotless.alt5 iacute.alt5 ibreve.alt5 icircumflex.alt5 idieresis.alt5 idotbelow.alt5 igrave.alt5 ij.alt5 imacron.alt5 iogonek.alt5 j.alt5 jdotless.alt5 jcircumflex.alt5 k.alt5 kcommaaccent.alt5 kgreenlandic.alt5 l.alt5 lacute.alt5 lcaron.alt5 lcommaaccent.alt5 ldot.alt5 lslash.alt5 m.alt5 n.alt5 nacute.alt5 ncaron.alt5 ncommaaccent.alt5 nhookleft.alt5 ntilde.alt5 eng.alt5 o.alt5 oacute.alt5 obreve.alt5 ocircumflex.alt5 odieresis.alt5 odotbelow.alt5 ograve.alt5 ohungarumlaut.alt5 omacron.alt5 oogonek.alt5 oslash.alt5 oslashacute.alt5 otilde.alt5 oe.alt5 p.alt5 thorn.alt5 q.alt5 r.alt5 racute.alt5 rcaron.alt5 rcommaaccent.alt5 s.alt5 sacute.alt5 scaron.alt5 scedilla.alt5 scircumflex.alt5 scommaaccent.alt5 germandbls.alt5 t.alt5 tbar.alt5 tcaron.alt5 tcedilla.alt5 tcommaaccent.alt5 u.alt5 uacute.alt5 ubreve.alt5 ucircumflex.alt5 udieresis.alt5 udotbelow.alt5 ugrave.alt5 uhungarumlaut.alt5 umacron.alt5 uogonek.alt5 uring.alt5 utilde.alt5 v.alt5 w.alt5 wacute.alt5 wcircumflex.alt5 wdieresis.alt5 wgrave.alt5 x.alt5 y.alt5 yacute.alt5 ycircumflex.alt5 ydieresis.alt5 ygrave.alt5 ymacron.alt5 ytilde.alt5 z.alt5 zacute.alt5 zcaron.alt5 zdotaccent.alt5 a.alt5 b.alt5 c.alt5 d.alt5 e.alt5 f.alt5 g.alt5 h.alt5 i.alt5 j.alt5 k.alt5 l.alt5 m.alt5 n.alt5 o.alt5 p.alt5 q.alt5 r.alt5 s.alt5 t.alt5 u.alt5 v.alt5 w.alt5 x.alt5 y.alt5 z.alt5 a.alt5 aacute.alt5 abreve.alt5 acircumflex.alt5 adieresis.alt5 agrave.alt5 amacron.alt5 aogonek.alt5 aring.alt5 atilde.alt5 ae.alt5 aeacute.alt5 b.alt5 c.alt5 cacute.alt5 ccaron.alt5 ccedilla.alt5 ccircumflex.alt5 cdotaccent.alt5 d.alt5 eth.alt5 dcaron.alt5 dcroat.alt5 e.alt5 eacute.alt5 ebreve.alt5 ecaron.alt5 ecircumflex.alt5 edieresis.alt5 edotaccent.alt5 edotbelow.alt5 egrave.alt5 emacron.alt5 eogonek.alt5 etilde.alt5 schwa.alt5 f.alt5 g.alt5 gbreve.alt5 gcaron.alt5 gcircumflex.alt5 gcommaaccent.alt5 gdotaccent.alt5 h.alt5 hbar.alt5 hcircumflex.alt5 i.alt5 idotless.alt5 iacute.alt5 ibreve.alt5 icircumflex.alt5 idieresis.alt5 idotbelow.alt5 igrave.alt5 ij.alt5 imacron.alt5 iogonek.alt5 j.alt5 jdotless.alt5 jcircumflex.alt5 k.alt5 kcommaaccent.alt5 kgreenlandic.alt5 l.alt5 lacute.alt5 lcaron.alt5 lcommaaccent.alt5 ldot.alt5 lslash.alt5 m.alt5 n.alt5 nacute.alt5 ncaron.alt5 ncommaaccent.alt5 nhookleft.alt5 ntilde.alt5 eng.alt5 o.alt5 oacute.alt5 obreve.alt5 ocircumflex.alt5 odieresis.alt5 odotbelow.alt5 ograve.alt5 ohungarumlaut.alt5 omacron.alt5 oogonek.alt5 oslash.alt5 oslashacute.alt5 otilde.alt5 oe.alt5 p.alt5 thorn.alt5 q.alt5 r.alt5 racute.alt5 rcaron.alt5 rcommaaccent.alt5 s.alt5 sacute.alt5 scaron.alt5 scedilla.alt5 scircumflex.alt5 scommaaccent.alt5 germandbls.alt5 t.alt5 tbar.alt5 tcaron.alt5 tcedilla.alt5 tcommaaccent.alt5 u.alt5 uacute.alt5 ubreve.alt5 ucircumflex.alt5 udieresis.alt5 udotbelow.alt5 ugrave.alt5 uhungarumlaut.alt5 umacron.alt5 uogonek.alt5 uring.alt5 utilde.alt5 v.alt5 w.alt5 wacute.alt5 wcircumflex.alt5 wdieresis.alt5 wgrave.alt5 x.alt5 y.alt5 yacute.alt5 ycircumflex.alt5 ydieresis.alt5 ygrave.alt5 ymacron.alt5 ytilde.alt5 z.alt5 zacute.alt5 zcaron.alt5 zdotaccent.alt5 a.alt5 b.alt5 c.alt5 d.alt5 e.alt5 f.alt5 g.alt5 h.alt5 i.alt5 j.alt5 k.alt5 l.alt5 m.alt5 n.alt5 o.alt5 p.alt5 q.alt5 r.alt5 s.alt5 t.alt5 u.alt5 v.alt5 w.alt5 x.alt5 y.alt5 z.alt5 a.alt5 b.alt5 c.alt5 d.alt5 e.alt5 f.alt5 g.alt5 h.alt5 i.alt5 j.alt5 k.alt5 l.alt5 m.alt5 n.alt5 o.alt5 p.alt5 q.alt5 r.alt5 s.alt5 t.alt5 u.alt5 v.alt5 w.alt5 x.alt5 y.alt5 z.alt5 a.alt5 b.alt5 c.alt5 d.alt5 e.alt5 f.alt5 g.alt5 h.alt5 i.alt5 j.alt5 k.alt5 l.alt5 m.alt5 n.alt5 o.alt5 p.alt5 q.alt5 r.alt5 s.alt5 t.alt5 u.alt5 v.alt5 w.alt5 x.alt5 y.alt5 z.alt5 ordfeminine.alt5 ordmasculine.alt5 ordfeminine.alt5 ordmasculine.alt5 Omega.alt5 Omega.alt5 zero.alt5 one.alt5 two.alt5 three.alt5 four.alt5 five.alt5 six.alt5 seven.alt5 eight.alt5 nine.alt5 zero.alt5 one.alt5 two.alt5 three.alt5 four.alt5 five.alt5 six.alt5 seven.alt5 eight.alt5 nine.alt5 zero.alt5 one.alt5 two.alt5 three.alt5 four.alt5 five.alt5 six.alt5 seven.alt5 eight.alt5 nine.alt5 zero.alt5 one.alt5 two.alt5 three.alt5 four.alt5 five.alt5 six.alt5 seven.alt5 eight.alt5 nine.alt5 zero.alt5 one.alt5 two.alt5 three.alt5 four.alt5 five.alt5 six.alt5 seven.alt5 eight.alt5 nine.alt5 zero.alt5 one.alt5 two.alt5 three.alt5 four.alt5 five.alt5 six.alt5 seven.alt5 eight.alt5 nine.alt5 zero.alt5 one.alt5 two.alt5 three.alt5 four.alt5 five.alt5 six.alt5 seven.alt5 eight.alt5 nine.alt5 onehalf.alt5 onethird.alt5 twothirds.alt5 onequarter.alt5 threequarters.alt5 oneeighth.alt5 threeeighths.alt5 fiveeighths.alt5 seveneighths.alt5 onehalf.alt5 onethird.alt5 twothirds.alt5 onequarter.alt5 threequarters.alt5 oneeighth.alt5 threeeighths.alt5 fiveeighths.alt5 seveneighths.alt5 zeroinferior.alt5 oneinferior.alt5 twoinferior.alt5 threeinferior.alt5 fourinferior.alt5 fiveinferior.alt5 sixinferior.alt5 seveninferior.alt5 eightinferior.alt5 nineinferior.alt5 zerosuperior.alt5 onesuperior.alt5 twosuperior.alt5 threesuperior.alt5 foursuperior.alt5 fivesuperior.alt5 sixsuperior.alt5 sevensuperior.alt5 eightsuperior.alt5 ninesuperior.alt5 zeroinferior.alt5 oneinferior.alt5 twoinferior.alt5 threeinferior.alt5 fourinferior.alt5 fiveinferior.alt5 sixinferior.alt5 seveninferior.alt5 eightinferior.alt5 nineinferior.alt5 zerosuperior.alt5 onesuperior.alt5 twosuperior.alt5 threesuperior.alt5 foursuperior.alt5 fivesuperior.alt5 sixsuperior.alt5 sevensuperior.alt5 eightsuperior.alt5 ninesuperior.alt5 space.alt5 space.alt5 period.alt5 comma.alt5 colon.alt5 semicolon.alt5 ellipsis.alt5 exclam.alt5 exclamdown.alt5 question.alt5 questiondown.alt5 periodcentered.alt5 bullet.alt5 asterisk.alt5 numbersign.alt5 slash.alt5 backslash.alt5 triangularbullet.alt5 period.alt5 asterisk.alt5 numbersign.alt5 period.alt5 comma.alt5 colon.alt5 semicolon.alt5 ellipsis.alt5 exclam.alt5 exclamdown.alt5 question.alt5 questiondown.alt5 periodcentered.alt5 bullet.alt5 asterisk.alt5 numbersign.alt5 slash.alt5 backslash.alt5 triangularbullet.alt5 period.alt5 asterisk.alt5 numbersign.alt5 period.alt5 asterisk.alt5 numbersign.alt5 period.alt5 asterisk.alt5 numbersign.alt5 hyphen.alt5 softhyphen.alt5 endash.alt5 emdash.alt5 underscore.alt5 hyphen.alt5 underscore.alt5 hyphen.alt5 softhyphen.alt5 endash.alt5 emdash.alt5 underscore.alt5 hyphen.alt5 underscore.alt5 hyphen.alt5 underscore.alt5 hyphen.alt5 underscore.alt5 parenleft.alt5 parenright.alt5 braceleft.alt5 braceright.alt5 bracketleft.alt5 bracketright.alt5 parenleft.alt5 parenright.alt5 braceleft.alt5 braceright.alt5 bracketleft.alt5 bracketright.alt5 quotesinglbase.alt5 quotedblbase.alt5 quotedblleft.alt5 quotedblright.alt5 quoteleft.alt5 quoteright.alt5 guillemetleft.alt5 guillemetright.alt5 guilsinglleft.alt5 guilsinglright.alt5 quotedbl.alt5 quotesingle.alt5 quotesinglbase.alt5 quotedblbase.alt5 quotedblleft.alt5 quotedblright.alt5 quoteleft.alt5 quoteright.alt5 guillemetleft.alt5 guillemetright.alt5 guilsinglleft.alt5 guilsinglright.alt5 quotedbl.alt5 quotesingle.alt5 florin.alt5 florin.alt5 brick.alt5 brick.alt5 at.alt5 ampersand.alt5 paragraph.alt5 section.alt5 copyright.alt5 registered.alt5 trademark.alt5 degree.alt5 bar.alt5 brokenbar.alt5 dagger.alt5 literSign.alt5 daggerdbl.alt5 numero.alt5 versicle.alt5 at.alt5 ampersand.alt5 paragraph.alt5 section.alt5 copyright.alt5 registered.alt5 trademark.alt5 degree.alt5 bar.alt5 brokenbar.alt5 dagger.alt5 literSign.alt5 daggerdbl.alt5 numero.alt5 versicle.alt5 bitcoin.alt5 cent.alt5 colonsign.alt5 currency.alt5 dollar.alt5 euro.alt5 liraTurkish.alt5 peso.alt5 ruble.alt5 sterling.alt5 won.alt5 yen.alt5 bitcoin.alt5 cent.alt5 colonsign.alt5 currency.alt5 dollar.alt5 euro.alt5 liraTurkish.alt5 peso.alt5 ruble.alt5 sterling.alt5 won.alt5 yen.alt5 angle.alt5 coproduct.alt5 element.alt5 equivalence.alt5 existential.alt5 gradient.alt5 plus.alt5 minus.alt5 multiply.alt5 divide.alt5 equal.alt5 notequal.alt5 greater.alt5 less.alt5 greaterequal.alt5 lessequal.alt5 plusminus.alt5 approxequal.alt5 asciitilde.alt5 logicalnot.alt5 asciicircum.alt5 infinity.alt5 logicaland.alt5 logicalor.alt5 integral.alt5 increment.alt5 product.alt5 summation.alt5 radical.alt5 partialdiff.alt5 micro.alt5 percent.alt5 perthousand.alt5 proportion.alt5 subset.alt5 therefore.alt5 universal.alt5 angle.alt5 coproduct.alt5 element.alt5 equivalence.alt5 existential.alt5 gradient.alt5 plus.alt5 minus.alt5 multiply.alt5 divide.alt5 equal.alt5 notequal.alt5 greater.alt5 less.alt5 greaterequal.alt5 lessequal.alt5 plusminus.alt5 approxequal.alt5 asciitilde.alt5 logicalnot.alt5 asciicircum.alt5 infinity.alt5 logicaland.alt5 logicalor.alt5 integral.alt5 increment.alt5 product.alt5 summation.alt5 radical.alt5 partialdiff.alt5 micro.alt5 percent.alt5 perthousand.alt5 proportion.alt5 subset.alt5 therefore.alt5 universal.alt5 upArrow.alt5 northEastArrow.alt5 rightArrow.alt5 southEastArrow.alt5 downArrow.alt5 southWestArrow.alt5 leftArrow.alt5 northWestArrow.alt5 leftRightArrow.alt5 upDownArrow.alt5 leftHookArrow.alt5 rightHookArrow.alt5 rightTipDownArrow.alt5 rightTipUpArrow.alt5 leftArrowTipDown.alt5 leftArrowTipUp.alt5 anticlockwiseOpenCircleArrow.alt5 clockwiseOpenCircleArrow.alt5 rightOverLeftArrow.alt5 leftAndRightArrow.alt5 upArrow.alt5 northEastArrow.alt5 rightArrow.alt5 southEastArrow.alt5 downArrow.alt5 southWestArrow.alt5 leftArrow.alt5 northWestArrow.alt5 leftRightArrow.alt5 upDownArrow.alt5 leftHookArrow.alt5 rightHookArrow.alt5 rightTipDownArrow.alt5 rightTipUpArrow.alt5 leftArrowTipDown.alt5 leftArrowTipUp.alt5 anticlockwiseOpenCircleArrow.alt5 clockwiseOpenCircleArrow.alt5 rightOverLeftArrow.alt5 leftAndRightArrow.alt5 lozenge.alt5 upBlackTriangle.alt5 rightBlackTriangle.alt5 downBlackTriangle.alt5 leftBlackTriangle.alt5 upBlackSmallTriangle.alt5 rightBlackSmallTriangle.alt5 downBlackSmallTriangle.alt5 leftBlackSmallTriangle.alt5 lozenge.alt5 upBlackTriangle.alt5 rightBlackTriangle.alt5 downBlackTriangle.alt5 leftBlackTriangle.alt5 upBlackSmallTriangle.alt5 rightBlackSmallTriangle.alt5 downBlackSmallTriangle.alt5 leftBlackSmallTriangle.alt5 dieresiscomb.alt5 dotaccentcomb.alt5 gravecomb.alt5 acutecomb.alt5 hungarumlautcomb.alt5 caroncomb.alt5 circumflexcomb.alt5 caroncomb.alt5 brevecomb.alt5 ringcomb.alt5 tildecomb.alt5 macroncomb.alt5 dotbelowcomb.alt5 commaaccentcomb.alt5 cedillacomb.alt5 ogonekcomb.alt5 dieresiscomb.alt5 dotaccentcomb.alt5 gravecomb.alt5 acutecomb.alt5 hungarumlautcomb.alt5 circumflexcomb.alt5 caroncomb.alt5 brevecomb.alt5 ringcomb.alt5 tildecomb.alt5 macroncomb.alt5 dotbelowcomb.alt5 commaaccentcomb.alt5 cedillacomb.alt5 ogonekcomb.alt5 dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case dieresis.alt5 dotaccent.alt5 grave.alt5 acute.alt5 hungarumlaut.alt5 circumflex.alt5 caron.alt5 breve.alt5 ring.alt5 tilde.alt5 macron.alt5 cedilla.alt5 ogonek.alt5 dieresis.alt5 dotaccent.alt5 grave.alt5 acute.alt5 hungarumlaut.alt5 circumflex.alt5 caron.alt5 breve.alt5 ring.alt5 tilde.alt5 macron.alt5 cedilla.alt5 ogonek.alt5 bowl.alt5 bowl
+
+];
+
+# automatic
+@AllLetters = [ A Aacute Abreve Acircumflex Adieresis Adotbelow Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Edotbelow Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Nhookleft Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Odotbelow Ograve Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ymacron Ytilde Z Zacute Zcaron Zdotaccent A.alt B.alt C.alt D.alt E.alt F.alt G.alt H.alt I.alt J.alt K.alt L.alt M.alt N.alt O.alt P.alt Q.alt R.alt S.alt T.alt U.alt V.alt W.alt X.alt Y.alt Z.alt A.alt1 Aacute.alt1 Abreve.alt1 Acircumflex.alt1 Adieresis.alt1 Adotbelow.alt1 Agrave.alt1 Amacron.alt1 Aogonek.alt1 Aring.alt1 Atilde.alt1 AE.alt1 AEacute.alt1 B.alt1 C.alt1 Cacute.alt1 Ccaron.alt1 Ccedilla.alt1 Ccircumflex.alt1 Cdotaccent.alt1 D.alt1 Eth.alt1 Dcaron.alt1 Dcroat.alt1 E.alt1 Eacute.alt1 Ebreve.alt1 Ecaron.alt1 Ecircumflex.alt1 Edieresis.alt1 Edotaccent.alt1 Edotbelow.alt1 Egrave.alt1 Emacron.alt1 Eogonek.alt1 Etilde.alt1 Schwa.alt1 F.alt1 G.alt1 Gbreve.alt1 Gcaron.alt1 Gcircumflex.alt1 Gcommaaccent.alt1 Gdotaccent.alt1 H.alt1 Hbar.alt1 Hcircumflex.alt1 I.alt1 IJ.alt1 Iacute.alt1 Ibreve.alt1 Icircumflex.alt1 Idieresis.alt1 Idotaccent.alt1 Idotbelow.alt1 Igrave.alt1 Imacron.alt1 Iogonek.alt1 Itilde.alt1 J.alt1 Jcircumflex.alt1 K.alt1 Kcommaaccent.alt1 L.alt1 Lacute.alt1 Lcaron.alt1 Lcommaaccent.alt1 Ldot.alt1 Lslash.alt1 M.alt1 N.alt1 Nacute.alt1 Ncaron.alt1 Ncommaaccent.alt1 Nhookleft.alt1 Ntilde.alt1 Eng.alt1 O.alt1 Oacute.alt1 Obreve.alt1 Ocircumflex.alt1 Odieresis.alt1 Odotbelow.alt1 Ograve.alt1 Ohungarumlaut.alt1 Omacron.alt1 Oogonek.alt1 Oslash.alt1 Oslashacute.alt1 Otilde.alt1 OE.alt1 P.alt1 Thorn.alt1 Q.alt1 R.alt1 Racute.alt1 Rcaron.alt1 Rcommaaccent.alt1 S.alt1 Sacute.alt1 Scaron.alt1 Scedilla.alt1 Scircumflex.alt1 Scommaaccent.alt1 Germandbls.alt1 T.alt1 Tbar.alt1 Tcaron.alt1 Tcedilla.alt1 Tcommaaccent.alt1 U.alt1 Uacute.alt1 Ubreve.alt1 Ucircumflex.alt1 Udieresis.alt1 Udotbelow.alt1 Ugrave.alt1 Uhungarumlaut.alt1 Umacron.alt1 Uogonek.alt1 Uring.alt1 Utilde.alt1 V.alt1 W.alt1 Wacute.alt1 Wcircumflex.alt1 Wdieresis.alt1 Wgrave.alt1 X.alt1 Y.alt1 Yacute.alt1 Ycircumflex.alt1 Ydieresis.alt1 Ygrave.alt1 Ymacron.alt1 Ytilde.alt1 Z.alt1 Zacute.alt1 Zcaron.alt1 Zdotaccent.alt1 A.alt2 B.alt2 C.alt2 D.alt2 E.alt2 F.alt2 G.alt2 H.alt2 I.alt2 J.alt2 K.alt2 L.alt2 M.alt2 N.alt2 O.alt2 P.alt2 Q.alt2 R.alt2 S.alt2 T.alt2 U.alt2 V.alt2 W.alt2 X.alt2 Y.alt2 Z.alt2 A.alt3 B.alt3 C.alt3 D.alt3 E.alt3 F.alt3 G.alt3 H.alt3 I.alt3 J.alt3 K.alt3 L.alt3 M.alt3 N.alt3 O.alt3 P.alt3 Q.alt3 R.alt3 S.alt3 T.alt3 U.alt3 V.alt3 W.alt3 X.alt3 Y.alt3 Z.alt3 A.alt4 B.alt4 C.alt4 D.alt4 E.alt4 F.alt4 G.alt4 H.alt4 I.alt4 J.alt4 K.alt4 L.alt4 M.alt4 N.alt4 O.alt4 P.alt4 Q.alt4 R.alt4 S.alt4 T.alt4 U.alt4 V.alt4 W.alt4 X.alt4 Y.alt4 Z.alt4 A.alt5 Aacute.alt5 Abreve.alt5 Acircumflex.alt5 Adieresis.alt5 Adotbelow.alt5 Agrave.alt5 Amacron.alt5 Aogonek.alt5 Aring.alt5 Atilde.alt5 AE.alt5 AEacute.alt5 B.alt5 C.alt5 Cacute.alt5 Ccaron.alt5 Ccedilla.alt5 Ccircumflex.alt5 Cdotaccent.alt5 D.alt5 Eth.alt5 Dcaron.alt5 Dcroat.alt5 E.alt5 Eacute.alt5 Ebreve.alt5 Ecaron.alt5 Ecircumflex.alt5 Edieresis.alt5 Edotaccent.alt5 Edotbelow.alt5 Egrave.alt5 Emacron.alt5 Eogonek.alt5 Etilde.alt5 Schwa.alt5 F.alt5 G.alt5 Gbreve.alt5 Gcaron.alt5 Gcircumflex.alt5 Gcommaaccent.alt5 Gdotaccent.alt5 H.alt5 Hbar.alt5 Hcircumflex.alt5 I.alt5 IJ.alt5 Iacute.alt5 Ibreve.alt5 Icircumflex.alt5 Idieresis.alt5 Idotaccent.alt5 Idotbelow.alt5 Igrave.alt5 Imacron.alt5 Iogonek.alt5 Itilde.alt5 J.alt5 Jcircumflex.alt5 K.alt5 Kcommaaccent.alt5 L.alt5 Lacute.alt5 Lcaron.alt5 Lcommaaccent.alt5 Ldot.alt5 Lslash.alt5 M.alt5 N.alt5 Nacute.alt5 Ncaron.alt5 Ncommaaccent.alt5 Nhookleft.alt5 Ntilde.alt5 Eng.alt5 O.alt5 Oacute.alt5 Obreve.alt5 Ocircumflex.alt5 Odieresis.alt5 Odotbelow.alt5 Ograve.alt5 Ohungarumlaut.alt5 Omacron.alt5 Oogonek.alt5 Oslash.alt5 Oslashacute.alt5 Otilde.alt5 OE.alt5 P.alt5 Thorn.alt5 Q.alt5 R.alt5 Racute.alt5 Rcaron.alt5 Rcommaaccent.alt5 S.alt5 Sacute.alt5 Scaron.alt5 Scedilla.alt5 Scircumflex.alt5 Scommaaccent.alt5 Germandbls.alt5 T.alt5 Tbar.alt5 Tcaron.alt5 Tcedilla.alt5 Tcommaaccent.alt5 U.alt5 Uacute.alt5 Ubreve.alt5 Ucircumflex.alt5 Udieresis.alt5 Udotbelow.alt5 Ugrave.alt5 Uhungarumlaut.alt5 Umacron.alt5 Uogonek.alt5 Uring.alt5 Utilde.alt5 V.alt5 W.alt5 Wacute.alt5 Wcircumflex.alt5 Wdieresis.alt5 Wgrave.alt5 X.alt5 Y.alt5 Yacute.alt5 Ycircumflex.alt5 Ydieresis.alt5 Ygrave.alt5 Ymacron.alt5 Ytilde.alt5 Z.alt5 Zacute.alt5 Zcaron.alt5 Zdotaccent.alt5 a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d eth dcaron dcroat e eacute ebreve ecaron ecircumflex edieresis edotaccent edotbelow egrave emacron eogonek etilde schwa f g gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute ibreve icircumflex idieresis idotbelow igrave ij imacron iogonek j jdotless jcircumflex k kcommaaccent kgreenlandic l lacute lcaron lcommaaccent ldot lslash m n nacute ncaron ncommaaccent nhookleft ntilde eng o oacute obreve ocircumflex odieresis odotbelow ograve ohungarumlaut omacron oogonek oslash oslashacute otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent germandbls t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucircumflex udieresis udotbelow ugrave uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave ymacron ytilde z zacute zcaron zdotaccent a.alt b.alt c.alt d.alt e.alt f.alt g.alt h.alt i.alt j.alt k.alt l.alt m.alt n.alt o.alt p.alt q.alt r.alt s.alt t.alt u.alt v.alt w.alt x.alt y.alt z.alt a.alt1 aacute.alt1 abreve.alt1 acircumflex.alt1 adieresis.alt1 agrave.alt1 amacron.alt1 aogonek.alt1 aring.alt1 atilde.alt1 ae.alt1 aeacute.alt1 b.alt1 c.alt1 cacute.alt1 ccaron.alt1 ccedilla.alt1 ccircumflex.alt1 cdotaccent.alt1 d.alt1 eth.alt1 dcaron.alt1 dcroat.alt1 e.alt1 eacute.alt1 ebreve.alt1 ecaron.alt1 ecircumflex.alt1 edieresis.alt1 edotaccent.alt1 edotbelow.alt1 egrave.alt1 emacron.alt1 eogonek.alt1 etilde.alt1 schwa.alt1 f.alt1 g.alt1 gbreve.alt1 gcaron.alt1 gcircumflex.alt1 gcommaaccent.alt1 gdotaccent.alt1 h.alt1 hbar.alt1 hcircumflex.alt1 i.alt1 idotless.alt1 iacute.alt1 ibreve.alt1 icircumflex.alt1 idieresis.alt1 idotbelow.alt1 igrave.alt1 ij.alt1 imacron.alt1 iogonek.alt1 j.alt1 jdotless.alt1 jcircumflex.alt1 k.alt1 kcommaaccent.alt1 kgreenlandic.alt1 l.alt1 lacute.alt1 lcaron.alt1 lcommaaccent.alt1 ldot.alt1 lslash.alt1 m.alt1 n.alt1 nacute.alt1 ncaron.alt1 ncommaaccent.alt1 nhookleft.alt1 ntilde.alt1 eng.alt1 o.alt1 oacute.alt1 obreve.alt1 ocircumflex.alt1 odieresis.alt1 odotbelow.alt1 ograve.alt1 ohungarumlaut.alt1 omacron.alt1 oogonek.alt1 oslash.alt1 oslashacute.alt1 otilde.alt1 oe.alt1 p.alt1 thorn.alt1 q.alt1 r.alt1 racute.alt1 rcaron.alt1 rcommaaccent.alt1 s.alt1 sacute.alt1 scaron.alt1 scedilla.alt1 scircumflex.alt1 scommaaccent.alt1 germandbls.alt1 t.alt1 tbar.alt1 tcaron.alt1 tcedilla.alt1 tcommaaccent.alt1 u.alt1 uacute.alt1 ubreve.alt1 ucircumflex.alt1 udieresis.alt1 udotbelow.alt1 ugrave.alt1 uhungarumlaut.alt1 umacron.alt1 uogonek.alt1 uring.alt1 utilde.alt1 v.alt1 w.alt1 wacute.alt1 wcircumflex.alt1 wdieresis.alt1 wgrave.alt1 x.alt1 y.alt1 yacute.alt1 ycircumflex.alt1 ydieresis.alt1 ygrave.alt1 ymacron.alt1 ytilde.alt1 z.alt1 zacute.alt1 zcaron.alt1 zdotaccent.alt1 a.alt2 b.alt2 c.alt2 d.alt2 e.alt2 f.alt2 g.alt2 h.alt2 i.alt2 j.alt2 k.alt2 l.alt2 m.alt2 n.alt2 o.alt2 p.alt2 q.alt2 r.alt2 s.alt2 t.alt2 u.alt2 v.alt2 w.alt2 x.alt2 y.alt2 z.alt2 a.alt3 b.alt3 c.alt3 d.alt3 e.alt3 f.alt3 g.alt3 h.alt3 i.alt3 j.alt3 k.alt3 l.alt3 m.alt3 n.alt3 o.alt3 p.alt3 q.alt3 r.alt3 s.alt3 t.alt3 u.alt3 v.alt3 w.alt3 x.alt3 y.alt3 z.alt3 a.alt4 b.alt4 c.alt4 d.alt4 e.alt4 f.alt4 g.alt4 h.alt4 i.alt4 j.alt4 k.alt4 l.alt4 m.alt4 n.alt4 o.alt4 p.alt4 q.alt4 r.alt4 s.alt4 t.alt4 u.alt4 v.alt4 w.alt4 x.alt4 y.alt4 z.alt4 a.alt5 aacute.alt5 abreve.alt5 acircumflex.alt5 adieresis.alt5 agrave.alt5 amacron.alt5 aogonek.alt5 aring.alt5 atilde.alt5 ae.alt5 aeacute.alt5 b.alt5 c.alt5 cacute.alt5 ccaron.alt5 ccedilla.alt5 ccircumflex.alt5 cdotaccent.alt5 d.alt5 eth.alt5 dcaron.alt5 dcroat.alt5 e.alt5 eacute.alt5 ebreve.alt5 ecaron.alt5 ecircumflex.alt5 edieresis.alt5 edotaccent.alt5 edotbelow.alt5 egrave.alt5 emacron.alt5 eogonek.alt5 etilde.alt5 schwa.alt5 f.alt5 g.alt5 gbreve.alt5 gcaron.alt5 gcircumflex.alt5 gcommaaccent.alt5 gdotaccent.alt5 h.alt5 hbar.alt5 hcircumflex.alt5 i.alt5 idotless.alt5 iacute.alt5 ibreve.alt5 icircumflex.alt5 idieresis.alt5 idotbelow.alt5 igrave.alt5 ij.alt5 imacron.alt5 iogonek.alt5 j.alt5 jdotless.alt5 jcircumflex.alt5 k.alt5 kcommaaccent.alt5 kgreenlandic.alt5 l.alt5 lacute.alt5 lcaron.alt5 lcommaaccent.alt5 ldot.alt5 lslash.alt5 m.alt5 n.alt5 nacute.alt5 ncaron.alt5 ncommaaccent.alt5 nhookleft.alt5 ntilde.alt5 eng.alt5 o.alt5 oacute.alt5 obreve.alt5 ocircumflex.alt5 odieresis.alt5 odotbelow.alt5 ograve.alt5 ohungarumlaut.alt5 omacron.alt5 oogonek.alt5 oslash.alt5 oslashacute.alt5 otilde.alt5 oe.alt5 p.alt5 thorn.alt5 q.alt5 r.alt5 racute.alt5 rcaron.alt5 rcommaaccent.alt5 s.alt5 sacute.alt5 scaron.alt5 scedilla.alt5 scircumflex.alt5 scommaaccent.alt5 germandbls.alt5 t.alt5 tbar.alt5 tcaron.alt5 tcedilla.alt5 tcommaaccent.alt5 u.alt5 uacute.alt5 ubreve.alt5 ucircumflex.alt5 udieresis.alt5 udotbelow.alt5 ugrave.alt5 uhungarumlaut.alt5 umacron.alt5 uogonek.alt5 uring.alt5 utilde.alt5 v.alt5 w.alt5 wacute.alt5 wcircumflex.alt5 wdieresis.alt5 wgrave.alt5 x.alt5 y.alt5 yacute.alt5 ycircumflex.alt5 ydieresis.alt5 ygrave.alt5 ymacron.alt5 ytilde.alt5 z.alt5 zacute.alt5 zcaron.alt5 zdotaccent.alt5 ordfeminine ordmasculine ordfeminine.alt1 ordmasculine.alt1 ordfeminine.alt5 ordmasculine.alt5 Omega Omega.alt1 Omega.alt5
+];
+
+@AllBasicLetters = [ A Aacute Abreve Acircumflex Adieresis Adotbelow Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Edotbelow Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Nhookleft Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Odotbelow Ograve Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ymacron Ytilde Z Zacute Zcaron Zdotaccent a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d eth dcaron dcroat e eacute ebreve ecaron ecircumflex edieresis edotaccent edotbelow egrave emacron eogonek etilde schwa f g gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute ibreve icircumflex idieresis idotbelow igrave ij imacron iogonek j jdotless jcircumflex k kcommaaccent kgreenlandic l lacute lcaron lcommaaccent ldot lslash m n nacute ncaron ncommaaccent nhookleft ntilde eng o oacute obreve ocircumflex odieresis odotbelow ograve ohungarumlaut omacron oogonek oslash oslashacute otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent germandbls t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucircumflex udieresis udotbelow ugrave uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave ymacron ytilde z zacute zcaron zdotaccent ordfeminine ordmasculine Omega
+];
+
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Adotbelow Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Edotbelow Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Nhookleft Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Odotbelow Ograve Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ymacron Ytilde Z Zacute Zcaron Zdotaccent A.alt B.alt C.alt D.alt E.alt F.alt G.alt H.alt I.alt J.alt K.alt L.alt M.alt N.alt O.alt P.alt Q.alt R.alt S.alt T.alt U.alt V.alt W.alt X.alt Y.alt Z.alt A.alt1 Aacute.alt1 Abreve.alt1 Acircumflex.alt1 Adieresis.alt1 Adotbelow.alt1 Agrave.alt1 Amacron.alt1 Aogonek.alt1 Aring.alt1 Atilde.alt1 AE.alt1 AEacute.alt1 B.alt1 C.alt1 Cacute.alt1 Ccaron.alt1 Ccedilla.alt1 Ccircumflex.alt1 Cdotaccent.alt1 D.alt1 Eth.alt1 Dcaron.alt1 Dcroat.alt1 E.alt1 Eacute.alt1 Ebreve.alt1 Ecaron.alt1 Ecircumflex.alt1 Edieresis.alt1 Edotaccent.alt1 Edotbelow.alt1 Egrave.alt1 Emacron.alt1 Eogonek.alt1 Etilde.alt1 Schwa.alt1 F.alt1 G.alt1 Gbreve.alt1 Gcaron.alt1 Gcircumflex.alt1 Gcommaaccent.alt1 Gdotaccent.alt1 H.alt1 Hbar.alt1 Hcircumflex.alt1 I.alt1 IJ.alt1 Iacute.alt1 Ibreve.alt1 Icircumflex.alt1 Idieresis.alt1 Idotaccent.alt1 Idotbelow.alt1 Igrave.alt1 Imacron.alt1 Iogonek.alt1 Itilde.alt1 J.alt1 Jcircumflex.alt1 K.alt1 Kcommaaccent.alt1 L.alt1 Lacute.alt1 Lcaron.alt1 Lcommaaccent.alt1 Ldot.alt1 Lslash.alt1 M.alt1 N.alt1 Nacute.alt1 Ncaron.alt1 Ncommaaccent.alt1 Nhookleft.alt1 Ntilde.alt1 Eng.alt1 O.alt1 Oacute.alt1 Obreve.alt1 Ocircumflex.alt1 Odieresis.alt1 Odotbelow.alt1 Ograve.alt1 Ohungarumlaut.alt1 Omacron.alt1 Oogonek.alt1 Oslash.alt1 Oslashacute.alt1 Otilde.alt1 OE.alt1 P.alt1 Thorn.alt1 Q.alt1 R.alt1 Racute.alt1 Rcaron.alt1 Rcommaaccent.alt1 S.alt1 Sacute.alt1 Scaron.alt1 Scedilla.alt1 Scircumflex.alt1 Scommaaccent.alt1 Germandbls.alt1 T.alt1 Tbar.alt1 Tcaron.alt1 Tcedilla.alt1 Tcommaaccent.alt1 U.alt1 Uacute.alt1 Ubreve.alt1 Ucircumflex.alt1 Udieresis.alt1 Udotbelow.alt1 Ugrave.alt1 Uhungarumlaut.alt1 Umacron.alt1 Uogonek.alt1 Uring.alt1 Utilde.alt1 V.alt1 W.alt1 Wacute.alt1 Wcircumflex.alt1 Wdieresis.alt1 Wgrave.alt1 X.alt1 Y.alt1 Yacute.alt1 Ycircumflex.alt1 Ydieresis.alt1 Ygrave.alt1 Ymacron.alt1 Ytilde.alt1 Z.alt1 Zacute.alt1 Zcaron.alt1 Zdotaccent.alt1 A.alt2 B.alt2 C.alt2 D.alt2 E.alt2 F.alt2 G.alt2 H.alt2 I.alt2 J.alt2 K.alt2 L.alt2 M.alt2 N.alt2 O.alt2 P.alt2 Q.alt2 R.alt2 S.alt2 T.alt2 U.alt2 V.alt2 W.alt2 X.alt2 Y.alt2 Z.alt2 A.alt3 B.alt3 C.alt3 D.alt3 E.alt3 F.alt3 G.alt3 H.alt3 I.alt3 J.alt3 K.alt3 L.alt3 M.alt3 N.alt3 O.alt3 P.alt3 Q.alt3 R.alt3 S.alt3 T.alt3 U.alt3 V.alt3 W.alt3 X.alt3 Y.alt3 Z.alt3 A.alt4 B.alt4 C.alt4 D.alt4 E.alt4 F.alt4 G.alt4 H.alt4 I.alt4 J.alt4 K.alt4 L.alt4 M.alt4 N.alt4 O.alt4 P.alt4 Q.alt4 R.alt4 S.alt4 T.alt4 U.alt4 V.alt4 W.alt4 X.alt4 Y.alt4 Z.alt4 A.alt5 Aacute.alt5 Abreve.alt5 Acircumflex.alt5 Adieresis.alt5 Adotbelow.alt5 Agrave.alt5 Amacron.alt5 Aogonek.alt5 Aring.alt5 Atilde.alt5 AE.alt5 AEacute.alt5 B.alt5 C.alt5 Cacute.alt5 Ccaron.alt5 Ccedilla.alt5 Ccircumflex.alt5 Cdotaccent.alt5 D.alt5 Eth.alt5 Dcaron.alt5 Dcroat.alt5 E.alt5 Eacute.alt5 Ebreve.alt5 Ecaron.alt5 Ecircumflex.alt5 Edieresis.alt5 Edotaccent.alt5 Edotbelow.alt5 Egrave.alt5 Emacron.alt5 Eogonek.alt5 Etilde.alt5 Schwa.alt5 F.alt5 G.alt5 Gbreve.alt5 Gcaron.alt5 Gcircumflex.alt5 Gcommaaccent.alt5 Gdotaccent.alt5 H.alt5 Hbar.alt5 Hcircumflex.alt5 I.alt5 IJ.alt5 Iacute.alt5 Ibreve.alt5 Icircumflex.alt5 Idieresis.alt5 Idotaccent.alt5 Idotbelow.alt5 Igrave.alt5 Imacron.alt5 Iogonek.alt5 Itilde.alt5 J.alt5 Jcircumflex.alt5 K.alt5 Kcommaaccent.alt5 L.alt5 Lacute.alt5 Lcaron.alt5 Lcommaaccent.alt5 Ldot.alt5 Lslash.alt5 M.alt5 N.alt5 Nacute.alt5 Ncaron.alt5 Ncommaaccent.alt5 Nhookleft.alt5 Ntilde.alt5 Eng.alt5 O.alt5 Oacute.alt5 Obreve.alt5 Ocircumflex.alt5 Odieresis.alt5 Odotbelow.alt5 Ograve.alt5 Ohungarumlaut.alt5 Omacron.alt5 Oogonek.alt5 Oslash.alt5 Oslashacute.alt5 Otilde.alt5 OE.alt5 P.alt5 Thorn.alt5 Q.alt5 R.alt5 Racute.alt5 Rcaron.alt5 Rcommaaccent.alt5 S.alt5 Sacute.alt5 Scaron.alt5 Scedilla.alt5 Scircumflex.alt5 Scommaaccent.alt5 Germandbls.alt5 T.alt5 Tbar.alt5 Tcaron.alt5 Tcedilla.alt5 Tcommaaccent.alt5 U.alt5 Uacute.alt5 Ubreve.alt5 Ucircumflex.alt5 Udieresis.alt5 Udotbelow.alt5 Ugrave.alt5 Uhungarumlaut.alt5 Umacron.alt5 Uogonek.alt5 Uring.alt5 Utilde.alt5 V.alt5 W.alt5 Wacute.alt5 Wcircumflex.alt5 Wdieresis.alt5 Wgrave.alt5 X.alt5 Y.alt5 Yacute.alt5 Ycircumflex.alt5 Ydieresis.alt5 Ygrave.alt5 Ymacron.alt5 Ytilde.alt5 Z.alt5 Zacute.alt5 Zcaron.alt5 Zdotaccent.alt5 Omega Omega.alt1 Omega.alt5
+];
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+
+# Prefix: Colorlookups
+lookup ALT_SUBS {
+    sub one by one.alt; 
+    sub two by two.alt; 
+    sub three by three.alt; 
+    sub four by four.alt; 
+    sub five by five.alt; 
+    sub six by six.alt; 
+    sub seven by seven.alt; 
+    sub eight by eight.alt; 
+    sub nine by nine.alt; 
+    sub zero by zero.alt; 
+    sub a by a.alt; 
+    sub b by b.alt; 
+    sub c by c.alt; 
+    sub d by d.alt; 
+    sub e by e.alt; 
+    sub f by f.alt; 
+    sub g by g.alt; 
+    sub h by h.alt; 
+    sub i by i.alt; 
+    sub j by j.alt; 
+    sub k by k.alt; 
+    sub l by l.alt; 
+    sub m by m.alt; 
+    sub n by n.alt; 
+    sub o by o.alt; 
+    sub p by p.alt; 
+    sub q by q.alt; 
+    sub r by r.alt; 
+    sub s by s.alt; 
+    sub t by t.alt; 
+    sub u by u.alt; 
+    sub v by v.alt; 
+    sub w by w.alt; 
+    sub x by x.alt; 
+    sub y by y.alt; 
+    sub z by z.alt; 
+    sub A by A.alt; 
+    sub B by B.alt; 
+    sub C by C.alt; 
+    sub D by D.alt; 
+    sub E by E.alt; 
+    sub F by F.alt; 
+    sub G by G.alt; 
+    sub H by H.alt; 
+    sub I by I.alt; 
+    sub J by J.alt; 
+    sub K by K.alt; 
+    sub L by L.alt; 
+    sub M by M.alt; 
+    sub O by O.alt; 
+    sub N by N.alt; 
+    sub P by P.alt; 
+    sub Q by Q.alt; 
+    sub R by R.alt; 
+    sub S by S.alt; 
+    sub T by T.alt; 
+    sub U by U.alt; 
+    sub V by V.alt; 
+    sub W by W.alt; 
+    sub X by X.alt; 
+    sub Y by Y.alt; 
+    sub Z by Z.alt; 
+} ALT_SUBS;
+
+lookup ALT2_SUBS {
+    sub one by one.alt2; 
+    sub two by two.alt2; 
+    sub three by three.alt2; 
+    sub four by four.alt2; 
+    sub five by five.alt2; 
+    sub six by six.alt2; 
+    sub seven by seven.alt2; 
+    sub eight by eight.alt2; 
+    sub nine by nine.alt2; 
+    sub zero by zero.alt2; 
+    sub a by a.alt2; 
+    sub b by b.alt2; 
+    sub c by c.alt2; 
+    sub d by d.alt2; 
+    sub e by e.alt2; 
+    sub f by f.alt2; 
+    sub g by g.alt2; 
+    sub h by h.alt2; 
+    sub i by i.alt2; 
+    sub j by j.alt2; 
+    sub k by k.alt2; 
+    sub l by l.alt2; 
+    sub m by m.alt2; 
+    sub n by n.alt2; 
+    sub o by o.alt2; 
+    sub p by p.alt2; 
+    sub q by q.alt2; 
+    sub r by r.alt2; 
+    sub s by s.alt2; 
+    sub t by t.alt2; 
+    sub u by u.alt2; 
+    sub v by v.alt2; 
+    sub w by w.alt2; 
+    sub x by x.alt2; 
+    sub y by y.alt2; 
+    sub z by z.alt2; 
+    sub hyphen by hyphen.alt2; 
+    sub period by period.alt2; 
+    sub numbersign by numbersign.alt2; 
+    sub asterisk by asterisk.alt2; 
+    sub A by A.alt2; 
+    sub B by B.alt2; 
+    sub C by C.alt2; 
+    sub D by D.alt2; 
+    sub E by E.alt2; 
+    sub F by F.alt2; 
+    sub G by G.alt2; 
+    sub H by H.alt2; 
+    sub I by I.alt2; 
+    sub J by J.alt2; 
+    sub K by K.alt2; 
+    sub L by L.alt2; 
+    sub M by M.alt2; 
+    sub O by O.alt2; 
+    sub N by N.alt2; 
+    sub P by P.alt2; 
+    sub Q by Q.alt2; 
+    sub R by R.alt2; 
+    sub S by S.alt2; 
+    sub T by T.alt2; 
+    sub U by U.alt2; 
+    sub V by V.alt2; 
+    sub W by W.alt2; 
+    sub X by X.alt2; 
+    sub Y by Y.alt2; 
+    sub Z by Z.alt2; 
+    sub underscore by underscore.alt2; 
+} ALT2_SUBS;
+
+lookup ALT3_SUBS {
+    sub one by one.alt3; 
+    sub two by two.alt3; 
+    sub three by three.alt3; 
+    sub four by four.alt3; 
+    sub five by five.alt3; 
+    sub six by six.alt3; 
+    sub seven by seven.alt3; 
+    sub eight by eight.alt3; 
+    sub nine by nine.alt3; 
+    sub zero by zero.alt3; 
+    sub a by a.alt3; 
+    sub b by b.alt3; 
+    sub c by c.alt3; 
+    sub d by d.alt3; 
+    sub e by e.alt3; 
+    sub f by f.alt3; 
+    sub g by g.alt3; 
+    sub h by h.alt3; 
+    sub i by i.alt3; 
+    sub j by j.alt3; 
+    sub k by k.alt3; 
+    sub l by l.alt3; 
+    sub m by m.alt3; 
+    sub n by n.alt3; 
+    sub o by o.alt3; 
+    sub p by p.alt3; 
+    sub q by q.alt3; 
+    sub r by r.alt3; 
+    sub s by s.alt3; 
+    sub t by t.alt3; 
+    sub u by u.alt3; 
+    sub v by v.alt3; 
+    sub w by w.alt3; 
+    sub x by x.alt3; 
+    sub y by y.alt3; 
+    sub z by z.alt3; 
+    sub hyphen by hyphen.alt3; 
+    sub period by period.alt3; 
+    sub numbersign by numbersign.alt3; 
+    sub asterisk by asterisk.alt3; 
+    sub A by A.alt3; 
+    sub B by B.alt3; 
+    sub C by C.alt3; 
+    sub D by D.alt3; 
+    sub E by E.alt3; 
+    sub F by F.alt3; 
+    sub G by G.alt3; 
+    sub H by H.alt3; 
+    sub I by I.alt3; 
+    sub J by J.alt3; 
+    sub K by K.alt3; 
+    sub L by L.alt3; 
+    sub M by M.alt3; 
+    sub O by O.alt3; 
+    sub N by N.alt3; 
+    sub P by P.alt3; 
+    sub Q by Q.alt3; 
+    sub R by R.alt3; 
+    sub S by S.alt3; 
+    sub T by T.alt3; 
+    sub U by U.alt3; 
+    sub V by V.alt3; 
+    sub W by W.alt3; 
+    sub X by X.alt3; 
+    sub Y by Y.alt3; 
+    sub Z by Z.alt3; 
+    sub underscore by underscore.alt3;
+} ALT3_SUBS;
+
+
+
+feature aalt {
+# automatic
+feature calt;
+feature locl;
+feature subs;
+feature sinf;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature case;
+feature ss08;
+feature ss04;
+feature ss05;
+feature ss07;
+feature ss06;
+feature ss02;
+feature ss03;
+feature ss01;
+feature calt;
+
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+} ccmp;
+
+feature locl {
+# automatic
+lookup locl_latn_0 {
+	# script latn; # FontForge issue 5442
+	# language ROM; # FontForge issue 5442
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+	# language MOL; # FontForge issue 5442
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	# script latn; # FontForge issue 5442
+	# language CAT; # FontForge issue 5442
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_1;
+
+} locl;
+
+feature subs {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+
+} subs;
+
+feature sinf {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+
+} sinf;
+
+feature sups {
+# automatic
+sub zero by zerosuperior;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+
+} sups;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by numero;
+
+} ordn;
+
+feature case {
+# automatic
+sub dieresiscomb by dieresiscomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub hungarumlautcomb by hungarumlautcomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub caroncomb by caroncomb.case;
+sub brevecomb by brevecomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub macroncomb by macroncomb.case;
+
+} case;
+
+feature calt {
+lookup CSSoneLineComment useExtension {
+	# start coloring if //
+    sub slash slash @All' by @AllAlt1;
+	# color //
+	sub slash' slash by slash.alt1;
+	sub slash.alt1 slash' by slash.alt1;
+	# finite state machine
+	sub @AllAlt1 @All' by @AllAlt1;
+} CSSoneLineComment;
+
+lookup BetweenQuotes useExtension {
+	# stop if encounter special zeroWidthNoBreakSpace.stopper
+	ignore sub @AllBasicLetters [quotedbl quotesingle] @All';
+	ignore sub @AllAlt5 [quotedbl quotesingle]' @All';
+	# start coloring if " or '
+    sub [quotedbl quotesingle] @All' by @AllAlt5;
+	# finite state machine
+	sub @AllAlt5 @All' by @AllAlt5;
+} BetweenQuotes;
+
+lookup HTMLcomment useExtension {
+	# stop if encounter colored -->
+	ignore sub hyphen.alt1 hyphen.alt1 greater.alt1 @All';
+	# stop if encounter colored */
+	ignore sub asterisk.alt1 slash.alt1 @All';
+	# start coloring if <!--
+    sub less exclam hyphen hyphen @All' by @AllAlt1;
+    sub less exclam hyphen hyphen space @All' by @AllAlt1;
+	# color <!--
+	sub less' exclam hyphen hyphen by less.alt1 exclam.alt1 hyphen.alt1;
+	sub less.alt1 exclam.alt1 hyphen.alt1 exclam' hyphen' hyphen' by hyphen.alt1;
+	# finite state machine
+	sub @AllAlt1 @All' by @AllAlt1;
+} HTMLcomment;
+
+lookup CSScomment useExtension {
+	# stop if encounter colored */
+	ignore sub asterisk.alt1 slash.alt1 @All';
+	# stop if encounter colored -->
+	ignore sub hyphen.alt1 hyphen.alt1 greater.alt1 @All';
+	# start coloring if /*
+    sub slash asterisk @All' by @AllAlt1;
+    sub slash asterisk space @All' by @AllAlt1;
+	# color /*
+	sub slash' asterisk by slash.alt1;
+	sub slash.alt1 asterisk' by asterisk.alt1;
+	# finite state machine
+	sub @AllAlt1 @All' by @AllAlt1;
+} CSScomment;
+
+lookup HtmlElemCalt useExtension {
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css by @CssAlt;
+  sub @CssAlt @Css' by @CssAlt;
+  sub less @Css' by @CssAlt;
+} HtmlElemCalt;
+
+lookup HtmlElem2Calt useExtension {
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css @Css by @CssAlt;
+  sub @CssAlt @Css' @Css by @CssAlt;
+  sub @CssAlt @Css' by @CssAlt;
+  sub less slash @Css' by @CssAlt;
+} HtmlElem2Calt;
+
+lookup HTMLAttrCalt useExtension {
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css @Css equal by @CssAlt2;
+  sub @Css' @Css @Css equal by @CssAlt2;
+  sub @Css' @Css equal by @CssAlt2;
+  sub @Css' equal by @CssAlt2;
+} HTMLAttrCalt;
+
+lookup CssParamCalt useExtension {
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' @CssParam parenleft by @CssParamAlt4;
+  sub @CssParam' parenleft by @CssParamAlt4;
+} CssParamCalt;
+
+lookup CssSelector3Calt useExtension {
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css space [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' space [greater braceleft asciitilde plus] by @CssAlt;
+} CssSelector3Calt;
+
+lookup CssSelector2Calt useExtension {
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' @Css [greater braceleft asciitilde plus] by @CssAlt;
+  sub @Css' [greater braceleft asciitilde plus] by @CssAlt;
+} CssSelector2Calt;
+
+
+lookup CssPropertyCalt useExtension {
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css @Css colon by @CssAlt3;
+  sub @Css' @Css @Css colon by @CssAlt3;
+  sub @Css' @Css colon by @CssAlt3;
+  sub @Css' colon by @CssAlt3;
+} CssPropertyCalt;
+
+lookup CSSrule useExtension {
+	# stop if encounter @CssAlt5 and ;
+	ignore sub @CssAlt5 semicolon' @All';
+	# start coloring if :
+    sub [colon] @Css' by @CssAlt5;
+    sub [colon] space @Css' by @CssAlt5;
+	# finite state machine
+	sub @CssAlt5 @Css' by @CssAlt5;
+} CSSrule;
+
+# JS KEYWORDS
+lookup JS_as {
+    ignore sub @AllLetters a' s', a' s' @AllLetters;
+    sub a' lookup ALT_SUBS s' lookup ALT_SUBS;
+} JS_as;
+
+lookup JS_in {
+    ignore sub @AllLetters i' n', i' n' @AllLetters;
+    sub i' lookup ALT_SUBS n' lookup ALT_SUBS;
+} JS_in;
+
+lookup JS_of {
+    ignore sub @AllLetters o' f', o' f' @AllLetters;
+    sub o' lookup ALT_SUBS f' lookup ALT_SUBS;
+} JS_of;
+
+lookup JS_if {
+    ignore sub @AllLetters i' f', i' f' @AllLetters;
+    sub i' lookup ALT_SUBS f' lookup ALT_SUBS;
+} JS_if;
+
+lookup JS_for {
+    ignore sub @AllLetters f' o' r', f' o' r' @AllLetters;
+    sub f' lookup ALT_SUBS o' lookup ALT_SUBS r' lookup ALT_SUBS;
+} JS_for;
+
+lookup JS_while {
+    ignore sub @AllLetters w' h' i' l' e', w' h' i' l' e' @AllLetters;
+    sub w' lookup ALT_SUBS h' lookup ALT_SUBS i' lookup ALT_SUBS l' lookup ALT_SUBS e' lookup ALT_SUBS;
+} JS_while;
+
+lookup JS_finally {
+    ignore sub @AllLetters f' i' n' a' l' l' y', f' i' n' a' l' l' y' @AllLetters;
+    sub f' lookup ALT_SUBS i' lookup ALT_SUBS n' lookup ALT_SUBS a' lookup ALT_SUBS l' lookup ALT_SUBS l' lookup ALT_SUBS y' lookup ALT_SUBS;
+} JS_finally;
+
+lookup JS_var {
+    ignore sub @AllLetters v' a' r', v' a' r' @AllLetters;
+    sub v' lookup ALT_SUBS a' lookup ALT_SUBS r' lookup ALT_SUBS;
+} JS_var;
+
+lookup JS_new {
+    ignore sub @AllLetters n' e' w', n' e' w' @AllLetters;
+    sub n' lookup ALT_SUBS e' lookup ALT_SUBS w' lookup ALT_SUBS;
+} JS_new;
+
+lookup JS_function {
+    ignore sub @AllLetters f' u' n' c' t' i' o' n', f' u' n' c' t' i' o' n' @AllLetters;
+    sub f' lookup ALT_SUBS u' lookup ALT_SUBS n' lookup ALT_SUBS c' lookup ALT_SUBS t' lookup ALT_SUBS i' lookup ALT_SUBS o' lookup ALT_SUBS n' lookup ALT_SUBS;
+} JS_function;
+
+lookup JS_do {
+    ignore sub @AllLetters d' o', d' o' @AllLetters;
+    sub d' lookup ALT_SUBS o' lookup ALT_SUBS;
+} JS_do;
+
+lookup JS_return {
+    ignore sub @AllLetters r' e' t' u' r' n', r' e' t' u' r' n' @AllLetters;
+    sub r' lookup ALT_SUBS e' lookup ALT_SUBS t' lookup ALT_SUBS u' lookup ALT_SUBS r' lookup ALT_SUBS n' lookup ALT_SUBS;
+} JS_return;
+
+lookup JS_void {
+    ignore sub @AllLetters v' o' i' d', v' o' i' d' @AllLetters;
+    sub v' lookup ALT_SUBS o' lookup ALT_SUBS i' lookup ALT_SUBS d' lookup ALT_SUBS;
+} JS_void;
+
+lookup JS_else {
+    ignore sub @AllLetters e' l' s' e', e' l' s' e' @AllLetters;
+    sub e' lookup ALT_SUBS l' lookup ALT_SUBS s' lookup ALT_SUBS e' lookup ALT_SUBS;
+} JS_else;
+
+lookup JS_break {
+    ignore sub @AllLetters b' r' e' a' k', b' r' e' a' k' @AllLetters;
+    sub b' lookup ALT_SUBS r' lookup ALT_SUBS e' lookup ALT_SUBS a' lookup ALT_SUBS k' lookup ALT_SUBS;
+} JS_break;
+
+lookup JS_catch {
+    ignore sub @AllLetters c' a' t' c' h', c' a' t' c' h' @AllLetters;
+    sub c' lookup ALT_SUBS a' lookup ALT_SUBS t' lookup ALT_SUBS c' lookup ALT_SUBS h' lookup ALT_SUBS;
+} JS_catch;
+
+lookup JS_instanceof {
+    ignore sub @AllLetters i' n' s' t' a' n' c' e' o' f', i' n' s' t' a' n' c' e' o' f' @AllLetters;
+    sub i' lookup ALT_SUBS n' lookup ALT_SUBS s' lookup ALT_SUBS t' lookup ALT_SUBS a' lookup ALT_SUBS n' lookup ALT_SUBS c' lookup ALT_SUBS e' lookup ALT_SUBS o' lookup ALT_SUBS f' lookup ALT_SUBS;
+} JS_instanceof;
+
+lookup JS_with {
+    ignore sub @AllLetters w' i' t' h', w' i' t' h' @AllLetters;
+    sub w' lookup ALT_SUBS i' lookup ALT_SUBS t' lookup ALT_SUBS h' lookup ALT_SUBS;
+} JS_with;
+
+lookup JS_throw {
+    ignore sub @AllLetters t' h' r' o' w', t' h' r' o' w' @AllLetters;
+    sub t' lookup ALT_SUBS h' lookup ALT_SUBS r' lookup ALT_SUBS o' lookup ALT_SUBS w' lookup ALT_SUBS;
+} JS_throw;
+
+lookup JS_case {
+    ignore sub @AllLetters c' a' s' e', c' a' s' e' @AllLetters;
+    sub c' lookup ALT_SUBS a' lookup ALT_SUBS s' lookup ALT_SUBS e' lookup ALT_SUBS;
+} JS_case;
+
+lookup JS_default {
+    ignore sub @AllLetters d' e' f' a' u' l' t', d' e' f' a' u' l' t' @AllLetters;
+    sub d' lookup ALT_SUBS e' lookup ALT_SUBS f' lookup ALT_SUBS a' lookup ALT_SUBS u' lookup ALT_SUBS l' lookup ALT_SUBS t' lookup ALT_SUBS;
+} JS_default;
+
+lookup JS_try {
+    ignore sub @AllLetters t' r' y', t' r' y' @AllLetters;
+    sub t' lookup ALT_SUBS r' lookup ALT_SUBS y' lookup ALT_SUBS;
+} JS_try;
+
+lookup JS_switch {
+    ignore sub @AllLetters s' w' i' t' c' h', s' w' i' t' c' h' @AllLetters;
+    sub s' lookup ALT_SUBS w' lookup ALT_SUBS i' lookup ALT_SUBS t' lookup ALT_SUBS c' lookup ALT_SUBS h' lookup ALT_SUBS;
+} JS_switch;
+
+lookup JS_continue {
+    ignore sub @AllLetters c' o' n' t' i' n' u' e', c' o' n' t' i' n' u' e' @AllLetters;
+    sub c' lookup ALT_SUBS o' lookup ALT_SUBS n' lookup ALT_SUBS t' lookup ALT_SUBS i' lookup ALT_SUBS n' lookup ALT_SUBS u' lookup ALT_SUBS e' lookup ALT_SUBS;
+} JS_continue;
+
+lookup JS_typeof {
+    ignore sub @AllLetters t' y' p' e' o' f', t' y' p' e' o' f' @AllLetters;
+    sub t' lookup ALT_SUBS y' lookup ALT_SUBS p' lookup ALT_SUBS e' lookup ALT_SUBS o' lookup ALT_SUBS f' lookup ALT_SUBS;
+} JS_typeof;
+
+lookup JS_delete {
+    ignore sub @AllLetters d' e' l' e' t' e', d' e' l' e' t' e' @AllLetters;
+    sub d' lookup ALT_SUBS e' lookup ALT_SUBS l' lookup ALT_SUBS e' lookup ALT_SUBS t' lookup ALT_SUBS e' lookup ALT_SUBS;
+} JS_delete;
+
+lookup JS_let {
+    ignore sub @AllLetters l' e' t', l' e' t' @AllLetters;
+    sub l' lookup ALT_SUBS e' lookup ALT_SUBS t' lookup ALT_SUBS;
+} JS_let;
+
+lookup JS_yield {
+    ignore sub @AllLetters y' i' e' l' d', y' i' e' l' d' @AllLetters;
+    sub y' lookup ALT_SUBS i' lookup ALT_SUBS e' lookup ALT_SUBS l' lookup ALT_SUBS d' lookup ALT_SUBS;
+} JS_yield;
+
+lookup JS_const {
+    ignore sub @AllLetters c' o' n' s' t', c' o' n' s' t' @AllLetters;
+    sub c' lookup ALT_SUBS o' lookup ALT_SUBS n' lookup ALT_SUBS s' lookup ALT_SUBS t' lookup ALT_SUBS;
+} JS_const;
+
+lookup JS_class {
+    ignore sub @AllLetters c' l' a' s' s', c' l' a' s' s' @AllLetters;
+    sub c' lookup ALT_SUBS l' lookup ALT_SUBS a' lookup ALT_SUBS s' lookup ALT_SUBS s' lookup ALT_SUBS;
+} JS_class;
+
+lookup JS_get {
+    ignore sub @AllLetters g' e' t', g' e' t' @AllLetters;
+    sub g' lookup ALT_SUBS e' lookup ALT_SUBS t' lookup ALT_SUBS;
+} JS_get;
+
+lookup JS_set {
+    ignore sub @AllLetters s' e' t', s' e' t' @AllLetters;
+    sub s' lookup ALT_SUBS e' lookup ALT_SUBS t' lookup ALT_SUBS;
+} JS_set;
+
+lookup JS_debugger {
+    ignore sub @AllLetters d' e' b' u' g' g' e' r', d' e' b' u' g' g' e' r' @AllLetters;
+    sub d' lookup ALT_SUBS e' lookup ALT_SUBS b' lookup ALT_SUBS u' lookup ALT_SUBS g' lookup ALT_SUBS g' lookup ALT_SUBS e' lookup ALT_SUBS r' lookup ALT_SUBS;
+} JS_debugger;
+
+lookup JS_async {
+    ignore sub @AllLetters a' s' y' n' c', a' s' y' n' c' @AllLetters;
+    sub a' lookup ALT_SUBS s' lookup ALT_SUBS y' lookup ALT_SUBS n' lookup ALT_SUBS c' lookup ALT_SUBS;
+} JS_async;
+
+lookup JS_await {
+    ignore sub @AllLetters a' w' a' i' t', a' w' a' i' t' @AllLetters;
+    sub a' lookup ALT_SUBS w' lookup ALT_SUBS a' lookup ALT_SUBS i' lookup ALT_SUBS t' lookup ALT_SUBS;
+} JS_await;
+
+lookup JS_static {
+    ignore sub @AllLetters s' t' a' t' i' c', s' t' a' t' i' c' @AllLetters;
+    sub s' lookup ALT_SUBS t' lookup ALT_SUBS a' lookup ALT_SUBS t' lookup ALT_SUBS i' lookup ALT_SUBS c' lookup ALT_SUBS;
+} JS_static;
+
+lookup JS_import {
+    ignore sub @AllLetters i' m' p' o' r' t', i' m' p' o' r' t' @AllLetters;
+    sub i' lookup ALT_SUBS m' lookup ALT_SUBS p' lookup ALT_SUBS o' lookup ALT_SUBS r' lookup ALT_SUBS t' lookup ALT_SUBS;
+} JS_import;
+
+lookup JS_from {
+    ignore sub @AllLetters f' r' o' m', f' r' o' m' @AllLetters;
+    sub f' lookup ALT_SUBS r' lookup ALT_SUBS o' lookup ALT_SUBS m' lookup ALT_SUBS;
+} JS_from;
+
+lookup JS_export {
+    ignore sub @AllLetters e' x' p' o' r' t', e' x' p' o' r' t' @AllLetters;
+    sub e' lookup ALT_SUBS x' lookup ALT_SUBS p' lookup ALT_SUBS o' lookup ALT_SUBS r' lookup ALT_SUBS t' lookup ALT_SUBS;
+} JS_export;
+
+lookup JS_extends {
+    ignore sub @AllLetters e' x' t' e' n' d' s', e' x' t' e' n' d' s' @AllLetters;
+    sub e' lookup ALT_SUBS x' lookup ALT_SUBS t' lookup ALT_SUBS e' lookup ALT_SUBS n' lookup ALT_SUBS d' lookup ALT_SUBS s' lookup ALT_SUBS;
+} JS_extends;
+
+# JS LITERALS
+lookup JS_true {
+    ignore sub @AllLetters t' r' u' e', t' r' u' e' @AllLetters;
+    sub t' lookup ALT2_SUBS r' lookup ALT2_SUBS u' lookup ALT2_SUBS e' lookup ALT2_SUBS;
+} JS_true;
+
+lookup JS_false {
+    ignore sub @AllLetters f' a' l' s' e', f' a' l' s' e' @AllLetters;
+    sub f' lookup ALT2_SUBS a' lookup ALT2_SUBS l' lookup ALT2_SUBS s' lookup ALT2_SUBS e' lookup ALT2_SUBS;
+} JS_false;
+
+lookup JS_null {
+    ignore sub @AllLetters n' u' l' l', n' u' l' l' @AllLetters;
+    sub n' lookup ALT2_SUBS u' lookup ALT2_SUBS l' lookup ALT2_SUBS l' lookup ALT2_SUBS;
+} JS_null;
+
+lookup JS_undefined {
+    ignore sub @AllLetters u' n' d' e' f' i' n' e' d', u' n' d' e' f' i' n' e' d' @AllLetters;
+    sub u' lookup ALT2_SUBS n' lookup ALT2_SUBS d' lookup ALT2_SUBS e' lookup ALT2_SUBS f' lookup ALT2_SUBS i' lookup ALT2_SUBS n' lookup ALT2_SUBS e' lookup ALT2_SUBS d' lookup ALT2_SUBS;
+} JS_undefined;
+
+lookup JS_NaN {
+    ignore sub @AllLetters N' a' N', N' a' N' @AllLetters;
+    sub N' lookup ALT2_SUBS a' lookup ALT2_SUBS N' lookup ALT2_SUBS;
+} JS_NaN;
+
+lookup JS_Infinity {
+    ignore sub @AllLetters I' n' f' i' n' i' t' y', I' n' f' i' n' i' t' y' @AllLetters;
+    sub I' lookup ALT2_SUBS n' lookup ALT2_SUBS f' lookup ALT2_SUBS i' lookup ALT2_SUBS n' lookup ALT2_SUBS i' lookup ALT2_SUBS t' lookup ALT2_SUBS y' lookup ALT2_SUBS;
+} JS_Infinity;
+
+
+#JS Others
+lookup JS_Object {
+    ignore sub @AllLetters O' b' j' e' c' t', O' b' j' e' c' t' @AllLetters;
+    sub O' lookup ALT3_SUBS b' lookup ALT3_SUBS j' lookup ALT3_SUBS e' lookup ALT3_SUBS c' lookup ALT3_SUBS t' lookup ALT3_SUBS;
+} JS_Object;
+
+lookup JS_Function {
+    ignore sub @AllLetters F' u' n' c' t' i' o' n', F' u' n' c' t' i' o' n' @AllLetters;
+    sub F' lookup ALT3_SUBS u' lookup ALT3_SUBS n' lookup ALT3_SUBS c' lookup ALT3_SUBS t' lookup ALT3_SUBS i' lookup ALT3_SUBS o' lookup ALT3_SUBS n' lookup ALT3_SUBS;
+} JS_Function;
+
+lookup JS_Boolean {
+    ignore sub @AllLetters B' o' o' l' e' a' n', B' o' o' l' e' a' n' @AllLetters;
+    sub B' lookup ALT3_SUBS o' lookup ALT3_SUBS o' lookup ALT3_SUBS l' lookup ALT3_SUBS e' lookup ALT3_SUBS a' lookup ALT3_SUBS n' lookup ALT3_SUBS;
+} JS_Boolean;
+
+lookup JS_Symbol {
+    ignore sub @AllLetters S' y' m' b' o' l', S' y' m' b' o' l' @AllLetters;
+    sub S' lookup ALT3_SUBS y' lookup ALT3_SUBS m' lookup ALT3_SUBS b' lookup ALT3_SUBS o' lookup ALT3_SUBS l' lookup ALT3_SUBS;
+} JS_Symbol;
+
+lookup JS_Math {
+    ignore sub @AllLetters M' a' t' h', M' a' t' h' @AllLetters;
+    sub M' lookup ALT3_SUBS a' lookup ALT3_SUBS t' lookup ALT3_SUBS h' lookup ALT3_SUBS;
+} JS_Math;
+
+lookup JS_Date {
+    ignore sub @AllLetters D' a' t' e', D' a' t' e' @AllLetters;
+    sub D' lookup ALT3_SUBS a' lookup ALT3_SUBS t' lookup ALT3_SUBS e' lookup ALT3_SUBS;
+} JS_Date;
+
+lookup JS_Number {
+    ignore sub @AllLetters N' u' m' b' e' r', N' u' m' b' e' r' @AllLetters;
+    sub N' lookup ALT3_SUBS u' lookup ALT3_SUBS m' lookup ALT3_SUBS b' lookup ALT3_SUBS e' lookup ALT3_SUBS r' lookup ALT3_SUBS;
+} JS_Number;
+
+lookup JS_String {
+    ignore sub @AllLetters S' t' r' i' n' g', S' t' r' i' n' g' @AllLetters;
+    sub S' lookup ALT3_SUBS t' lookup ALT3_SUBS r' lookup ALT3_SUBS i' lookup ALT3_SUBS n' lookup ALT3_SUBS g' lookup ALT3_SUBS;
+} JS_String;
+
+lookup JS_RegExp {
+    ignore sub @AllLetters R' e' g' E' x' p', R' e' g' E' x' p' @AllLetters;
+    sub R' lookup ALT3_SUBS e' lookup ALT3_SUBS g' lookup ALT3_SUBS E' lookup ALT3_SUBS x' lookup ALT3_SUBS p' lookup ALT3_SUBS;
+} JS_RegExp;
+
+lookup JS_Float32Array {
+    ignore sub @AllLetters F' l' o' a' t' three' two' A' r' r' a' y', F' l' o' a' t' three' two' A' r' r' a' y' @AllLetters;
+    sub F' lookup ALT3_SUBS l' lookup ALT3_SUBS o' lookup ALT3_SUBS a' lookup ALT3_SUBS t' lookup ALT3_SUBS three' lookup ALT3_SUBS two' lookup ALT3_SUBS A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_Float32Array;
+
+lookup JS_Float64Array {
+    ignore sub @AllLetters F' l' o' a' t' six' four' A' r' r' a' y', F' l' o' a' t' six' four' A' r' r' a' y' @AllLetters;
+    sub F' lookup ALT3_SUBS l' lookup ALT3_SUBS o' lookup ALT3_SUBS a' lookup ALT3_SUBS t' lookup ALT3_SUBS six' lookup ALT3_SUBS four' lookup ALT3_SUBS A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_Float64Array;
+
+lookup JS_Int8Array {
+    ignore sub @AllLetters I' n' t' eight' A' r' r' a' y', I' n' t' eight' A' r' r' a' y' @AllLetters;
+    sub I' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS eight' lookup ALT3_SUBS A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_Int8Array;
+
+lookup JS_Uint8Array {
+    ignore sub @AllLetters U' i' n' t' eight' A' r' r' a' y', U' i' n' t' eight' A' r' r' a' y' @AllLetters;
+    sub U' lookup ALT3_SUBS i' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS eight' lookup ALT3_SUBS A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_Uint8Array;
+
+lookup JS_Uint8ClampedArray {
+    ignore sub @AllLetters U' i' n' t' eight' C' l' a' m' p' e' d' A' r' r' a' y', U' i' n' t' eight' C' l' a' m' p' e' d' A' r' r' a' y' @AllLetters;
+    sub U' lookup ALT3_SUBS i' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS eight' lookup ALT3_SUBS C' lookup ALT3_SUBS l' lookup ALT3_SUBS a' lookup ALT3_SUBS m' lookup ALT3_SUBS p' lookup ALT3_SUBS e' lookup ALT3_SUBS d' lookup ALT3_SUBS A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_Uint8ClampedArray;
+
+lookup JS_Int16Array {
+    ignore sub @AllLetters I' n' t' one' six' A' r' r' a' y', I' n' t' one' six' A' r' r' a' y' @AllLetters;
+    sub I' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS one' lookup ALT3_SUBS six' lookup ALT3_SUBS A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_Int16Array;
+
+lookup JS_Int32Array {
+    ignore sub @AllLetters I' n' t' three' two' A' r' r' a' y', I' n' t' three' two' A' r' r' a' y' @AllLetters;
+    sub I' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS three' lookup ALT3_SUBS two' lookup ALT3_SUBS A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_Int32Array;
+
+lookup JS_Uint16Array {
+    ignore sub @AllLetters U' i' n' t' one' six' A' r' r' a' y', U' i' n' t' one' six' A' r' r' a' y' @AllLetters;
+    sub U' lookup ALT3_SUBS i' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS one' lookup ALT3_SUBS six' lookup ALT3_SUBS A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_Uint16Array;
+
+lookup JS_Uint32Array {
+    ignore sub @AllLetters U' i' n' t' three' two' A' r' r' a' y', U' i' n' t' three' two' A' r' r' a' y' @AllLetters;
+    sub U' lookup ALT3_SUBS i' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS three' lookup ALT3_SUBS two' lookup ALT3_SUBS A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_Uint32Array;
+
+lookup JS_BigInt64Array {
+    ignore sub @AllLetters B' i' g' I' n' t' six' four' A' r' r' a' y', B' i' g' I' n' t' six' four' A' r' r' a' y' @AllLetters;
+    sub B' lookup ALT3_SUBS i' lookup ALT3_SUBS g' lookup ALT3_SUBS I' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS six' lookup ALT3_SUBS four' lookup ALT3_SUBS A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_BigInt64Array;
+
+lookup JS_BigUint64Array {
+    ignore sub @AllLetters B' i' g' U' i' n' t' six' four' A' r' r' a' y', B' i' g' U' i' n' t' six' four' A' r' r' a' y' @AllLetters;
+    sub B' lookup ALT3_SUBS i' lookup ALT3_SUBS g' lookup ALT3_SUBS U' lookup ALT3_SUBS i' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS six' lookup ALT3_SUBS four' lookup ALT3_SUBS A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_BigUint64Array;
+
+lookup JS_Set {
+    ignore sub @AllLetters S' e' t', S' e' t' @AllLetters;
+    sub S' lookup ALT3_SUBS e' lookup ALT3_SUBS t' lookup ALT3_SUBS;
+} JS_Set;
+
+lookup JS_Map {
+    ignore sub @AllLetters M' a' p', M' a' p' @AllLetters;
+    sub M' lookup ALT3_SUBS a' lookup ALT3_SUBS p' lookup ALT3_SUBS;
+} JS_Map;
+
+lookup JS_WeakSet {
+    ignore sub @AllLetters W' e' a' k' S' e' t', W' e' a' k' S' e' t' @AllLetters;
+    sub W' lookup ALT3_SUBS e' lookup ALT3_SUBS a' lookup ALT3_SUBS k' lookup ALT3_SUBS S' lookup ALT3_SUBS e' lookup ALT3_SUBS t' lookup ALT3_SUBS;
+} JS_WeakSet;
+
+lookup JS_WeakMap {
+    ignore sub @AllLetters W' e' a' k' M' a' p', W' e' a' k' M' a' p' @AllLetters;
+    sub W' lookup ALT3_SUBS e' lookup ALT3_SUBS a' lookup ALT3_SUBS k' lookup ALT3_SUBS M' lookup ALT3_SUBS a' lookup ALT3_SUBS p' lookup ALT3_SUBS;
+} JS_WeakMap;
+
+lookup JS_ArrayBuffer {
+    ignore sub @AllLetters A' r' r' a' y' B' u' f' f' e' r', A' r' r' a' y' B' u' f' f' e' r' @AllLetters;
+    sub A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS B' lookup ALT3_SUBS u' lookup ALT3_SUBS f' lookup ALT3_SUBS f' lookup ALT3_SUBS e' lookup ALT3_SUBS r' lookup ALT3_SUBS;
+} JS_ArrayBuffer;
+
+lookup JS_SharedArrayBuffer {
+    ignore sub @AllLetters S' h' a' r' e' d' A' r' r' a' y' B' u' f' f' e' r', S' h' a' r' e' d' A' r' r' a' y' B' u' f' f' e' r' @AllLetters;
+    sub S' lookup ALT3_SUBS h' lookup ALT3_SUBS a' lookup ALT3_SUBS r' lookup ALT3_SUBS e' lookup ALT3_SUBS d' lookup ALT3_SUBS A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS B' lookup ALT3_SUBS u' lookup ALT3_SUBS f' lookup ALT3_SUBS f' lookup ALT3_SUBS e' lookup ALT3_SUBS r' lookup ALT3_SUBS;
+} JS_SharedArrayBuffer;
+
+lookup JS_Atomics {
+    ignore sub @AllLetters A' t' o' m' i' c' s', A' t' o' m' i' c' s' @AllLetters;
+    sub A' lookup ALT3_SUBS t' lookup ALT3_SUBS o' lookup ALT3_SUBS m' lookup ALT3_SUBS i' lookup ALT3_SUBS c' lookup ALT3_SUBS s' lookup ALT3_SUBS;
+} JS_Atomics;
+
+lookup JS_DataView {
+    ignore sub @AllLetters D' a' t' a' V' i' e' w', D' a' t' a' V' i' e' w' @AllLetters;
+    sub D' lookup ALT3_SUBS a' lookup ALT3_SUBS t' lookup ALT3_SUBS a' lookup ALT3_SUBS V' lookup ALT3_SUBS i' lookup ALT3_SUBS e' lookup ALT3_SUBS w' lookup ALT3_SUBS;
+} JS_DataView;
+
+lookup JS_JSON {
+    ignore sub @AllLetters J' S' O' N', J' S' O' N' @AllLetters;
+    sub J' lookup ALT3_SUBS S' lookup ALT3_SUBS O' lookup ALT3_SUBS N' lookup ALT3_SUBS;
+} JS_JSON;
+
+lookup JS_Promise {
+    ignore sub @AllLetters P' r' o' m' i' s' e', P' r' o' m' i' s' e' @AllLetters;
+    sub P' lookup ALT3_SUBS r' lookup ALT3_SUBS o' lookup ALT3_SUBS m' lookup ALT3_SUBS i' lookup ALT3_SUBS s' lookup ALT3_SUBS e' lookup ALT3_SUBS;
+} JS_Promise;
+
+lookup JS_Generator {
+    ignore sub @AllLetters G' e' n' e' r' a' t' o' r', G' e' n' e' r' a' t' o' r' @AllLetters;
+    sub G' lookup ALT3_SUBS e' lookup ALT3_SUBS n' lookup ALT3_SUBS e' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS t' lookup ALT3_SUBS o' lookup ALT3_SUBS r' lookup ALT3_SUBS;
+} JS_Generator;
+
+lookup JS_GeneratorFunction {
+    ignore sub @AllLetters G' e' n' e' r' a' t' o' r' F' u' n' c' t' i' o' n', G' e' n' e' r' a' t' o' r' F' u' n' c' t' i' o' n' @AllLetters;
+    sub G' lookup ALT3_SUBS e' lookup ALT3_SUBS n' lookup ALT3_SUBS e' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS t' lookup ALT3_SUBS o' lookup ALT3_SUBS r' lookup ALT3_SUBS F' lookup ALT3_SUBS u' lookup ALT3_SUBS n' lookup ALT3_SUBS c' lookup ALT3_SUBS t' lookup ALT3_SUBS i' lookup ALT3_SUBS o' lookup ALT3_SUBS n' lookup ALT3_SUBS;
+} JS_GeneratorFunction;
+
+lookup JS_AsyncFunction {
+    ignore sub @AllLetters A' s' y' n' c' F' u' n' c' t' i' o' n', A' s' y' n' c' F' u' n' c' t' i' o' n' @AllLetters;
+    sub A' lookup ALT3_SUBS s' lookup ALT3_SUBS y' lookup ALT3_SUBS n' lookup ALT3_SUBS c' lookup ALT3_SUBS F' lookup ALT3_SUBS u' lookup ALT3_SUBS n' lookup ALT3_SUBS c' lookup ALT3_SUBS t' lookup ALT3_SUBS i' lookup ALT3_SUBS o' lookup ALT3_SUBS n' lookup ALT3_SUBS;
+} JS_AsyncFunction;
+
+lookup JS_Reflect {
+    ignore sub @AllLetters R' e' f' l' e' c' t', R' e' f' l' e' c' t' @AllLetters;
+    sub R' lookup ALT3_SUBS e' lookup ALT3_SUBS f' lookup ALT3_SUBS l' lookup ALT3_SUBS e' lookup ALT3_SUBS c' lookup ALT3_SUBS t' lookup ALT3_SUBS;
+} JS_Reflect;
+
+lookup JS_Proxy {
+    ignore sub @AllLetters P' r' o' x' y', P' r' o' x' y' @AllLetters;
+    sub P' lookup ALT3_SUBS r' lookup ALT3_SUBS o' lookup ALT3_SUBS x' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_Proxy;
+
+lookup JS_Intl {
+    ignore sub @AllLetters I' n' t' l', I' n' t' l' @AllLetters;
+    sub I' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS l' lookup ALT3_SUBS;
+} JS_Intl;
+
+lookup JS_WebAssembly {
+    ignore sub @AllLetters W' e' b' A' s' s' e' m' b' l' y', W' e' b' A' s' s' e' m' b' l' y' @AllLetters;
+    sub W' lookup ALT3_SUBS e' lookup ALT3_SUBS b' lookup ALT3_SUBS A' lookup ALT3_SUBS s' lookup ALT3_SUBS s' lookup ALT3_SUBS e' lookup ALT3_SUBS m' lookup ALT3_SUBS b' lookup ALT3_SUBS l' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_WebAssembly;
+
+lookup JS_Error {
+    ignore sub @AllLetters E' r' r' o' r', E' r' r' o' r' @AllLetters;
+    sub E' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS o' lookup ALT3_SUBS r' lookup ALT3_SUBS;
+} JS_Error;
+
+lookup JS_EvalError {
+    ignore sub @AllLetters E' v' a' l' E' r' r' o' r', E' v' a' l' E' r' r' o' r' @AllLetters;
+    sub E' lookup ALT3_SUBS v' lookup ALT3_SUBS a' lookup ALT3_SUBS l' lookup ALT3_SUBS E' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS o' lookup ALT3_SUBS r' lookup ALT3_SUBS;
+} JS_EvalError;
+
+lookup JS_InternalError {
+    ignore sub @AllLetters I' n' t' e' r' n' a' l' E' r' r' o' r', I' n' t' e' r' n' a' l' E' r' r' o' r' @AllLetters;
+    sub I' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS e' lookup ALT3_SUBS r' lookup ALT3_SUBS n' lookup ALT3_SUBS a' lookup ALT3_SUBS l' lookup ALT3_SUBS E' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS o' lookup ALT3_SUBS r' lookup ALT3_SUBS;
+} JS_InternalError;
+
+lookup JS_RangeError {
+    ignore sub @AllLetters R' a' n' g' e' E' r' r' o' r', R' a' n' g' e' E' r' r' o' r' @AllLetters;
+    sub R' lookup ALT3_SUBS a' lookup ALT3_SUBS n' lookup ALT3_SUBS g' lookup ALT3_SUBS e' lookup ALT3_SUBS E' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS o' lookup ALT3_SUBS r' lookup ALT3_SUBS;
+} JS_RangeError;
+
+lookup JS_ReferenceError {
+    ignore sub @AllLetters R' e' f' e' r' e' n' c' e' E' r' r' o' r', R' e' f' e' r' e' n' c' e' E' r' r' o' r' @AllLetters;
+    sub R' lookup ALT3_SUBS e' lookup ALT3_SUBS f' lookup ALT3_SUBS e' lookup ALT3_SUBS r' lookup ALT3_SUBS e' lookup ALT3_SUBS n' lookup ALT3_SUBS c' lookup ALT3_SUBS e' lookup ALT3_SUBS E' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS o' lookup ALT3_SUBS r' lookup ALT3_SUBS;
+} JS_ReferenceError;
+
+lookup JS_SyntaxError {
+    ignore sub @AllLetters S' y' n' t' a' x' E' r' r' o' r', S' y' n' t' a' x' E' r' r' o' r' @AllLetters;
+    sub S' lookup ALT3_SUBS y' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS a' lookup ALT3_SUBS x' lookup ALT3_SUBS E' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS o' lookup ALT3_SUBS r' lookup ALT3_SUBS;
+} JS_SyntaxError;
+
+lookup JS_TypeError {
+    ignore sub @AllLetters T' y' p' e' E' r' r' o' r', T' y' p' e' E' r' r' o' r' @AllLetters;
+    sub T' lookup ALT3_SUBS y' lookup ALT3_SUBS p' lookup ALT3_SUBS e' lookup ALT3_SUBS E' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS o' lookup ALT3_SUBS r' lookup ALT3_SUBS;
+} JS_TypeError;
+
+lookup JS_URIError {
+    ignore sub @AllLetters U' R' I' E' r' r' o' r', U' R' I' E' r' r' o' r' @AllLetters;
+    sub U' lookup ALT3_SUBS R' lookup ALT3_SUBS I' lookup ALT3_SUBS E' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS o' lookup ALT3_SUBS r' lookup ALT3_SUBS;
+} JS_URIError;
+
+lookup JS_setInterval {
+    ignore sub @AllLetters s' e' t' I' n' t' e' r' v' a' l', s' e' t' I' n' t' e' r' v' a' l' @AllLetters;
+    sub s' lookup ALT3_SUBS e' lookup ALT3_SUBS t' lookup ALT3_SUBS I' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS e' lookup ALT3_SUBS r' lookup ALT3_SUBS v' lookup ALT3_SUBS a' lookup ALT3_SUBS l' lookup ALT3_SUBS;
+} JS_setInterval;
+
+lookup JS_setTimeout {
+    ignore sub @AllLetters s' e' t' T' i' m' e' o' u' t', s' e' t' T' i' m' e' o' u' t' @AllLetters;
+    sub s' lookup ALT3_SUBS e' lookup ALT3_SUBS t' lookup ALT3_SUBS T' lookup ALT3_SUBS i' lookup ALT3_SUBS m' lookup ALT3_SUBS e' lookup ALT3_SUBS o' lookup ALT3_SUBS u' lookup ALT3_SUBS t' lookup ALT3_SUBS;
+} JS_setTimeout;
+
+lookup JS_clearInterval {
+    ignore sub @AllLetters c' l' e' a' r' I' n' t' e' r' v' a' l', c' l' e' a' r' I' n' t' e' r' v' a' l' @AllLetters;
+    sub c' lookup ALT3_SUBS l' lookup ALT3_SUBS e' lookup ALT3_SUBS a' lookup ALT3_SUBS r' lookup ALT3_SUBS I' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS e' lookup ALT3_SUBS r' lookup ALT3_SUBS v' lookup ALT3_SUBS a' lookup ALT3_SUBS l' lookup ALT3_SUBS;
+} JS_clearInterval;
+
+lookup JS_clearTimeout {
+    ignore sub @AllLetters c' l' e' a' r' T' i' m' e' o' u' t', c' l' e' a' r' T' i' m' e' o' u' t' @AllLetters;
+    sub c' lookup ALT3_SUBS l' lookup ALT3_SUBS e' lookup ALT3_SUBS a' lookup ALT3_SUBS r' lookup ALT3_SUBS T' lookup ALT3_SUBS i' lookup ALT3_SUBS m' lookup ALT3_SUBS e' lookup ALT3_SUBS o' lookup ALT3_SUBS u' lookup ALT3_SUBS t' lookup ALT3_SUBS;
+} JS_clearTimeout;
+
+lookup JS_require {
+    ignore sub @AllLetters r' e' q' u' i' r' e', r' e' q' u' i' r' e' @AllLetters;
+    sub r' lookup ALT3_SUBS e' lookup ALT3_SUBS q' lookup ALT3_SUBS u' lookup ALT3_SUBS i' lookup ALT3_SUBS r' lookup ALT3_SUBS e' lookup ALT3_SUBS;
+} JS_require;
+
+lookup JS_exports {
+    ignore sub @AllLetters e' x' p' o' r' t' s', e' x' p' o' r' t' s' @AllLetters;
+    sub e' lookup ALT3_SUBS x' lookup ALT3_SUBS p' lookup ALT3_SUBS o' lookup ALT3_SUBS r' lookup ALT3_SUBS t' lookup ALT3_SUBS s' lookup ALT3_SUBS;
+} JS_exports;
+
+lookup JS_eval {
+    ignore sub @AllLetters e' v' a' l', e' v' a' l' @AllLetters;
+    sub e' lookup ALT3_SUBS v' lookup ALT3_SUBS a' lookup ALT3_SUBS l' lookup ALT3_SUBS;
+} JS_eval;
+
+lookup JS_isFinite {
+    ignore sub @AllLetters i' s' F' i' n' i' t' e', i' s' F' i' n' i' t' e' @AllLetters;
+    sub i' lookup ALT3_SUBS s' lookup ALT3_SUBS F' lookup ALT3_SUBS i' lookup ALT3_SUBS n' lookup ALT3_SUBS i' lookup ALT3_SUBS t' lookup ALT3_SUBS e' lookup ALT3_SUBS;
+} JS_isFinite;
+
+lookup JS_isNaN {
+    ignore sub @AllLetters i' s' N' a' N', i' s' N' a' N' @AllLetters;
+    sub i' lookup ALT3_SUBS s' lookup ALT3_SUBS N' lookup ALT3_SUBS a' lookup ALT3_SUBS N' lookup ALT3_SUBS;
+} JS_isNaN;
+
+lookup JS_parseFloat {
+    ignore sub @AllLetters p' a' r' s' e' F' l' o' a' t', p' a' r' s' e' F' l' o' a' t' @AllLetters;
+    sub p' lookup ALT3_SUBS a' lookup ALT3_SUBS r' lookup ALT3_SUBS s' lookup ALT3_SUBS e' lookup ALT3_SUBS F' lookup ALT3_SUBS l' lookup ALT3_SUBS o' lookup ALT3_SUBS a' lookup ALT3_SUBS t' lookup ALT3_SUBS;
+} JS_parseFloat;
+
+lookup JS_parseInt {
+    ignore sub @AllLetters p' a' r' s' e' I' n' t', p' a' r' s' e' I' n' t' @AllLetters;
+    sub p' lookup ALT3_SUBS a' lookup ALT3_SUBS r' lookup ALT3_SUBS s' lookup ALT3_SUBS e' lookup ALT3_SUBS I' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS;
+} JS_parseInt;
+
+lookup JS_decodeURI {
+    ignore sub @AllLetters d' e' c' o' d' e' U' R' I', d' e' c' o' d' e' U' R' I' @AllLetters;
+    sub d' lookup ALT3_SUBS e' lookup ALT3_SUBS c' lookup ALT3_SUBS o' lookup ALT3_SUBS d' lookup ALT3_SUBS e' lookup ALT3_SUBS U' lookup ALT3_SUBS R' lookup ALT3_SUBS I' lookup ALT3_SUBS;
+} JS_decodeURI;
+
+lookup JS_decodeURIComponent {
+    ignore sub @AllLetters d' e' c' o' d' e' U' R' I' C' o' m' p' o' n' e' n' t', d' e' c' o' d' e' U' R' I' C' o' m' p' o' n' e' n' t' @AllLetters;
+    sub d' lookup ALT3_SUBS e' lookup ALT3_SUBS c' lookup ALT3_SUBS o' lookup ALT3_SUBS d' lookup ALT3_SUBS e' lookup ALT3_SUBS U' lookup ALT3_SUBS R' lookup ALT3_SUBS I' lookup ALT3_SUBS C' lookup ALT3_SUBS o' lookup ALT3_SUBS m' lookup ALT3_SUBS p' lookup ALT3_SUBS o' lookup ALT3_SUBS n' lookup ALT3_SUBS e' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS;
+} JS_decodeURIComponent;
+
+lookup JS_encodeURI {
+    ignore sub @AllLetters e' n' c' o' d' e' U' R' I', e' n' c' o' d' e' U' R' I' @AllLetters;
+    sub e' lookup ALT3_SUBS n' lookup ALT3_SUBS c' lookup ALT3_SUBS o' lookup ALT3_SUBS d' lookup ALT3_SUBS e' lookup ALT3_SUBS U' lookup ALT3_SUBS R' lookup ALT3_SUBS I' lookup ALT3_SUBS;
+} JS_encodeURI;
+
+lookup JS_encodeURIComponent {
+    ignore sub @AllLetters e' n' c' o' d' e' U' R' I' C' o' m' p' o' n' e' n' t', e' n' c' o' d' e' U' R' I' C' o' m' p' o' n' e' n' t' @AllLetters;
+    sub e' lookup ALT3_SUBS n' lookup ALT3_SUBS c' lookup ALT3_SUBS o' lookup ALT3_SUBS d' lookup ALT3_SUBS e' lookup ALT3_SUBS U' lookup ALT3_SUBS R' lookup ALT3_SUBS I' lookup ALT3_SUBS C' lookup ALT3_SUBS o' lookup ALT3_SUBS m' lookup ALT3_SUBS p' lookup ALT3_SUBS o' lookup ALT3_SUBS n' lookup ALT3_SUBS e' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS;
+} JS_encodeURIComponent;
+
+lookup JS_escape {
+    ignore sub @AllLetters e' s' c' a' p' e', e' s' c' a' p' e' @AllLetters;
+    sub e' lookup ALT3_SUBS s' lookup ALT3_SUBS c' lookup ALT3_SUBS a' lookup ALT3_SUBS p' lookup ALT3_SUBS e' lookup ALT3_SUBS;
+} JS_escape;
+
+lookup JS_unescape {
+    ignore sub @AllLetters u' n' e' s' c' a' p' e', u' n' e' s' c' a' p' e' @AllLetters;
+    sub u' lookup ALT3_SUBS n' lookup ALT3_SUBS e' lookup ALT3_SUBS s' lookup ALT3_SUBS c' lookup ALT3_SUBS a' lookup ALT3_SUBS p' lookup ALT3_SUBS e' lookup ALT3_SUBS;
+} JS_unescape;
+
+lookup JS_arguments {
+    ignore sub @AllLetters a' r' g' u' m' e' n' t' s', a' r' g' u' m' e' n' t' s' @AllLetters;
+    sub a' lookup ALT3_SUBS r' lookup ALT3_SUBS g' lookup ALT3_SUBS u' lookup ALT3_SUBS m' lookup ALT3_SUBS e' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS s' lookup ALT3_SUBS;
+} JS_arguments;
+
+lookup JS_this {
+    ignore sub @AllLetters t' h' i' s', t' h' i' s' @AllLetters;
+    sub t' lookup ALT3_SUBS h' lookup ALT3_SUBS i' lookup ALT3_SUBS s' lookup ALT3_SUBS;
+} JS_this;
+
+lookup JS_super {
+    ignore sub @AllLetters s' u' p' e' r', s' u' p' e' r' @AllLetters;
+    sub s' lookup ALT3_SUBS u' lookup ALT3_SUBS p' lookup ALT3_SUBS e' lookup ALT3_SUBS r' lookup ALT3_SUBS;
+} JS_super;
+
+lookup JS_console {
+    ignore sub @AllLetters c' o' n' s' o' l' e', c' o' n' s' o' l' e' @AllLetters;
+    sub c' lookup ALT3_SUBS o' lookup ALT3_SUBS n' lookup ALT3_SUBS s' lookup ALT3_SUBS o' lookup ALT3_SUBS l' lookup ALT3_SUBS e' lookup ALT3_SUBS;
+} JS_console;
+
+lookup JS_window {
+    ignore sub @AllLetters w' i' n' d' o' w', w' i' n' d' o' w' @AllLetters;
+    sub w' lookup ALT3_SUBS i' lookup ALT3_SUBS n' lookup ALT3_SUBS d' lookup ALT3_SUBS o' lookup ALT3_SUBS w' lookup ALT3_SUBS;
+} JS_window;
+
+lookup JS_document {
+    ignore sub @AllLetters d' o' c' u' m' e' n' t', d' o' c' u' m' e' n' t' @AllLetters;
+    sub d' lookup ALT3_SUBS o' lookup ALT3_SUBS c' lookup ALT3_SUBS u' lookup ALT3_SUBS m' lookup ALT3_SUBS e' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS;
+} JS_document;
+
+lookup JS_localStorage {
+    ignore sub @AllLetters l' o' c' a' l' S' t' o' r' a' g' e', l' o' c' a' l' S' t' o' r' a' g' e' @AllLetters;
+    sub l' lookup ALT3_SUBS o' lookup ALT3_SUBS c' lookup ALT3_SUBS a' lookup ALT3_SUBS l' lookup ALT3_SUBS S' lookup ALT3_SUBS t' lookup ALT3_SUBS o' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS g' lookup ALT3_SUBS e' lookup ALT3_SUBS;
+} JS_localStorage;
+
+lookup JS_sessionStorage {
+    ignore sub @AllLetters s' e' s' s' i' o' n' S' t' o' r' a' g' e', s' e' s' s' i' o' n' S' t' o' r' a' g' e' @AllLetters;
+    sub s' lookup ALT3_SUBS e' lookup ALT3_SUBS s' lookup ALT3_SUBS s' lookup ALT3_SUBS i' lookup ALT3_SUBS o' lookup ALT3_SUBS n' lookup ALT3_SUBS S' lookup ALT3_SUBS t' lookup ALT3_SUBS o' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS g' lookup ALT3_SUBS e' lookup ALT3_SUBS;
+} JS_sessionStorage;
+
+lookup JS_module {
+    ignore sub @AllLetters m' o' d' u' l' e', m' o' d' u' l' e' @AllLetters;
+    sub m' lookup ALT3_SUBS o' lookup ALT3_SUBS d' lookup ALT3_SUBS u' lookup ALT3_SUBS l' lookup ALT3_SUBS e' lookup ALT3_SUBS;
+} JS_module;
+
+lookup JS_global {
+    ignore sub @AllLetters g' l' o' b' a' l', g' l' o' b' a' l' @AllLetters;
+    sub g' lookup ALT3_SUBS l' lookup ALT3_SUBS o' lookup ALT3_SUBS b' lookup ALT3_SUBS a' lookup ALT3_SUBS l' lookup ALT3_SUBS;
+} JS_global;
+
+lookup JS_Array {
+    ignore sub @AllLetters A' r' r' a' y', A' r' r' a' y' @AllLetters;
+    sub A' lookup ALT3_SUBS r' lookup ALT3_SUBS r' lookup ALT3_SUBS a' lookup ALT3_SUBS y' lookup ALT3_SUBS;
+} JS_Array;
+
+lookup JS_BigInt {
+    ignore sub @AllLetters B' i' g' I' n' t', B' i' g' I' n' t' @AllLetters;
+    sub B' lookup ALT3_SUBS i' lookup ALT3_SUBS g' lookup ALT3_SUBS I' lookup ALT3_SUBS n' lookup ALT3_SUBS t' lookup ALT3_SUBS;
+} JS_BigInt;
+
+} calt;

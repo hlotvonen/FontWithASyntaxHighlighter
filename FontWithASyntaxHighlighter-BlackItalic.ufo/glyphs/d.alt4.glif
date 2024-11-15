@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d.alt4" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="806" y="0" type="line"/>
+      <point x="1023" y="0" type="line"/>
+      <point x="1320" y="1530" type="line"/>
+      <point x="979" y="1470" type="line"/>
+      <point x="876" y="942" type="line"/>
+      <point x="879" y="882" type="line"/>
+      <point x="741" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="1075" y="1080" type="line"/>
+      <point x="550" y="1080" type="line"/>
+      <point x="143" y="763" type="line"/>
+      <point x="49" y="279" type="line"/>
+      <point x="305" y="-26" type="line"/>
+      <point x="895" y="152" type="line"/>
+      <point x="933" y="351" type="line"/>
+      <point x="467" y="275" type="line"/>
+      <point x="390" y="358" type="line"/>
+      <point x="448" y="657" type="line"/>
+      <point x="639" y="817" type="line"/>
+      <point x="1024" y="817" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.4</string>
+          <integer>4</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/25 21:22:25</string>
+    </dict>
+  </lib>
+</glyph>

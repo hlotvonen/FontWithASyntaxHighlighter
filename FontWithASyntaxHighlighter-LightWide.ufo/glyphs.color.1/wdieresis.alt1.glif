@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wdieresis.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="477" y="0" type="line"/>
+      <point x="597" y="0" type="line"/>
+      <point x="804" y="498" type="line"/>
+      <point x="750" y="498" type="line"/>
+      <point x="957" y="0" type="line"/>
+      <point x="1077" y="0" type="line"/>
+      <point x="1344" y="545" type="line"/>
+      <point x="1344" y="1000" type="line"/>
+      <point x="1218" y="1000" type="line"/>
+      <point x="1218" y="573" type="line"/>
+      <point x="994" y="90" type="line"/>
+      <point x="1028" y="90" type="line"/>
+      <point x="834" y="577" type="line"/>
+      <point x="834" y="725" type="line"/>
+      <point x="720" y="725" type="line"/>
+      <point x="720" y="573" type="line"/>
+      <point x="526" y="90" type="line"/>
+      <point x="560" y="90" type="line"/>
+      <point x="336" y="577" type="line"/>
+      <point x="336" y="1000" type="line"/>
+      <point x="210" y="1000" type="line"/>
+      <point x="210" y="545" type="line"/>
+    </contour>
+    <contour>
+      <point x="471" y="1276" type="line"/>
+      <point x="608" y="1406" type="line"/>
+      <point x="471" y="1536" type="line"/>
+      <point x="334" y="1406" type="line"/>
+    </contour>
+    <contour>
+      <point x="1083" y="1276" type="line"/>
+      <point x="1220" y="1406" type="line"/>
+      <point x="1083" y="1536" type="line"/>
+      <point x="946" y="1406" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

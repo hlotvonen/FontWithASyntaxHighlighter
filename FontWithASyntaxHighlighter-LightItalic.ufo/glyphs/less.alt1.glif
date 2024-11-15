@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="1124" y="1255" type="line"/>
+      <point x="230" y="703" type="line"/>
+      <point x="210" y="604" type="line"/>
+      <point x="890" y="52" type="line"/>
+      <point x="969" y="134" type="line"/>
+      <point x="349" y="639" type="line"/>
+      <point x="352" y="653" type="line"/>
+      <point x="1168" y="1157" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

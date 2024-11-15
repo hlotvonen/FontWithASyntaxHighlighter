@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <advance width="1555"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="823" y="-1" type="line"/>
+      <point x="1361" y="-1" type="line"/>
+      <point x="1391" y="300" type="line"/>
+      <point x="991" y="300" type="line"/>
+      <point x="856" y="432" type="line"/>
+      <point x="856" y="1315" type="line"/>
+      <point x="671" y="1530" type="line"/>
+      <point x="116" y="1530" type="line"/>
+      <point x="86" y="1229" type="line"/>
+      <point x="590" y="1229" type="line"/>
+      <point x="531" y="1284" type="line"/>
+      <point x="531" y="318" type="line"/>
+    </contour>
+    <contour>
+      <point x="1050" y="1312" type="line"/>
+      <point x="1317" y="1312" type="line"/>
+      <point x="1358" y="1708" type="line"/>
+      <point x="1067" y="1708" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

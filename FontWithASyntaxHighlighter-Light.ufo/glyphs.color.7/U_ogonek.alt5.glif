@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="367" y="0" type="line"/>
+      <point x="873" y="0" type="line"/>
+      <point x="1033" y="198" type="line"/>
+      <point x="1033" y="1460" type="line"/>
+      <point x="907" y="1460" type="line"/>
+      <point x="907" y="252" type="line"/>
+      <point x="800" y="110" type="line"/>
+      <point x="440" y="110" type="line"/>
+      <point x="333" y="252" type="line"/>
+      <point x="333" y="1460" type="line"/>
+      <point x="207" y="1460" type="line"/>
+      <point x="207" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="485" y="-122" type="line"/>
+      <point x="485" y="-310" type="line"/>
+      <point x="623" y="-400" type="line"/>
+      <point x="735" y="-400" type="line"/>
+      <point x="735" y="-310" type="line"/>
+      <point x="654" y="-310" type="line"/>
+      <point x="587" y="-262" type="line"/>
+      <point x="587" y="-151" type="line"/>
+      <point x="735" y="0" type="line"/>
+      <point x="653" y="37" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

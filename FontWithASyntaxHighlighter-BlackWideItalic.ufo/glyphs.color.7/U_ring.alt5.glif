@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uring.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="300" y="0" type="line"/>
+      <point x="1054" y="0" type="line"/>
+      <point x="1348" y="295" type="line"/>
+      <point x="1575" y="1460" type="line"/>
+      <point x="1240" y="1460" type="line"/>
+      <point x="1033" y="396" type="line"/>
+      <point x="909" y="271" type="line"/>
+      <point x="541" y="271" type="line"/>
+      <point x="465" y="396" type="line"/>
+      <point x="672" y="1460" type="line"/>
+      <point x="337" y="1460" type="line"/>
+      <point x="112" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="864" y="1436" type="line"/>
+      <point x="1038" y="1436" type="line"/>
+      <point x="1231" y="1603" type="line"/>
+      <point x="1264" y="1773" type="line"/>
+      <point x="1136" y="1939" type="line"/>
+      <point x="962" y="1939" type="line"/>
+      <point x="769" y="1772" type="line"/>
+      <point x="736" y="1602" type="line"/>
+    </contour>
+    <contour>
+      <point x="872" y="1654" type="line"/>
+      <point x="885" y="1722" type="line"/>
+      <point x="993" y="1818" type="line"/>
+      <point x="1057" y="1818" type="line"/>
+      <point x="1129" y="1722" type="line"/>
+      <point x="1116" y="1654" type="line"/>
+      <point x="1007" y="1557" type="line"/>
+      <point x="943" y="1557" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

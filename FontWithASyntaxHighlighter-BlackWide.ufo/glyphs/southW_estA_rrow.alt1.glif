@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="southWestArrow.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="380" y="313" type="line"/>
+      <point x="1151" y="312" type="line"/>
+      <point x="1151" y="557" type="line"/>
+      <point x="579" y="553" type="line"/>
+      <point x="621" y="512" type="line"/>
+      <point x="624" y="1084" type="line"/>
+      <point x="380" y="1084" type="line"/>
+    </contour>
+    <contour>
+      <point x="672" y="414" type="line"/>
+      <point x="1253" y="995" type="line"/>
+      <point x="1063" y="1186" type="line"/>
+      <point x="482" y="604" type="line"/>
+    </contour>
+    <contour>
+      <point x="557" y="797" type="line"/>
+      <point x="644" y="577" type="line"/>
+      <point x="866" y="491" type="line"/>
+      <point x="774" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

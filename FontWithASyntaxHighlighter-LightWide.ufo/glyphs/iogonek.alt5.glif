@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="769" y="0" type="line"/>
+      <point x="893" y="0" type="line"/>
+      <point x="893" y="935" type="line"/>
+      <point x="832" y="1000" type="line"/>
+      <point x="284" y="1000" type="line"/>
+      <point x="264" y="902" type="line"/>
+      <point x="815" y="902" type="line"/>
+      <point x="769" y="938" type="line"/>
+    </contour>
+    <contour>
+      <point x="692" y="1276" type="line"/>
+      <point x="829" y="1406" type="line"/>
+      <point x="692" y="1536" type="line"/>
+      <point x="555" y="1406" type="line"/>
+    </contour>
+    <contour>
+      <point x="623" y="-132" type="line"/>
+      <point x="623" y="-310" type="line"/>
+      <point x="771" y="-400" type="line"/>
+      <point x="893" y="-400" type="line"/>
+      <point x="893" y="-310" type="line"/>
+      <point x="802" y="-310" type="line"/>
+      <point x="725" y="-262" type="line"/>
+      <point x="725" y="-161" type="line"/>
+      <point x="893" y="0" type="line"/>
+      <point x="812" y="37" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

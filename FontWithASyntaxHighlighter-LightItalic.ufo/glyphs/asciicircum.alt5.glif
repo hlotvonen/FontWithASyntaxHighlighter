@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="171" y="750" type="line"/>
+      <point x="264" y="696" type="line"/>
+      <point x="794" y="1383" type="line"/>
+      <point x="807" y="1383" type="line"/>
+      <point x="1069" y="696" type="line"/>
+      <point x="1168" y="750" type="line"/>
+      <point x="869" y="1530" type="line"/>
+      <point x="772" y="1530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

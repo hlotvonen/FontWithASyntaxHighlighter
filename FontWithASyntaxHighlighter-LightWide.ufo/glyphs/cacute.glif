@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cacute" format="2">
+  <advance width="1555"/>
+  <unicode hex="0107"/>
+  <outline>
+    <contour>
+      <point x="614" y="0" type="line"/>
+      <point x="1333" y="0" type="line"/>
+      <point x="1360" y="98" type="line"/>
+      <point x="660" y="98" type="line"/>
+      <point x="281" y="377" type="line"/>
+      <point x="281" y="623" type="line"/>
+      <point x="660" y="902" type="line"/>
+      <point x="1360" y="902" type="line"/>
+      <point x="1333" y="1000" type="line"/>
+      <point x="614" y="1000" type="line"/>
+      <point x="165" y="662" type="line"/>
+      <point x="165" y="339" type="line"/>
+    </contour>
+    <contour>
+      <point x="862" y="1274" type="line"/>
+      <point x="743" y="1274" type="line"/>
+      <point x="1015" y="1597" type="line"/>
+      <point x="1168" y="1597" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

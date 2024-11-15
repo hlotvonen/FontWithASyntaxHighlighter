@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <outline>
+    <contour>
+      <point x="696" y="1619" type="line"/>
+      <point x="955" y="1619" type="line"/>
+      <point x="822" y="1877" type="line"/>
+      <point x="497" y="1877" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 10:44:52</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1240</integer>
+    </dict>
+  </lib>
+</glyph>

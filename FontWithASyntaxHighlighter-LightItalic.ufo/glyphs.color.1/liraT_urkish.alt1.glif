@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="liraTurkish.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="560" y="1460" type="line"/>
+      <point x="434" y="1460" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="276" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1148" y="690" type="curve"/>
+      <point x="1024" y="690" type="line"/>
+      <point x="924" y="277"/>
+      <point x="696" y="110"/>
+      <point x="298" y="110" type="curve" smooth="yes"/>
+      <point x="260" y="110" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="291" y="0" type="line" smooth="yes"/>
+      <point x="726" y="0"/>
+      <point x="1031" y="192"/>
+    </contour>
+    <contour>
+      <point x="889" y="1123" type="line"/>
+      <point x="910" y="1230" type="line"/>
+      <point x="142" y="970" type="line"/>
+      <point x="121" y="863" type="line"/>
+    </contour>
+    <contour>
+      <point x="837" y="852" type="line"/>
+      <point x="857" y="959" type="line"/>
+      <point x="89" y="699" type="line"/>
+      <point x="68" y="592" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

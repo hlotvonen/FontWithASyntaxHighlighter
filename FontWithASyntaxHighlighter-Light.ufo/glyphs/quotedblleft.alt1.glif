@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="369" y="1108" type="curve" smooth="yes"/>
+      <point x="347" y="1108"/>
+      <point x="321" y="1105"/>
+      <point x="292" y="1093" type="curve"/>
+      <point x="310" y="1071" type="line"/>
+      <point x="331" y="1198"/>
+      <point x="414" y="1312"/>
+      <point x="540" y="1434" type="curve"/>
+      <point x="470" y="1494" type="line"/>
+      <point x="329" y="1369"/>
+      <point x="200" y="1188"/>
+      <point x="200" y="1005" type="curve" smooth="yes"/>
+      <point x="200" y="860"/>
+      <point x="281" y="797"/>
+      <point x="375" y="797" type="curve" smooth="yes"/>
+      <point x="462" y="797"/>
+      <point x="533" y="851"/>
+      <point x="533" y="951" type="curve" smooth="yes"/>
+      <point x="533" y="1047"/>
+      <point x="468" y="1108"/>
+    </contour>
+    <contour>
+      <point x="869" y="1108" type="curve" smooth="yes"/>
+      <point x="847" y="1108"/>
+      <point x="821" y="1105"/>
+      <point x="792" y="1093" type="curve"/>
+      <point x="810" y="1071" type="line"/>
+      <point x="831" y="1198"/>
+      <point x="914" y="1312"/>
+      <point x="1040" y="1434" type="curve"/>
+      <point x="970" y="1494" type="line"/>
+      <point x="829" y="1369"/>
+      <point x="700" y="1188"/>
+      <point x="700" y="1005" type="curve" smooth="yes"/>
+      <point x="700" y="860"/>
+      <point x="781" y="797"/>
+      <point x="875" y="797" type="curve" smooth="yes"/>
+      <point x="962" y="797"/>
+      <point x="1033" y="851"/>
+      <point x="1033" y="951" type="curve" smooth="yes"/>
+      <point x="1033" y="1047"/>
+      <point x="968" y="1108"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedbl.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="605" y="820" type="line"/>
+      <point x="743" y="1460" type="line"/>
+      <point x="617" y="1460" type="line"/>
+      <point x="507" y="820" type="line"/>
+    </contour>
+    <contour>
+      <point x="1174" y="820" type="line"/>
+      <point x="1312" y="1460" type="line"/>
+      <point x="1186" y="1460" type="line"/>
+      <point x="1076" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

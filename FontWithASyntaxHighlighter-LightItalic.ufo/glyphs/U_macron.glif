@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Umacron" format="2">
+  <advance width="1240"/>
+  <unicode hex="016A"/>
+  <outline>
+    <contour>
+      <point x="270" y="0" type="line"/>
+      <point x="776" y="0" type="line"/>
+      <point x="974" y="198" type="line"/>
+      <point x="1220" y="1460" type="line"/>
+      <point x="1094" y="1460" type="line"/>
+      <point x="859" y="252" type="line"/>
+      <point x="724" y="110" type="line"/>
+      <point x="354" y="110" type="line"/>
+      <point x="283" y="242" type="line"/>
+      <point x="520" y="1460" type="line"/>
+      <point x="394" y="1460" type="line"/>
+      <point x="150" y="208" type="line"/>
+    </contour>
+    <contour>
+      <point x="552" y="1731" type="line"/>
+      <point x="1166" y="1731" type="line"/>
+      <point x="1186" y="1831" type="line"/>
+      <point x="572" y="1831" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>
