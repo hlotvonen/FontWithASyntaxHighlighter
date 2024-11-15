@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="972" y="1100" type="line"/>
+      <point x="972" y="1655" type="line"/>
+      <point x="799" y="1655" type="line"/>
+      <point x="515" y="1341" type="line"/>
+      <point x="515" y="1211" type="line"/>
+      <point x="1051" y="1211" type="line"/>
+      <point x="1051" y="1341" type="line"/>
+      <point x="922" y="1341" type="line"/>
+      <point x="867" y="1331" type="line"/>
+      <point x="619" y="1331" type="line"/>
+      <point x="646" y="1305" type="line"/>
+      <point x="841" y="1504" type="line"/>
+      <point x="814" y="1514" type="line"/>
+      <point x="814" y="1100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

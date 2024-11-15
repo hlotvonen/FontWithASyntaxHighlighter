@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="441" y="1559" type="curve"/>
+      <point x="441" y="1462" type="line"/>
+      <point x="537" y="1462"/>
+      <point x="658" y="1565"/>
+      <point x="658" y="1655" type="curve"/>
+      <point x="586" y="1655" type="line"/>
+      <point x="578" y="1601"/>
+      <point x="490" y="1559"/>
+    </contour>
+    <contour>
+      <point x="684" y="1100" type="line"/>
+      <point x="684" y="1655" type="line"/>
+      <point x="586" y="1655" type="line"/>
+      <point x="586" y="1100" type="line"/>
+    </contour>
+    <contour>
+      <point x="425" y="1100" type="line"/>
+      <point x="848" y="1100" type="line"/>
+      <point x="848" y="1180" type="line"/>
+      <point x="425" y="1180" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

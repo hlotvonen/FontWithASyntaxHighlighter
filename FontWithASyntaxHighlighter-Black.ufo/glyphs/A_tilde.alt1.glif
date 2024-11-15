@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Atilde.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="132" y="0" type="line"/>
+      <point x="459" y="0" type="line"/>
+      <point x="459" y="819" type="line"/>
+      <point x="661" y="1261" type="line"/>
+      <point x="579" y="1261" type="line"/>
+      <point x="781" y="819" type="line"/>
+      <point x="781" y="0" type="line"/>
+      <point x="1108" y="0" type="line"/>
+      <point x="1108" y="933" type="line"/>
+      <point x="823" y="1460" type="line"/>
+      <point x="417" y="1460" type="line"/>
+      <point x="132" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="303" type="line"/>
+      <point x="930" y="303" type="line"/>
+      <point x="930" y="537" type="line"/>
+      <point x="339" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="605" y="1887" type="line"/>
+      <point x="317" y="1887" type="line"/>
+      <point x="164" y="1744" type="line"/>
+      <point x="164" y="1611" type="line"/>
+      <point x="367" y="1611" type="line"/>
+      <point x="367" y="1672" type="line"/>
+      <point x="427" y="1734" type="line"/>
+      <point x="495" y="1734" type="line"/>
+      <point x="635" y="1611" type="line"/>
+      <point x="923" y="1611" type="line"/>
+      <point x="1076" y="1754" type="line"/>
+      <point x="1076" y="1887" type="line"/>
+      <point x="873" y="1887" type="line"/>
+      <point x="873" y="1816" type="line"/>
+      <point x="813" y="1764" type="line"/>
+      <point x="745" y="1764" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

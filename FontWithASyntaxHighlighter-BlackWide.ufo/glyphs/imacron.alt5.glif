@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="imacron.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="686" y="0" type="line"/>
+      <point x="1011" y="0" type="line"/>
+      <point x="1011" y="867" type="line"/>
+      <point x="826" y="1082" type="line"/>
+      <point x="197" y="1082" type="line"/>
+      <point x="167" y="781" type="line"/>
+      <point x="745" y="781" type="line"/>
+      <point x="686" y="836" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="1299" type="line"/>
+      <point x="1106" y="1299" type="line"/>
+      <point x="1106" y="1492" type="line"/>
+      <point x="245" y="1492" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

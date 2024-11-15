@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcommaaccent.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="761" y="0" type="line"/>
+      <point x="1284" y="0" type="line"/>
+      <point x="1284" y="98" type="line"/>
+      <point x="817" y="98" type="line"/>
+      <point x="638" y="318" type="line"/>
+      <point x="638" y="1291" type="line"/>
+      <point x="522" y="1271" type="line"/>
+      <point x="522" y="288" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="818" type="line"/>
+      <point x="1284" y="818" type="line"/>
+      <point x="1284" y="918" type="line"/>
+      <point x="183" y="918" type="line"/>
+    </contour>
+    <contour>
+      <point x="881" y="-527" type="line"/>
+      <point x="1034" y="-527" type="line"/>
+      <point x="1034" y="-471" type="line"/>
+      <point x="852" y="-707" type="line"/>
+      <point x="927" y="-747" type="line"/>
+      <point x="1096" y="-527" type="line"/>
+      <point x="1096" y="-312" type="line"/>
+      <point x="881" y="-312" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

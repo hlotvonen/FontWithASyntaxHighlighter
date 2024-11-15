@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otilde" format="2">
+  <advance width="1240"/>
+  <unicode hex="00F5"/>
+  <outline>
+    <contour>
+      <point x="490" y="0" type="line"/>
+      <point x="749" y="0" type="line"/>
+      <point x="1080" y="330" type="line"/>
+      <point x="1080" y="670" type="line"/>
+      <point x="769" y="1000" type="line"/>
+      <point x="490" y="1000" type="line"/>
+      <point x="160" y="670" type="line"/>
+      <point x="160" y="330" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="98" type="line"/>
+      <point x="276" y="360" type="line"/>
+      <point x="276" y="640" type="line"/>
+      <point x="536" y="902" type="line"/>
+      <point x="703" y="902" type="line"/>
+      <point x="964" y="640" type="line"/>
+      <point x="964" y="360" type="line"/>
+      <point x="703" y="98" type="line"/>
+    </contour>
+    <contour>
+      <point x="575" y="1577" type="line"/>
+      <point x="397" y="1577" type="line"/>
+      <point x="277" y="1419" type="line"/>
+      <point x="277" y="1267" type="line"/>
+      <point x="367" y="1267" type="line"/>
+      <point x="367" y="1388" type="line"/>
+      <point x="445" y="1489" type="line"/>
+      <point x="518" y="1489" type="line"/>
+      <point x="673" y="1267" type="line"/>
+      <point x="851" y="1267" type="line"/>
+      <point x="971" y="1425" type="line"/>
+      <point x="971" y="1577" type="line"/>
+      <point x="881" y="1577" type="line"/>
+      <point x="881" y="1456" type="line"/>
+      <point x="803" y="1355" type="line"/>
+      <point x="730" y="1355" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

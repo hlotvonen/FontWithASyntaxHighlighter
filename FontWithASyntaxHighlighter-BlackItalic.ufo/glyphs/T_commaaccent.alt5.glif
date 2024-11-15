@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcommaaccent.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="353" y="0" type="line"/>
+      <point x="683" y="0" type="line"/>
+      <point x="967" y="1460" type="line"/>
+      <point x="637" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="1189" type="line"/>
+      <point x="1283" y="1189" type="line"/>
+      <point x="1316" y="1460" type="line"/>
+      <point x="280" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="253" y="-494" type="line"/>
+      <point x="494" y="-494" type="line"/>
+      <point x="509" y="-418" type="line"/>
+      <point x="209" y="-721" type="line"/>
+      <point x="321" y="-786" type="line"/>
+      <point x="594" y="-504" type="line"/>
+      <point x="663" y="-151" type="line"/>
+      <point x="320" y="-151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

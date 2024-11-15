@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Germandbls.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="1463" y="1460" type="line"/>
+      <point x="439" y="1460" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="554" y="1405" type="line"/>
+      <point x="500" y="1360" type="line"/>
+      <point x="1350" y="1360" type="line"/>
+      <point x="1338" y="1403" type="line"/>
+      <point x="1003" y="887" type="line"/>
+      <point x="984" y="787" type="line"/>
+      <point x="1266" y="563" type="line"/>
+      <point x="1219" y="319" type="line"/>
+      <point x="915" y="100" type="line"/>
+      <point x="583" y="100" type="line"/>
+      <point x="564" y="0" type="line"/>
+      <point x="961" y="0" type="line"/>
+      <point x="1337" y="280" type="line"/>
+      <point x="1399" y="598" type="line"/>
+      <point x="1061" y="880" type="line"/>
+      <point x="1065" y="796" type="line"/>
+      <point x="1449" y="1390" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

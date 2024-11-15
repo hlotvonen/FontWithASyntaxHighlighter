@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="792" y="0" type="line"/>
+      <point x="1238" y="0" type="line"/>
+      <point x="1277" y="98" type="line"/>
+      <point x="865" y="98" type="line"/>
+      <point x="714" y="318" type="line"/>
+      <point x="937" y="1465" type="line"/>
+      <point x="888" y="1530" type="line"/>
+      <point x="364" y="1530" type="line"/>
+      <point x="325" y="1432" type="line"/>
+      <point x="852" y="1432" type="line"/>
+      <point x="821" y="1468" type="line"/>
+      <point x="592" y="288" type="line"/>
+    </contour>
+    <contour>
+      <point x="1269" y="1282" type="line"/>
+      <point x="1366" y="1282" type="line"/>
+      <point x="1473" y="1618" type="line"/>
+      <point x="1352" y="1618" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

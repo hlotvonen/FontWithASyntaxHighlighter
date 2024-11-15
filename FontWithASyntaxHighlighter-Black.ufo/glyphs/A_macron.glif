@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Amacron" format="2">
+  <advance width="1240"/>
+  <unicode hex="0100"/>
+  <outline>
+    <contour>
+      <point x="132" y="0" type="line"/>
+      <point x="459" y="0" type="line"/>
+      <point x="459" y="819" type="line"/>
+      <point x="661" y="1261" type="line"/>
+      <point x="579" y="1261" type="line"/>
+      <point x="781" y="819" type="line"/>
+      <point x="781" y="0" type="line"/>
+      <point x="1108" y="0" type="line"/>
+      <point x="1108" y="933" type="line"/>
+      <point x="823" y="1460" type="line"/>
+      <point x="417" y="1460" type="line"/>
+      <point x="132" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="303" type="line"/>
+      <point x="930" y="303" type="line"/>
+      <point x="930" y="537" type="line"/>
+      <point x="339" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="1691" type="line"/>
+      <point x="969" y="1691" type="line"/>
+      <point x="969" y="1884" type="line"/>
+      <point x="271" y="1884" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:00</string>
+    </dict>
+  </lib>
+</glyph>

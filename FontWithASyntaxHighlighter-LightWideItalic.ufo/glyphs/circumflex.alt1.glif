@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="536" y="1274" type="line"/>
+      <point x="673" y="1274" type="line"/>
+      <point x="1014" y="1562" type="line"/>
+      <point x="952" y="1562" type="line"/>
+      <point x="1182" y="1274" type="line"/>
+      <point x="1319" y="1274" type="line"/>
+      <point x="1047" y="1597" type="line"/>
+      <point x="931" y="1597" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:21</string>
+    </dict>
+  </lib>
+</glyph>

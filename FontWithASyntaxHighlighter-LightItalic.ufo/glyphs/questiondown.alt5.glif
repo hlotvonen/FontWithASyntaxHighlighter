@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="512" y="236" type="line"/>
+      <point x="574" y="285" type="line"/>
+      <point x="381" y="250"/>
+      <point x="149" y="162"/>
+      <point x="97" y="-110" type="curve" smooth="yes"/>
+      <point x="49" y="-355"/>
+      <point x="205" y="-483"/>
+      <point x="467" y="-483" type="curve" smooth="yes"/>
+      <point x="685" y="-483"/>
+      <point x="905" y="-394"/>
+      <point x="980" y="-113" type="curve"/>
+      <point x="851" y="-103" type="line"/>
+      <point x="794" y="-292"/>
+      <point x="666" y="-370"/>
+      <point x="479" y="-370" type="curve" smooth="yes"/>
+      <point x="292" y="-370"/>
+      <point x="192" y="-292"/>
+      <point x="228" y="-110" type="curve" smooth="yes"/>
+      <point x="268" y="97"/>
+      <point x="433" y="179"/>
+      <point x="620" y="221" type="curve"/>
+      <point x="665" y="471" type="line"/>
+      <point x="561" y="471" type="line"/>
+    </contour>
+    <contour>
+      <point x="718" y="1025" type="curve" smooth="yes"/>
+      <point x="647" y="1025"/>
+      <point x="586" y="982"/>
+      <point x="571" y="904" type="curve" smooth="yes"/>
+      <point x="555" y="825"/>
+      <point x="605" y="777"/>
+      <point x="676" y="777" type="curve" smooth="yes"/>
+      <point x="747" y="777"/>
+      <point x="807" y="818"/>
+      <point x="823" y="898" type="curve" smooth="yes"/>
+      <point x="838" y="975"/>
+      <point x="788" y="1025"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="1555"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="210" y="-400" type="line"/>
+      <point x="798" y="-400" type="line"/>
+      <point x="1073" y="-81" type="line"/>
+      <point x="1073" y="867" type="line"/>
+      <point x="888" y="1082" type="line"/>
+      <point x="264" y="1082" type="line"/>
+      <point x="234" y="781" type="line"/>
+      <point x="807" y="781" type="line"/>
+      <point x="748" y="836" type="line"/>
+      <point x="748" y="33" type="line"/>
+      <point x="628" y="-99" type="line"/>
+      <point x="180" y="-99" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

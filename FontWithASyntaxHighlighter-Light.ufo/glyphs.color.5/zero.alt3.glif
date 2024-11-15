@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.alt3" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="522" y="586" type="line"/>
+      <point x="719" y="586" type="line"/>
+      <point x="719" y="876" type="line"/>
+      <point x="522" y="876" type="line"/>
+    </contour>
+    <contour>
+      <point x="510" y="0" type="line"/>
+      <point x="729" y="0" type="line"/>
+      <point x="1110" y="540" type="line"/>
+      <point x="1110" y="930" type="line"/>
+      <point x="749" y="1460" type="line"/>
+      <point x="510" y="1460" type="line"/>
+      <point x="130" y="930" type="line"/>
+      <point x="130" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="566" y="110" type="line"/>
+      <point x="256" y="570" type="line"/>
+      <point x="256" y="900" type="line"/>
+      <point x="574" y="1350" type="line"/>
+      <point x="681" y="1350" type="line"/>
+      <point x="984" y="900" type="line"/>
+      <point x="984" y="570" type="line"/>
+      <point x="673" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/26 08:37:06</string>
+    </dict>
+  </lib>
+</glyph>

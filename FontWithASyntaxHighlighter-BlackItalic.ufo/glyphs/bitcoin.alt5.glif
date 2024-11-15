@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bitcoin.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="863" y="1366" type="line"/>
+      <point x="1093" y="1366" type="line"/>
+      <point x="1168" y="1755" type="line"/>
+      <point x="938" y="1755" type="line"/>
+    </contour>
+    <contour>
+      <point x="436" y="1366" type="line"/>
+      <point x="666" y="1366" type="line"/>
+      <point x="741" y="1755" type="line"/>
+      <point x="511" y="1755" type="line"/>
+    </contour>
+    <contour>
+      <point x="559" y="-295" type="line"/>
+      <point x="789" y="-295" type="line"/>
+      <point x="875" y="147" type="line"/>
+      <point x="645" y="147" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="-295" type="line"/>
+      <point x="362" y="-295" type="line"/>
+      <point x="448" y="147" type="line"/>
+      <point x="218" y="147" type="line"/>
+    </contour>
+    <contour>
+      <point x="359" y="0" type="line"/>
+      <point x="643" y="1460" type="line"/>
+      <point x="306" y="1460" type="line"/>
+      <point x="22" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="816" y="1460" type="curve"/>
+      <point x="531" y="1460" type="line"/>
+      <point x="486" y="1230" type="line"/>
+      <point x="693" y="1230" type="line" smooth="yes"/>
+      <point x="855" y="1230"/>
+      <point x="929" y="1180"/>
+      <point x="906" y="1058" type="curve" smooth="yes"/>
+      <point x="881" y="929"/>
+      <point x="775" y="858"/>
+      <point x="594" y="858" type="curve"/>
+      <point x="337" y="858" type="line"/>
+      <point x="294" y="639" type="line"/>
+      <point x="578" y="639" type="line"/>
+      <point x="769" y="639"/>
+      <point x="871" y="600"/>
+      <point x="840" y="444" type="curve" smooth="yes"/>
+      <point x="808" y="277"/>
+      <point x="672" y="230"/>
+      <point x="499" y="230" type="curve" smooth="yes"/>
+      <point x="336" y="230" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="548" y="0" type="line" smooth="yes"/>
+      <point x="851" y="0"/>
+      <point x="1117" y="133"/>
+      <point x="1171" y="410" type="curve" smooth="yes"/>
+      <point x="1220" y="662"/>
+      <point x="1035" y="762"/>
+      <point x="835" y="766" type="curve"/>
+      <point x="837" y="776" type="line"/>
+      <point x="1010" y="793"/>
+      <point x="1196" y="886"/>
+      <point x="1242" y="1120" type="curve" smooth="yes"/>
+      <point x="1295" y="1392"/>
+      <point x="1092" y="1462"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

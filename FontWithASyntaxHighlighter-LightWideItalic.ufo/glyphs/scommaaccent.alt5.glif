@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scommaaccent.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="143" y="0" type="line"/>
+      <point x="1031" y="0" type="line"/>
+      <point x="1278" y="209" type="line"/>
+      <point x="1309" y="372" type="line"/>
+      <point x="388" y="695" type="line"/>
+      <point x="399" y="752" type="line"/>
+      <point x="579" y="902" type="line"/>
+      <point x="1400" y="902" type="line"/>
+      <point x="1399" y="1000" type="line"/>
+      <point x="541" y="1000" type="line"/>
+      <point x="295" y="791" type="line"/>
+      <point x="265" y="637" type="line"/>
+      <point x="1186" y="314" type="line"/>
+      <point x="1173" y="249" type="line"/>
+      <point x="993" y="98" type="line"/>
+      <point x="142" y="98" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="-527" type="line"/>
+      <point x="654" y="-527" type="line"/>
+      <point x="664" y="-471" type="line"/>
+      <point x="437" y="-707" type="line"/>
+      <point x="504" y="-747" type="line"/>
+      <point x="716" y="-527" type="line"/>
+      <point x="757" y="-312" type="line"/>
+      <point x="542" y="-312" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

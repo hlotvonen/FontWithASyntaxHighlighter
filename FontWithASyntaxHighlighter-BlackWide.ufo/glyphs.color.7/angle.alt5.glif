@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="angle.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="1255" y="0" type="line"/>
+      <point x="1255" y="271" type="line"/>
+      <point x="671" y="271" type="line"/>
+      <point x="663" y="285" type="line"/>
+      <point x="1062" y="957" type="line"/>
+      <point x="808" y="1094" type="line"/>
+      <point x="222" y="99" type="line"/>
+      <point x="263" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

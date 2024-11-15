@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightTipDownArrow.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="665" y="212" type="line"/>
+      <point x="1140" y="685" type="line"/>
+      <point x="1059" y="766" type="line"/>
+      <point x="640" y="343" type="line"/>
+      <point x="690" y="343" type="line"/>
+      <point x="271" y="766" type="line"/>
+      <point x="190" y="685" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="331" type="line"/>
+      <point x="724" y="331" type="line"/>
+      <point x="724" y="1232" type="line"/>
+      <point x="606" y="1232" type="line"/>
+    </contour>
+    <contour>
+      <point x="823" y="405" type="line"/>
+      <point x="665" y="465" type="line"/>
+      <point x="507" y="406" type="line"/>
+      <point x="665" y="343" type="line"/>
+    </contour>
+    <contour>
+      <point x="724" y="1111" type="line"/>
+      <point x="724" y="1232" type="line"/>
+      <point x="120" y="1232" type="line"/>
+      <point x="120" y="1111" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

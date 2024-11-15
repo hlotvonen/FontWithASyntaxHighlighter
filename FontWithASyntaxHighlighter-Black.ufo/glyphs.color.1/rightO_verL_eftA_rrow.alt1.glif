@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightOverLeftArrow.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="60" y="406" type="line"/>
+      <point x="455" y="10" type="line"/>
+      <point x="602" y="157" type="line"/>
+      <point x="302" y="454" type="line"/>
+      <point x="302" y="358" type="line"/>
+      <point x="602" y="655" type="line"/>
+      <point x="455" y="802" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="291" type="line"/>
+      <point x="1130" y="291" type="line"/>
+      <point x="1130" y="521" type="line"/>
+      <point x="251" y="521" type="line"/>
+    </contour>
+    <contour>
+      <point x="439" y="609" type="line"/>
+      <point x="316" y="406" type="line"/>
+      <point x="439" y="203" type="line"/>
+      <point x="554" y="406" type="line"/>
+    </contour>
+    <contour>
+      <point x="1180" y="1054" type="line"/>
+      <point x="785" y="1450" type="line"/>
+      <point x="638" y="1303" type="line"/>
+      <point x="938" y="1006" type="line"/>
+      <point x="938" y="1102" type="line"/>
+      <point x="638" y="805" type="line"/>
+      <point x="785" y="658" type="line"/>
+    </contour>
+    <contour>
+      <point x="989" y="1169" type="line"/>
+      <point x="110" y="1169" type="line"/>
+      <point x="110" y="939" type="line"/>
+      <point x="989" y="939" type="line"/>
+    </contour>
+    <contour>
+      <point x="801" y="851" type="line"/>
+      <point x="924" y="1054" type="line"/>
+      <point x="801" y="1257" type="line"/>
+      <point x="686" y="1054" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

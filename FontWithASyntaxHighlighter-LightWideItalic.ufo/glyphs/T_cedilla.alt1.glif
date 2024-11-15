@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcedilla.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="607" y="0" type="line"/>
+      <point x="733" y="0" type="line"/>
+      <point x="1017" y="1460" type="line"/>
+      <point x="891" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="1350" type="line"/>
+      <point x="1545" y="1350" type="line"/>
+      <point x="1552" y="1460" type="line"/>
+      <point x="376" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="-565" type="line"/>
+      <point x="660" y="-565" type="line"/>
+      <point x="878" y="-455" type="line"/>
+      <point x="912" y="-279" type="line"/>
+      <point x="736" y="-169" type="line"/>
+      <point x="658" y="-169" type="line"/>
+      <point x="673" y="-191" type="line"/>
+      <point x="719" y="48" type="line"/>
+      <point x="625" y="48" type="line"/>
+      <point x="566" y="-259" type="line"/>
+      <point x="692" y="-259" type="line"/>
+      <point x="814" y="-329" type="line"/>
+      <point x="799" y="-405" type="line"/>
+      <point x="650" y="-475" type="line"/>
+      <point x="434" y="-475" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

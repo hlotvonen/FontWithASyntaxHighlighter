@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ygrave.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="615" y="507" type="line"/>
+      <point x="941" y="507" type="line"/>
+      <point x="1406" y="1044" type="line"/>
+      <point x="1406" y="1460" type="line"/>
+      <point x="1081" y="1460" type="line"/>
+      <point x="1081" y="1146" type="line"/>
+      <point x="747" y="756" type="line"/>
+      <point x="819" y="756" type="line"/>
+      <point x="484" y="1146" type="line"/>
+      <point x="484" y="1460" type="line"/>
+      <point x="149" y="1460" type="line"/>
+      <point x="149" y="1044" type="line"/>
+    </contour>
+    <contour>
+      <point x="613" y="0" type="line"/>
+      <point x="942" y="0" type="line"/>
+      <point x="942" y="651" type="line"/>
+      <point x="613" y="651" type="line"/>
+    </contour>
+    <contour>
+      <point x="634" y="1619.408" type="line"/>
+      <point x="913" y="1619.408" type="line"/>
+      <point x="696" y="1917.966" type="line"/>
+      <point x="343" y="1917.966" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

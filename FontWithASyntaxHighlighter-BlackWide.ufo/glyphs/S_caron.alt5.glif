@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scaron.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="224" y="0" type="line"/>
+      <point x="1065" y="0" type="line"/>
+      <point x="1345" y="311" type="line"/>
+      <point x="1345" y="541" type="line"/>
+      <point x="577" y="1011" type="line"/>
+      <point x="577" y="1075" type="line"/>
+      <point x="652" y="1159" type="line"/>
+      <point x="1335" y="1159" type="line"/>
+      <point x="1305" y="1460" type="line"/>
+      <point x="484" y="1460" type="line"/>
+      <point x="204" y="1149" type="line"/>
+      <point x="204" y="919" type="line"/>
+      <point x="973" y="449" type="line"/>
+      <point x="973" y="385" type="line"/>
+      <point x="898" y="301" type="line"/>
+      <point x="194" y="301" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="1908" type="line"/>
+      <point x="609" y="1908" type="line"/>
+      <point x="809" y="1662" type="line"/>
+      <point x="741" y="1662" type="line"/>
+      <point x="942" y="1908" type="line"/>
+      <point x="1256" y="1908" type="line"/>
+      <point x="968" y="1620" type="line"/>
+      <point x="582" y="1620" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

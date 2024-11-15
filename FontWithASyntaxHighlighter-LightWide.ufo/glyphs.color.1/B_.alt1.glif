@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="294" y="0" type="line"/>
+      <point x="1058" y="0" type="line"/>
+      <point x="1380" y="268" type="line"/>
+      <point x="1380" y="526" type="line"/>
+      <point x="1058" y="800" type="line"/>
+      <point x="1058" y="716" type="line"/>
+      <point x="1320" y="988" type="line"/>
+      <point x="1320" y="1192" type="line"/>
+      <point x="1058" y="1460" type="line"/>
+      <point x="294" y="1460" type="line"/>
+      <point x="294" y="1360" type="line"/>
+      <point x="993" y="1360" type="line"/>
+      <point x="1194" y="1153" type="line"/>
+      <point x="1194" y="1023" type="line"/>
+      <point x="993" y="807" type="line"/>
+      <point x="294" y="807" type="line"/>
+      <point x="294" y="707" type="line"/>
+      <point x="993" y="707" type="line"/>
+      <point x="1254" y="491" type="line"/>
+      <point x="1254" y="307" type="line"/>
+      <point x="993" y="100" type="line"/>
+      <point x="294" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="0" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="378" y="1460" type="line"/>
+      <point x="252" y="1460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

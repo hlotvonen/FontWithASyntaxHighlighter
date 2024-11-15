@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="557" y="589" type="line"/>
+      <point x="683" y="589" type="line"/>
+      <point x="1053" y="1104" type="line"/>
+      <point x="1053" y="1460" type="line"/>
+      <point x="927" y="1460" type="line"/>
+      <point x="927" y="1132" type="line"/>
+      <point x="600" y="679" type="line"/>
+      <point x="640" y="679" type="line"/>
+      <point x="313" y="1136" type="line"/>
+      <point x="313" y="1460" type="line"/>
+      <point x="187" y="1460" type="line"/>
+      <point x="187" y="1104" type="line"/>
+    </contour>
+    <contour>
+      <point x="557" y="0" type="line"/>
+      <point x="683" y="0" type="line"/>
+      <point x="683" y="669" type="line"/>
+      <point x="557" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="665" y="1650.191" type="line"/>
+      <point x="556" y="1650.191" type="line"/>
+      <point x="778" y="1883.236" type="line"/>
+      <point x="918" y="1883.236" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

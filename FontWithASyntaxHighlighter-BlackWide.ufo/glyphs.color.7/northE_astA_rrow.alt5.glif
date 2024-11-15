@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="northEastArrow.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="1175" y="1148" type="line"/>
+      <point x="404" y="1149" type="line"/>
+      <point x="404" y="904" type="line"/>
+      <point x="976" y="908" type="line"/>
+      <point x="934" y="949" type="line"/>
+      <point x="931" y="377" type="line"/>
+      <point x="1175" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="883" y="1047" type="line"/>
+      <point x="302" y="466" type="line"/>
+      <point x="492" y="275" type="line"/>
+      <point x="1073" y="857" type="line"/>
+    </contour>
+    <contour>
+      <point x="998" y="664" type="line"/>
+      <point x="911" y="884" type="line"/>
+      <point x="689" y="970" type="line"/>
+      <point x="781" y="754" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

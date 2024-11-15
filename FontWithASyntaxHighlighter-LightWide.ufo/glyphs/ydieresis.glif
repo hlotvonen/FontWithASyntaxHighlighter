@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydieresis" format="2">
+  <advance width="1555"/>
+  <unicode hex="00FF"/>
+  <outline>
+    <contour>
+      <point x="355" y="-400" type="line"/>
+      <point x="981" y="-400" type="line"/>
+      <point x="1302" y="-112" type="line"/>
+      <point x="1302" y="1000" type="line"/>
+      <point x="1186" y="1000" type="line"/>
+      <point x="1186" y="294" type="line"/>
+      <point x="1186" y="254" type="line"/>
+      <point x="1186" y="-82" type="line"/>
+      <point x="925" y="-302" type="line"/>
+      <point x="335" y="-302" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="79" type="line"/>
+      <point x="1222" y="237" type="line"/>
+      <point x="1222" y="320" type="line"/>
+      <point x="573" y="195" type="line"/>
+      <point x="338" y="366" type="line"/>
+      <point x="338" y="1000" type="line"/>
+      <point x="212" y="1000" type="line"/>
+      <point x="212" y="323" type="line"/>
+    </contour>
+    <contour>
+      <point x="454" y="1276" type="line"/>
+      <point x="591" y="1406" type="line"/>
+      <point x="454" y="1536" type="line"/>
+      <point x="317" y="1406" type="line"/>
+    </contour>
+    <contour>
+      <point x="1066" y="1276" type="line"/>
+      <point x="1203" y="1406" type="line"/>
+      <point x="1066" y="1536" type="line"/>
+      <point x="929" y="1406" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:02</string>
+    </dict>
+  </lib>
+</glyph>

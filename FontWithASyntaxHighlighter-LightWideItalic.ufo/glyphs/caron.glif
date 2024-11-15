@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron" format="2">
+  <advance width="1555"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="599" y="1597" type="line"/>
+      <point x="736" y="1597" type="line"/>
+      <point x="965" y="1309" type="line"/>
+      <point x="903" y="1309" type="line"/>
+      <point x="1245" y="1597" type="line"/>
+      <point x="1382" y="1597" type="line"/>
+      <point x="986" y="1274" type="line"/>
+      <point x="870" y="1274" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:02</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aring" format="2">
+  <advance width="1240"/>
+  <unicode hex="00C5"/>
+  <outline>
+    <contour>
+      <point x="110" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="399" y="819" type="line"/>
+      <point x="813" y="1370" type="line"/>
+      <point x="776" y="1385" type="line"/>
+      <point x="979" y="848" type="line"/>
+      <point x="814" y="0" type="line"/>
+      <point x="936" y="0" type="line"/>
+      <point x="1103" y="861" type="line"/>
+      <point x="880" y="1460" type="line"/>
+      <point x="734" y="1460" type="line"/>
+      <point x="277" y="861" type="line"/>
+    </contour>
+    <contour>
+      <point x="276" y="449" type="line"/>
+      <point x="939" y="449" type="line"/>
+      <point x="959" y="552" type="line"/>
+      <point x="296" y="552" type="line"/>
+    </contour>
+    <contour>
+      <point x="716" y="1443" type="line"/>
+      <point x="890" y="1443" type="line"/>
+      <point x="1061" y="1600" type="line"/>
+      <point x="1087" y="1734" type="line"/>
+      <point x="977" y="1890" type="line"/>
+      <point x="803" y="1890" type="line"/>
+      <point x="633" y="1733" type="line"/>
+      <point x="607" y="1599" type="line"/>
+    </contour>
+    <contour>
+      <point x="708" y="1637" type="line"/>
+      <point x="720" y="1696" type="line"/>
+      <point x="833" y="1802" type="line"/>
+      <point x="913" y="1802" type="line"/>
+      <point x="986" y="1696" type="line"/>
+      <point x="974" y="1637" type="line"/>
+      <point x="861" y="1531" type="line"/>
+      <point x="781" y="1531" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:00</string>
+    </dict>
+  </lib>
+</glyph>

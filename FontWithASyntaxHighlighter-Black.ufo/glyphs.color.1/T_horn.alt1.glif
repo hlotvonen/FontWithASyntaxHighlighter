@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="152" y="0" type="line"/>
+      <point x="481" y="0" type="line"/>
+      <point x="481" y="1460" type="line"/>
+      <point x="152" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="272" type="line"/>
+      <point x="833" y="272" type="line"/>
+      <point x="1168" y="589" type="line"/>
+      <point x="1168" y="933" type="line"/>
+      <point x="823" y="1250" type="line"/>
+      <point x="306" y="1250" type="line"/>
+      <point x="306" y="994" type="line"/>
+      <point x="683" y="994" type="line"/>
+      <point x="843" y="864" type="line"/>
+      <point x="843" y="703" type="line"/>
+      <point x="683" y="513" type="line"/>
+      <point x="306" y="513" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aacute" format="2">
+  <advance width="1555"/>
+  <unicode hex="00C1"/>
+  <outline>
+    <contour>
+      <point x="137" y="0" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="429" y="821" type="line"/>
+      <point x="975" y="1380" type="line"/>
+      <point x="935" y="1380" type="line"/>
+      <point x="1265" y="825" type="line"/>
+      <point x="1105" y="0" type="line"/>
+      <point x="1225" y="0" type="line"/>
+      <point x="1392" y="861" type="line"/>
+      <point x="1038" y="1460" type="line"/>
+      <point x="892" y="1460" type="line"/>
+      <point x="304" y="861" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="449" type="line"/>
+      <point x="1228" y="449" type="line"/>
+      <point x="1248" y="552" type="line"/>
+      <point x="323" y="552" type="line"/>
+    </contour>
+    <contour>
+      <point x="1051" y="1652" type="line"/>
+      <point x="932" y="1652" type="line"/>
+      <point x="1249" y="1884" type="line"/>
+      <point x="1402" y="1884" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:00</string>
+    </dict>
+  </lib>
+</glyph>

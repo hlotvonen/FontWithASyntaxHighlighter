@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="1240"/>
+  <unicode hex="0059"/>
+  <outline>
+    <contour>
+      <point x="455" y="532" type="line"/>
+      <point x="781" y="532" type="line"/>
+      <point x="1233" y="1069" type="line"/>
+      <point x="1309" y="1460" type="line"/>
+      <point x="974" y="1460" type="line"/>
+      <point x="916" y="1163" type="line"/>
+      <point x="626" y="781" type="line"/>
+      <point x="698" y="781" type="line"/>
+      <point x="554" y="1153" type="line"/>
+      <point x="614" y="1460" type="line"/>
+      <point x="289" y="1460" type="line"/>
+      <point x="213" y="1069" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="0" type="line"/>
+      <point x="679" y="0" type="line"/>
+      <point x="810" y="676" type="line"/>
+      <point x="481" y="676" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:35:59</string>
+    </dict>
+  </lib>
+</glyph>

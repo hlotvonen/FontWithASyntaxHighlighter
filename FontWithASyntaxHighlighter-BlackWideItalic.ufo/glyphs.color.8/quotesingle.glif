@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle" format="2">
+  <advance width="1555"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="952" y="744" type="line"/>
+      <point x="1118" y="1460" type="line"/>
+      <point x="795" y="1460" type="line"/>
+      <point x="683" y="744" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/25 15:10:11</string>
+    </dict>
+  </lib>
+</glyph>

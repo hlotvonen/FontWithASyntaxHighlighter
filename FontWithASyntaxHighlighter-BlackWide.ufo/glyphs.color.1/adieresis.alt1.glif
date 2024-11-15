@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresis.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="1153" y="0" type="line"/>
+      <point x="1398" y="0" type="line"/>
+      <point x="1398" y="833" type="line"/>
+      <point x="1146" y="1082" type="line"/>
+      <point x="270" y="1082" type="line"/>
+      <point x="240" y="829" type="line"/>
+      <point x="970" y="829" type="line"/>
+      <point x="1073" y="764" type="line"/>
+      <point x="1073" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="475" y="-22" type="line"/>
+      <point x="1169" y="116" type="line"/>
+      <point x="1169" y="297" type="line"/>
+      <point x="591" y="211" type="line"/>
+      <point x="407" y="341" type="line"/>
+      <point x="407" y="385" type="line"/>
+      <point x="578" y="453" type="line"/>
+      <point x="1169" y="453" type="line"/>
+      <point x="1169" y="643" type="line"/>
+      <point x="448" y="643" type="line"/>
+      <point x="112" y="459" type="line"/>
+      <point x="112" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="436" y="1231" type="line"/>
+      <point x="649" y="1441" type="line"/>
+      <point x="436" y="1650" type="line"/>
+      <point x="223" y="1441" type="line"/>
+    </contour>
+    <contour>
+      <point x="1109" y="1231" type="line"/>
+      <point x="1322" y="1441" type="line"/>
+      <point x="1109" y="1650" type="line"/>
+      <point x="896" y="1441" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

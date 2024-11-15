@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sixsuperior.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="847" y="1664" type="curve" smooth="yes"/>
+      <point x="670" y="1664"/>
+      <point x="557" y="1595"/>
+      <point x="517" y="1387" type="curve" smooth="yes"/>
+      <point x="476" y="1179"/>
+      <point x="589" y="1092"/>
+      <point x="748" y="1092" type="curve" smooth="yes"/>
+      <point x="894" y="1092"/>
+      <point x="1004" y="1143"/>
+      <point x="1028" y="1268" type="curve" smooth="yes"/>
+      <point x="1053" y="1393"/>
+      <point x="966" y="1434"/>
+      <point x="869" y="1434" type="curve" smooth="yes"/>
+      <point x="729" y="1434"/>
+      <point x="647" y="1368"/>
+      <point x="593" y="1315" type="curve"/>
+      <point x="598" y="1265" type="line"/>
+      <point x="639" y="1291"/>
+      <point x="711" y="1330"/>
+      <point x="797" y="1330" type="curve" smooth="yes"/>
+      <point x="849" y="1330"/>
+      <point x="878" y="1316"/>
+      <point x="871" y="1280" type="curve" smooth="yes"/>
+      <point x="863" y="1241"/>
+      <point x="824" y="1217"/>
+      <point x="762" y="1217" type="curve" smooth="yes"/>
+      <point x="694" y="1217"/>
+      <point x="659" y="1246"/>
+      <point x="681" y="1356" type="curve" smooth="yes"/>
+      <point x="708" y="1499"/>
+      <point x="746" y="1542"/>
+      <point x="833" y="1542" type="curve" smooth="yes"/>
+      <point x="883" y="1542"/>
+      <point x="909" y="1526"/>
+      <point x="906" y="1486" type="curve"/>
+      <point x="1056" y="1502" type="line"/>
+      <point x="1061" y="1608"/>
+      <point x="997" y="1664"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

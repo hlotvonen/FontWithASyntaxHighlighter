@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nhookleft.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="258" y="50" type="line"/>
+      <point x="138" y="50" type="line"/>
+      <point x="100" y="-142" type="line"/>
+      <point x="-49" y="-302" type="line"/>
+      <point x="-184" y="-302" type="line"/>
+      <point x="-183" y="-400" type="line"/>
+      <point x="-4" y="-400" type="line"/>
+      <point x="215" y="-172" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="494" y="1266" type="line"/>
+      <point x="506" y="1266" type="line"/>
+      <point x="1085" y="1" type="line"/>
+      <point x="1216" y="1" type="line"/>
+      <point x="1500" y="1461" type="line"/>
+      <point x="1380" y="1461" type="line"/>
+      <point x="1138" y="214" type="line"/>
+      <point x="1126" y="214" type="line"/>
+      <point x="545" y="1460" type="line"/>
+      <point x="412" y="1460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

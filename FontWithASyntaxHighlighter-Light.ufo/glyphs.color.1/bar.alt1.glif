@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="683" y="-400" type="line"/>
+      <point x="683" y="1602" type="line"/>
+      <point x="557" y="1602" type="line"/>
+      <point x="557" y="-400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

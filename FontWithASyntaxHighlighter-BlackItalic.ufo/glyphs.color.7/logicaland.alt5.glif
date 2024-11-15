@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicaland.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="1130" y="194" type="line"/>
+      <point x="820" y="1276" type="line"/>
+      <point x="681" y="1276" type="line"/>
+      <point x="-24" y="194" type="line"/>
+      <point x="309" y="194" type="line"/>
+      <point x="646" y="758" type="line"/>
+      <point x="660" y="758" type="line"/>
+      <point x="792" y="194" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

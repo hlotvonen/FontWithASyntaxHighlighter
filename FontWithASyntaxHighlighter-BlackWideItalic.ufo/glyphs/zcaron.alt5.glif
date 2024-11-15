@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zcaron.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="1265" y="0" type="line"/>
+      <point x="1347" y="267" type="line"/>
+      <point x="348" y="267" type="line"/>
+      <point x="421" y="144" type="line"/>
+      <point x="1421" y="867" type="line"/>
+      <point x="1382" y="1082" type="line"/>
+      <point x="281" y="1082" type="line"/>
+      <point x="200" y="816" type="line"/>
+      <point x="1173" y="816" type="line"/>
+      <point x="1011" y="858" type="line"/>
+      <point x="92" y="227" type="line"/>
+    </contour>
+    <contour>
+      <point x="499" y="1643" type="line"/>
+      <point x="793" y="1643" type="line"/>
+      <point x="976" y="1347" type="line"/>
+      <point x="908" y="1347" type="line"/>
+      <point x="1206" y="1643" type="line"/>
+      <point x="1500" y="1643" type="line"/>
+      <point x="1121" y="1275" type="line"/>
+      <point x="735" y="1275" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

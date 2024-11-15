@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nacute.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="796" y="0" type="line"/>
+      <point x="922" y="0" type="line"/>
+      <point x="1072" y="772" type="line"/>
+      <point x="878" y="1023" type="line"/>
+      <point x="331" y="864" type="line"/>
+      <point x="315" y="782" type="line"/>
+      <point x="817" y="907" type="line"/>
+      <point x="939" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="420" y="883" type="line"/>
+      <point x="405" y="1000" type="line"/>
+      <point x="318" y="1000" type="line"/>
+    </contour>
+    <contour>
+      <point x="816" y="1274" type="line"/>
+      <point x="707" y="1274" type="line"/>
+      <point x="991" y="1597" type="line"/>
+      <point x="1131" y="1597" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

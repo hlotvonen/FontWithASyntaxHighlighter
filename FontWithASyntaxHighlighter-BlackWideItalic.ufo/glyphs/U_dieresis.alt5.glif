@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresis.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="300" y="0" type="line"/>
+      <point x="1054" y="0" type="line"/>
+      <point x="1348" y="295" type="line"/>
+      <point x="1575" y="1460" type="line"/>
+      <point x="1240" y="1460" type="line"/>
+      <point x="1033" y="396" type="line"/>
+      <point x="909" y="271" type="line"/>
+      <point x="541" y="271" type="line"/>
+      <point x="465" y="396" type="line"/>
+      <point x="672" y="1460" type="line"/>
+      <point x="337" y="1460" type="line"/>
+      <point x="112" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="656" y="1629" type="line"/>
+      <point x="860" y="1797" type="line"/>
+      <point x="722" y="1964" type="line"/>
+      <point x="517" y="1797" type="line"/>
+    </contour>
+    <contour>
+      <point x="1329" y="1629" type="line"/>
+      <point x="1533" y="1797" type="line"/>
+      <point x="1395" y="1964" type="line"/>
+      <point x="1190" y="1797" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

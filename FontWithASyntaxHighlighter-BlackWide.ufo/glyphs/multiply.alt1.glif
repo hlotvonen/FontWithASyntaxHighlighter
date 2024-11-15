@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="multiply.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="230" y="1020" type="line"/>
+      <point x="1124" y="126" type="line"/>
+      <point x="1324" y="325" type="line"/>
+      <point x="430" y="1219" type="line"/>
+    </contour>
+    <contour>
+      <point x="426" y="130" type="line"/>
+      <point x="1320" y="1024" type="line"/>
+      <point x="1128" y="1215" type="line"/>
+      <point x="234" y="321" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

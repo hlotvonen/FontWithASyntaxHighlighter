@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omacron.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="490" y="0" type="line"/>
+      <point x="749" y="0" type="line"/>
+      <point x="1080" y="330" type="line"/>
+      <point x="1080" y="670" type="line"/>
+      <point x="769" y="1000" type="line"/>
+      <point x="490" y="1000" type="line"/>
+      <point x="160" y="670" type="line"/>
+      <point x="160" y="330" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="98" type="line"/>
+      <point x="276" y="360" type="line"/>
+      <point x="276" y="640" type="line"/>
+      <point x="536" y="902" type="line"/>
+      <point x="703" y="902" type="line"/>
+      <point x="964" y="640" type="line"/>
+      <point x="964" y="360" type="line"/>
+      <point x="703" y="98" type="line"/>
+    </contour>
+    <contour>
+      <point x="313" y="1339" type="line"/>
+      <point x="927" y="1339" type="line"/>
+      <point x="927" y="1439" type="line"/>
+      <point x="313" y="1439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

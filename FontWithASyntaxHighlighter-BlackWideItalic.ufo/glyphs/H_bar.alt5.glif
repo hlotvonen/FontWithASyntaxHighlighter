@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="145" y="1082" type="line"/>
+      <point x="1620" y="1082" type="line"/>
+      <point x="1659" y="1283" type="line"/>
+      <point x="184" y="1283" type="line"/>
+    </contour>
+    <contour>
+      <point x="955" y="0" type="line"/>
+      <point x="1292" y="0" type="line"/>
+      <point x="1576" y="1460" type="line"/>
+      <point x="1239" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="391" y="0" type="line"/>
+      <point x="675" y="1460" type="line"/>
+      <point x="338" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="602" type="line"/>
+      <point x="1268" y="602" type="line"/>
+      <point x="1321" y="873" type="line"/>
+      <point x="361" y="873" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

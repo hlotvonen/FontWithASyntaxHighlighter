@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="multiply.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="113" y="980" type="line"/>
+      <point x="927" y="166" type="line"/>
+      <point x="1127" y="365" type="line"/>
+      <point x="313" y="1179" type="line"/>
+    </contour>
+    <contour>
+      <point x="309" y="170" type="line"/>
+      <point x="1123" y="984" type="line"/>
+      <point x="931" y="1175" type="line"/>
+      <point x="117" y="361" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

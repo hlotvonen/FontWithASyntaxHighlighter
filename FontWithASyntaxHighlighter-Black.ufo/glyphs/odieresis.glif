@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresis" format="2">
+  <advance width="1240"/>
+  <unicode hex="00F6"/>
+  <outline>
+    <contour>
+      <point x="415" y="0" type="line"/>
+      <point x="825" y="0" type="line"/>
+      <point x="1140" y="369" type="line"/>
+      <point x="1140" y="713" type="line"/>
+      <point x="825" y="1082" type="line"/>
+      <point x="415" y="1082" type="line"/>
+      <point x="100" y="713" type="line"/>
+      <point x="100" y="369" type="line"/>
+    </contour>
+    <contour>
+      <point x="545" y="281" type="line"/>
+      <point x="405" y="453" type="line"/>
+      <point x="405" y="629" type="line"/>
+      <point x="545" y="801" type="line"/>
+      <point x="695" y="801" type="line"/>
+      <point x="835" y="629" type="line"/>
+      <point x="835" y="453" type="line"/>
+      <point x="695" y="281" type="line"/>
+    </contour>
+    <contour>
+      <point x="339.46" y="1227.184" type="line"/>
+      <point x="531.954" y="1436.533" type="line"/>
+      <point x="339.46" y="1644.885" type="line"/>
+      <point x="146.083" y="1436.533" type="line"/>
+    </contour>
+    <contour>
+      <point x="900.46" y="1227.184" type="line"/>
+      <point x="1092.954" y="1436.533" type="line"/>
+      <point x="900.46" y="1644.885" type="line"/>
+      <point x="707.083" y="1436.533" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

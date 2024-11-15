@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb" format="2">
+  <unicode hex="0307"/>
+  <outline>
+    <contour>
+      <point x="754" y="1231" type="line"/>
+      <point x="1013" y="1441" type="line"/>
+      <point x="836" y="1650" type="line"/>
+      <point x="576" y="1441" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:02</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1240</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udotbelow.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="556" y="1082" type="line"/>
+      <point x="231" y="1082" type="line"/>
+      <point x="72" y="262" type="line"/>
+      <point x="387" y="-24" type="line"/>
+      <point x="1169" y="154" type="line"/>
+      <point x="1204" y="335" type="line"/>
+      <point x="566" y="259" type="line"/>
+      <point x="412" y="342" type="line"/>
+    </contour>
+    <contour>
+      <point x="1533" y="1082" type="line"/>
+      <point x="1208" y="1082" type="line"/>
+      <point x="1035" y="190" type="line"/>
+      <point x="1078" y="0" type="line"/>
+      <point x="1323" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="570" y="-528" type="line"/>
+      <point x="829" y="-318" type="line"/>
+      <point x="652" y="-109" type="line"/>
+      <point x="392" y="-318" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

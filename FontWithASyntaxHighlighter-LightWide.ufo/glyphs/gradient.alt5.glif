@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gradient.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="135" y="1351" type="line"/>
+      <point x="709" y="1" type="line"/>
+      <point x="847" y="1" type="line"/>
+      <point x="1420" y="1351" type="line"/>
+      <point x="1291" y="1390" type="line"/>
+      <point x="1291" y="1341" type="line"/>
+      <point x="784" y="152" type="line"/>
+      <point x="773" y="152" type="line"/>
+      <point x="269" y="1341" type="line"/>
+      <point x="269" y="1393" type="line"/>
+    </contour>
+    <contour>
+      <point x="1421" y="1461" type="line"/>
+      <point x="135" y="1461" type="line"/>
+      <point x="135" y="1351" type="line"/>
+      <point x="1420" y="1351" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

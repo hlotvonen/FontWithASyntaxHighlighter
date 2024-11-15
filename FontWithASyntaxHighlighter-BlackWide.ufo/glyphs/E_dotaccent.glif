@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edotaccent" format="2">
+  <advance width="1555"/>
+  <unicode hex="0116"/>
+  <outline>
+    <contour>
+      <point x="534" y="0" type="line"/>
+      <point x="534" y="1460" type="line"/>
+      <point x="205" y="1460" type="line"/>
+      <point x="205" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1342" y="271" type="line"/>
+      <point x="366" y="271" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="1312" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1153" y="866" type="line"/>
+      <point x="396" y="866" type="line"/>
+      <point x="396" y="609" type="line"/>
+      <point x="1153" y="609" type="line"/>
+    </contour>
+    <contour>
+      <point x="1312" y="1189" type="line"/>
+      <point x="1282" y="1460" type="line"/>
+      <point x="366" y="1460" type="line"/>
+      <point x="366" y="1189" type="line"/>
+    </contour>
+    <contour>
+      <point x="758" y="1629" type="line"/>
+      <point x="933" y="1797" type="line"/>
+      <point x="758" y="1964" type="line"/>
+      <point x="583" y="1797" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:00</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="1240"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="521" y="-30" type="curve" smooth="yes"/>
+      <point x="610" y="-30"/>
+      <point x="687" y="24"/>
+      <point x="706" y="121" type="curve" smooth="yes"/>
+      <point x="725" y="220"/>
+      <point x="662" y="280"/>
+      <point x="573" y="280" type="curve" smooth="yes"/>
+      <point x="485" y="280"/>
+      <point x="409" y="228"/>
+      <point x="390" y="129" type="curve" smooth="yes"/>
+      <point x="371" y="32"/>
+      <point x="433" y="-30"/>
+    </contour>
+    <contour>
+      <point x="673" y="753" type="curve" smooth="yes"/>
+      <point x="762" y="753"/>
+      <point x="839" y="807"/>
+      <point x="858" y="904" type="curve" smooth="yes"/>
+      <point x="877" y="1003"/>
+      <point x="815" y="1063"/>
+      <point x="726" y="1063" type="curve" smooth="yes"/>
+      <point x="638" y="1063"/>
+      <point x="562" y="1011"/>
+      <point x="542" y="912" type="curve" smooth="yes"/>
+      <point x="523" y="815"/>
+      <point x="585" y="753"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.8</string>
+          <integer>8</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/25 15:23:18</string>
+    </dict>
+  </lib>
+</glyph>

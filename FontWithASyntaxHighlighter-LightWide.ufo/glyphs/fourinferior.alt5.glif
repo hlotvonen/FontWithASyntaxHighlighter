@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourinferior.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="942" y="-280" type="line"/>
+      <point x="942" y="275" type="line"/>
+      <point x="840" y="275" type="line"/>
+      <point x="549" y="-60" type="line"/>
+      <point x="549" y="-139" type="line"/>
+      <point x="1015" y="-139" type="line"/>
+      <point x="1015" y="-60" type="line"/>
+      <point x="905" y="-60" type="line"/>
+      <point x="883" y="-70" type="line"/>
+      <point x="607" y="-70" type="line"/>
+      <point x="630" y="-83" type="line"/>
+      <point x="874" y="189" type="line"/>
+      <point x="846" y="193" type="line"/>
+      <point x="846" y="-280" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>
