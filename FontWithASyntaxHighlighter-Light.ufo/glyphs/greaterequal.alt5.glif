@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="170" y="203" type="line"/>
+      <point x="1070" y="203" type="line"/>
+      <point x="1070" y="313" type="line"/>
+      <point x="170" y="313" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="550" type="line"/>
+      <point x="1070" y="952" type="line"/>
+      <point x="1070" y="1050" type="line"/>
+      <point x="209" y="1452" type="line"/>
+      <point x="162" y="1352" type="line"/>
+      <point x="901" y="1007" type="line"/>
+      <point x="901" y="993" type="line"/>
+      <point x="162" y="650" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

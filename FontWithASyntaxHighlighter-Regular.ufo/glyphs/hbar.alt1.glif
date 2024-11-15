@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar.alt1" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="54.66666666666667" y="1217.6666666666667" type="line"/>
+      <point x="808.0" y="1217.6666666666667" type="line"/>
+      <point x="808.0" y="1336.6666666666667" type="line"/>
+      <point x="297.0" y="1336.6666666666667" type="line"/>
+      <point x="268.0" y="1336.6666666666667" type="line"/>
+      <point x="54.66666666666667" y="1336.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="863.0" y="0.0" type="line"/>
+      <point x="1055.3333333333335" y="0.0" type="line"/>
+      <point x="1055.3333333333335" y="725.0" type="line"/>
+      <point x="795.0" y="990.6666666666667" type="line"/>
+      <point x="258.6666666666667" y="825.3333333333334" type="line"/>
+      <point x="258.6666666666667" y="710.3333333333334" type="line"/>
+      <point x="728.3333333333334" y="819.0000000000001" type="line"/>
+      <point x="863.0" y="678.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="184.66666666666669" y="0.0" type="line"/>
+      <point x="375.6666666666667" y="0.0" type="line"/>
+      <point x="375.6666666666667" y="1530.0" type="line"/>
+      <point x="184.66666666666669" y="1496.6666666666667" type="line"/>
+    </contour>
+  </outline>
+</glyph>

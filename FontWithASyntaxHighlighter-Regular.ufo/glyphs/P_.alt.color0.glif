@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P.alt.color0" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="258.6666666666667" y="538.6666666666667" type="line"/>
+      <point x="801.0" y="538.6666666666667" type="line"/>
+      <point x="1116.0" y="871.6666666666667" type="line"/>
+      <point x="1116.0" y="1175.6666666666667" type="line"/>
+      <point x="803.0" y="1460.0" type="line"/>
+      <point x="258.6666666666667" y="1460.0" type="line"/>
+      <point x="258.6666666666667" y="1293.0" type="line"/>
+      <point x="717.0" y="1293.0" type="line"/>
+      <point x="923.6666666666667" y="1111.6666666666667" type="line"/>
+      <point x="923.6666666666667" y="933.0" type="line"/>
+      <point x="710.3333333333334" y="685.6666666666667" type="line"/>
+      <point x="258.6666666666667" y="685.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="187.0" y="0.0" type="line"/>
+      <point x="383.33333333333337" y="0.0" type="line"/>
+      <point x="383.33333333333337" y="1460.0" type="line"/>
+      <point x="187.0" y="1460.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

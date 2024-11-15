@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotbelow.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="507" y="0" type="line"/>
+      <point x="837" y="0" type="line"/>
+      <point x="1121" y="1460" type="line"/>
+      <point x="791" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="0" type="line"/>
+      <point x="1229" y="0" type="line"/>
+      <point x="1302" y="271" type="line"/>
+      <point x="148" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="1189" type="line"/>
+      <point x="1480" y="1189" type="line"/>
+      <point x="1513" y="1460" type="line"/>
+      <point x="399" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="570" y="-528" type="line"/>
+      <point x="829" y="-318" type="line"/>
+      <point x="652" y="-109" type="line"/>
+      <point x="392" y="-318" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

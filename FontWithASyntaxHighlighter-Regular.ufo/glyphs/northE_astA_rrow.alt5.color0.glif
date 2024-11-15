@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="northEastArrow.alt5.color0" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="981.0" y="1092.6666666666667" type="line"/>
+      <point x="291.33333333333337" y="1094.0" type="line"/>
+      <point x="291.33333333333337" y="941.0" type="line"/>
+      <point x="868.6666666666667" y="943.6666666666667" type="line"/>
+      <point x="831.3333333333334" y="980.3333333333334" type="line"/>
+      <point x="829.3333333333334" y="403.66666666666674" type="line"/>
+      <point x="982.0" y="403.66666666666674" type="line"/>
+    </contour>
+    <contour>
+      <point x="805.6666666666667" y="1032.0" type="line"/>
+      <point x="225.66666666666669" y="452.33333333333337" type="line"/>
+      <point x="340.33333333333337" y="337.33333333333337" type="line"/>
+      <point x="920.3333333333335" y="917.3333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="908.3333333333335" y="775.0" type="line"/>
+      <point x="835.6666666666667" y="947.6666666666667" type="line"/>
+      <point x="662.3333333333334" y="1019.3333333333334" type="line"/>
+      <point x="738.0" y="849.6666666666667" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m.alt" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="1128" y="0" type="line"/>
+      <point x="1412" y="0" type="line"/>
+      <point x="1412" y="923" type="line"/>
+      <point x="1194" y="1106" type="line"/>
+      <point x="802" y="915" type="line"/>
+      <point x="802" y="736" type="line"/>
+      <point x="1032" y="823" type="line"/>
+      <point x="1128" y="763" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="0" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="427" y="917" type="line"/>
+      <point x="345" y="1082" type="line"/>
+      <point x="143" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="629" y="0" type="line"/>
+      <point x="913" y="0" type="line"/>
+      <point x="913" y="923" type="line"/>
+      <point x="689" y="1106" type="line"/>
+      <point x="322" y="928" type="line"/>
+      <point x="322" y="747" type="line"/>
+      <point x="527" y="823" type="line"/>
+      <point x="629" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/25 13:01:44</string>
+    </dict>
+  </lib>
+</glyph>

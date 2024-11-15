@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jcircumflex" format="2">
+  <advance width="1555"/>
+  <unicode hex="0134"/>
+  <outline>
+    <contour>
+      <point x="517" y="0" type="line"/>
+      <point x="802" y="0" type="line"/>
+      <point x="1399" y="448" type="line"/>
+      <point x="1596" y="1460" type="line"/>
+      <point x="1272" y="1460" type="line"/>
+      <point x="1101" y="583" type="line"/>
+      <point x="666" y="242" type="line"/>
+      <point x="747" y="242" type="line"/>
+      <point x="423" y="563" type="line"/>
+      <point x="457" y="738" type="line"/>
+      <point x="132" y="738" type="line"/>
+      <point x="76" y="448" type="line"/>
+    </contour>
+    <contour>
+      <point x="402" y="1184" type="line"/>
+      <point x="1395" y="1184" type="line"/>
+      <point x="1449" y="1460" type="line"/>
+      <point x="486" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="523" y="1620" type="line"/>
+      <point x="837" y="1620" type="line"/>
+      <point x="1085" y="1866" type="line"/>
+      <point x="1017" y="1866" type="line"/>
+      <point x="1170" y="1620" type="line"/>
+      <point x="1484" y="1620" type="line"/>
+      <point x="1252" y="1908" type="line"/>
+      <point x="866" y="1908" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:00</string>
+    </dict>
+  </lib>
+</glyph>

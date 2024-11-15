@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftArrow.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="305" y="730" type="line"/>
+      <point x="710" y="224" type="line"/>
+      <point x="806" y="305" type="line"/>
+      <point x="442" y="755" type="line"/>
+      <point x="432" y="704" type="line"/>
+      <point x="971" y="1154" type="line"/>
+      <point x="906" y="1235" type="line"/>
+    </contour>
+    <contour>
+      <point x="408" y="671" type="line"/>
+      <point x="1301" y="671" type="line"/>
+      <point x="1324" y="789" type="line"/>
+      <point x="431" y="789" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="888" type="line"/>
+      <point x="434" y="730" type="line"/>
+      <point x="469" y="572" type="line"/>
+      <point x="561" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

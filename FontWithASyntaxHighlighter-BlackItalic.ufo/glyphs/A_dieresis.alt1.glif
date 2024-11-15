@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresis.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="27" y="0" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="513" y="819" type="line"/>
+      <point x="801" y="1261" type="line"/>
+      <point x="739" y="1261" type="line"/>
+      <point x="841" y="849" type="line"/>
+      <point x="676" y="0" type="line"/>
+      <point x="1003" y="0" type="line"/>
+      <point x="1184" y="933" type="line"/>
+      <point x="1002" y="1460" type="line"/>
+      <point x="596" y="1460" type="line"/>
+      <point x="208" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="293" y="303" type="line"/>
+      <point x="884" y="303" type="line"/>
+      <point x="929" y="537" type="line"/>
+      <point x="338" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="549" y="1619" type="line"/>
+      <point x="753" y="1787" type="line"/>
+      <point x="614" y="1954" type="line"/>
+      <point x="410" y="1787" type="line"/>
+    </contour>
+    <contour>
+      <point x="1110" y="1619" type="line"/>
+      <point x="1314" y="1787" type="line"/>
+      <point x="1175" y="1954" type="line"/>
+      <point x="971" y="1787" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

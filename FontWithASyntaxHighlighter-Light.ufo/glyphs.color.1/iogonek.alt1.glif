@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="627" y="0" type="line"/>
+      <point x="751" y="0" type="line"/>
+      <point x="751" y="935" type="line"/>
+      <point x="690" y="1000" type="line"/>
+      <point x="215" y="1000" type="line"/>
+      <point x="195" y="902" type="line"/>
+      <point x="673" y="902" type="line"/>
+      <point x="627" y="938" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="1276" type="line"/>
+      <point x="697" y="1406" type="line"/>
+      <point x="560" y="1536" type="line"/>
+      <point x="423" y="1406" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="-122" type="line"/>
+      <point x="501" y="-310" type="line"/>
+      <point x="639" y="-400" type="line"/>
+      <point x="751" y="-400" type="line"/>
+      <point x="751" y="-310" type="line"/>
+      <point x="670" y="-310" type="line"/>
+      <point x="603" y="-262" type="line"/>
+      <point x="603" y="-151" type="line"/>
+      <point x="751" y="0" type="line"/>
+      <point x="669" y="37" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

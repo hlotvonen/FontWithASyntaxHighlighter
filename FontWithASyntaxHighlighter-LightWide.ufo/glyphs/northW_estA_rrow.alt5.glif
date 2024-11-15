@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="northWestArrow.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="415" y="1094" type="line"/>
+      <point x="413" y="381" type="line"/>
+      <point x="527" y="381" type="line"/>
+      <point x="526" y="1019" type="line"/>
+      <point x="490" y="983" type="line"/>
+      <point x="1128" y="981" type="line"/>
+      <point x="1128" y="1096" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="971" type="line"/>
+      <point x="1086" y="340" type="line"/>
+      <point x="1169" y="423" type="line"/>
+      <point x="538" y="1055" type="line"/>
+    </contour>
+    <contour>
+      <point x="664" y="1069" type="line"/>
+      <point x="506" y="1003" type="line"/>
+      <point x="441" y="845" type="line"/>
+      <point x="596" y="913" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

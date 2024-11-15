@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anticlockwiseOpenCircleArrow.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="509" y="1376" type="line"/>
+      <point x="509" y="742" type="line"/>
+      <point x="740" y="742" type="line"/>
+      <point x="739" y="1219" type="line"/>
+      <point x="667" y="1147" type="line"/>
+      <point x="1144" y="1146" type="line"/>
+      <point x="1144" y="1377" type="line"/>
+    </contour>
+    <contour>
+      <point x="940" y="1210" type="line"/>
+      <point x="648" y="1210" type="line"/>
+      <point x="648" y="918" type="line"/>
+      <point x="858" y="993" type="line"/>
+    </contour>
+    <contour>
+      <point x="649" y="998" type="line"/>
+      <point x="807" y="967"/>
+      <point x="916" y="833"/>
+      <point x="916" y="662" type="curve" smooth="yes"/>
+      <point x="916" y="489"/>
+      <point x="802" y="360"/>
+      <point x="620" y="360" type="curve" smooth="yes"/>
+      <point x="439" y="360"/>
+      <point x="324" y="489"/>
+      <point x="324" y="660" type="curve" smooth="yes"/>
+      <point x="324" y="741"/>
+      <point x="350" y="800"/>
+      <point x="376" y="845" type="curve"/>
+      <point x="162" y="967" type="line"/>
+      <point x="107" y="880"/>
+      <point x="75" y="781"/>
+      <point x="75" y="660" type="curve" smooth="yes"/>
+      <point x="75" y="333"/>
+      <point x="311" y="127"/>
+      <point x="622" y="127" type="curve" smooth="yes"/>
+      <point x="934" y="127"/>
+      <point x="1165" y="337"/>
+      <point x="1165" y="657" type="curve" smooth="yes"/>
+      <point x="1165" y="945"/>
+      <point x="978" y="1138"/>
+      <point x="708" y="1233" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

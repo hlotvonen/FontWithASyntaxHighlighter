@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odotbelow" format="2">
+  <advance width="1555"/>
+  <unicode hex="1ECD"/>
+  <outline>
+    <contour>
+      <point x="580" y="0" type="line"/>
+      <point x="975" y="0" type="line"/>
+      <point x="1445" y="376" type="line"/>
+      <point x="1445" y="706" type="line"/>
+      <point x="981" y="1082" type="line"/>
+      <point x="580" y="1082" type="line"/>
+      <point x="110" y="706" type="line"/>
+      <point x="110" y="376" type="line"/>
+    </contour>
+    <contour>
+      <point x="702" y="281" type="line"/>
+      <point x="415" y="477" type="line"/>
+      <point x="415" y="605" type="line"/>
+      <point x="702" y="801" type="line"/>
+      <point x="853" y="801" type="line"/>
+      <point x="1140" y="605" type="line"/>
+      <point x="1140" y="477" type="line"/>
+      <point x="853" y="281" type="line"/>
+    </contour>
+    <contour>
+      <point x="778" y="-528" type="line"/>
+      <point x="996" y="-318" type="line"/>
+      <point x="778" y="-109" type="line"/>
+      <point x="559" y="-318" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

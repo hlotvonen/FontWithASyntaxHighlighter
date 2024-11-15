@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oogonek.alt5" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="465.0" y="0.0" type="line"/>
+      <point x="774.3333333333334" y="0.0" type="line"/>
+      <point x="1100.0" y="343.0" type="line"/>
+      <point x="1100.0" y="684.3333333333334" type="line"/>
+      <point x="787.6666666666667" y="1027.3333333333335" type="line"/>
+      <point x="465.0" y="1027.3333333333335" type="line"/>
+      <point x="140.0" y="684.3333333333334" type="line"/>
+      <point x="140.0" y="343.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="539.0" y="159.0" type="line"/>
+      <point x="319.0" y="391.0" type="line"/>
+      <point x="319.0" y="636.3333333333334" type="line"/>
+      <point x="539.0" y="868.3333333333334" type="line"/>
+      <point x="700.3333333333334" y="868.3333333333334" type="line"/>
+      <point x="921.0" y="636.3333333333334" type="line"/>
+      <point x="921.0" y="391.0" type="line"/>
+      <point x="700.3333333333334" y="159.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="479.0" y="-125.66666666666667" type="line"/>
+      <point x="479.0" y="-313.33333333333337" type="line"/>
+      <point x="638.6666666666667" y="-414.33333333333337" type="line"/>
+      <point x="768.0" y="-414.33333333333337" type="line"/>
+      <point x="768.0" y="-286.6666666666667" type="line"/>
+      <point x="683.3333333333334" y="-286.6666666666667" type="line"/>
+      <point x="621.3333333333334" y="-244.66666666666669" type="line"/>
+      <point x="621.3333333333334" y="-158.33333333333334" type="line"/>
+      <point x="774.3333333333334" y="0.0" type="line"/>
+      <point x="680.6666666666667" y="39.333333333333336" type="line"/>
+    </contour>
+  </outline>
+</glyph>

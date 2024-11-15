@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.alt1" format="2">
+  <outline>
+    <contour>
+      <point x="390" y="1275" type="line"/>
+      <point x="642" y="1275" type="line"/>
+      <point x="850" y="1643" type="line"/>
+      <point x="555" y="1643" type="line"/>
+    </contour>
+    <contour>
+      <point x="915" y="1275" type="line"/>
+      <point x="1165" y="1275" type="line"/>
+      <point x="1374" y="1643" type="line"/>
+      <point x="1079" y="1643" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1555</integer>
+    </dict>
+  </lib>
+</glyph>

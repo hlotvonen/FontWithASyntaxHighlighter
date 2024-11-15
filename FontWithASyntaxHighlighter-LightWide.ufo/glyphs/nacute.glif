@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nacute" format="2">
+  <advance width="1555"/>
+  <unicode hex="0144"/>
+  <outline>
+    <contour>
+      <point x="1194" y="0" type="line"/>
+      <point x="1320" y="0" type="line"/>
+      <point x="1320" y="781" type="line"/>
+      <point x="1001" y="1023" type="line"/>
+      <point x="295" y="864" type="line"/>
+      <point x="295" y="782" type="line"/>
+      <point x="963" y="907" type="line"/>
+      <point x="1194" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="858" type="line"/>
+      <point x="323" y="1000" type="line"/>
+      <point x="236" y="1000" type="line"/>
+    </contour>
+    <contour>
+      <point x="827" y="1274" type="line"/>
+      <point x="708" y="1274" type="line"/>
+      <point x="980" y="1597" type="line"/>
+      <point x="1133" y="1597" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

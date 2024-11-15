@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rcaron.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="1212" y="605" type="line"/>
+      <point x="1334" y="625" type="line"/>
+      <point x="1359" y="772" type="line"/>
+      <point x="1084" y="1023" type="line"/>
+      <point x="355" y="864" type="line"/>
+      <point x="339" y="782" type="line"/>
+      <point x="1027" y="917" type="line"/>
+      <point x="1235" y="723" type="line"/>
+    </contour>
+    <contour>
+      <point x="148" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+      <point x="436" y="845" type="line"/>
+      <point x="429" y="1000" type="line"/>
+      <point x="342" y="1000" type="line"/>
+    </contour>
+    <contour>
+      <point x="608" y="1597" type="line"/>
+      <point x="745" y="1597" type="line"/>
+      <point x="974" y="1309" type="line"/>
+      <point x="912" y="1309" type="line"/>
+      <point x="1254" y="1597" type="line"/>
+      <point x="1391" y="1597" type="line"/>
+      <point x="995" y="1274" type="line"/>
+      <point x="879" y="1274" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

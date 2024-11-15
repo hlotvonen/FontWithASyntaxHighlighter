@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.alt3" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="547" y="0" type="line"/>
+      <point x="673" y="0" type="line"/>
+      <point x="673" y="1460" type="line"/>
+      <point x="547" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="1350" type="line"/>
+      <point x="1138" y="1350" type="line"/>
+      <point x="1123" y="1460" type="line"/>
+      <point x="117" y="1460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/26 08:56:46</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftArrowTipUp" format="2">
+  <advance width="1240"/>
+  <unicode hex="2B11"/>
+  <outline>
+    <contour>
+      <point x="575" y="1248" type="line"/>
+      <point x="100" y="775" type="line"/>
+      <point x="181" y="694" type="line"/>
+      <point x="600" y="1117" type="line"/>
+      <point x="550" y="1117" type="line"/>
+      <point x="969" y="694" type="line"/>
+      <point x="1050" y="775" type="line"/>
+    </contour>
+    <contour>
+      <point x="634" y="1129" type="line"/>
+      <point x="516" y="1129" type="line"/>
+      <point x="516" y="228" type="line"/>
+      <point x="634" y="228" type="line"/>
+    </contour>
+    <contour>
+      <point x="417" y="1055" type="line"/>
+      <point x="575" y="995" type="line"/>
+      <point x="733" y="1054" type="line"/>
+      <point x="575" y="1117" type="line"/>
+    </contour>
+    <contour>
+      <point x="516" y="349" type="line"/>
+      <point x="516" y="228" type="line"/>
+      <point x="1120" y="228" type="line"/>
+      <point x="1120" y="349" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:05</string>
+    </dict>
+  </lib>
+</glyph>

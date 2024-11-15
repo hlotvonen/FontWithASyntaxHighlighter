@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute" format="2">
+  <advance width="1555"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <contour>
+      <point x="586" y="0" type="line"/>
+      <point x="911" y="0" type="line"/>
+      <point x="1080" y="867" type="line"/>
+      <point x="936" y="1082" type="line"/>
+      <point x="307" y="1082" type="line"/>
+      <point x="219" y="781" type="line"/>
+      <point x="797" y="781" type="line"/>
+      <point x="749" y="836" type="line"/>
+    </contour>
+    <contour>
+      <point x="967" y="1275" type="line"/>
+      <point x="688" y="1275" type="line"/>
+      <point x="976" y="1643" type="line"/>
+      <point x="1329" y="1643" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

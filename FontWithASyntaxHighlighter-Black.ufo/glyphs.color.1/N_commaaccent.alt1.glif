@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncommaaccent.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="132" y="0" type="line"/>
+      <point x="439" y="0" type="line"/>
+      <point x="439" y="774" type="line"/>
+      <point x="451" y="774" type="line"/>
+      <point x="907" y="0" type="line"/>
+      <point x="1108" y="0" type="line"/>
+      <point x="1108" y="1460" type="line"/>
+      <point x="801" y="1460" type="line"/>
+      <point x="801" y="671" type="line"/>
+      <point x="789" y="671" type="line"/>
+      <point x="335" y="1460" type="line"/>
+      <point x="132" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="448" y="-494" type="line"/>
+      <point x="689" y="-494" type="line"/>
+      <point x="689" y="-418" type="line"/>
+      <point x="448" y="-721" type="line"/>
+      <point x="573" y="-786" type="line"/>
+      <point x="791" y="-504" type="line"/>
+      <point x="791" y="-151" type="line"/>
+      <point x="448" y="-151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

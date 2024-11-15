@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five" format="2">
+  <advance width="1555"/>
+  <unicode hex="0035"/>
+  <outline>
+    <contour>
+      <point x="235" y="0" type="line"/>
+      <point x="978" y="0" type="line"/>
+      <point x="1367" y="333" type="line"/>
+      <point x="1367" y="609" type="line"/>
+      <point x="1066" y="852" type="line"/>
+      <point x="300" y="852" type="line"/>
+      <point x="309" y="797" type="line"/>
+      <point x="344" y="1387" type="line"/>
+      <point x="323" y="1350" type="line"/>
+      <point x="1296" y="1350" type="line"/>
+      <point x="1276" y="1460" type="line"/>
+      <point x="238" y="1460" type="line"/>
+      <point x="198" y="744" type="line"/>
+      <point x="1008" y="744" type="line"/>
+      <point x="1244" y="564" type="line"/>
+      <point x="1244" y="373" type="line"/>
+      <point x="922" y="110" type="line"/>
+      <point x="215" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 15:43:13</string>
+    </dict>
+  </lib>
+</glyph>

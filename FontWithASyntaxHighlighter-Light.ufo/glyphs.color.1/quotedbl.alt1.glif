@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedbl.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="409" y="820" type="line"/>
+      <point x="421" y="1460" type="line"/>
+      <point x="295" y="1460" type="line"/>
+      <point x="309" y="820" type="line"/>
+    </contour>
+    <contour>
+      <point x="933" y="820" type="line"/>
+      <point x="945" y="1460" type="line"/>
+      <point x="819" y="1460" type="line"/>
+      <point x="833" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

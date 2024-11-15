@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslashacute.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="436" y="275" type="line"/>
+      <point x="1285" y="1066" type="line"/>
+      <point x="1153" y="1181" type="line"/>
+      <point x="296" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="109" y="-67" type="line"/>
+      <point x="504" y="306" type="line"/>
+      <point x="363" y="473" type="line"/>
+      <point x="-48" y="87" type="line"/>
+    </contour>
+    <contour>
+      <point x="1233" y="991" type="line"/>
+      <point x="1641" y="1376" type="line"/>
+      <point x="1484" y="1530" type="line"/>
+      <point x="1090" y="1159" type="line"/>
+    </contour>
+    <contour>
+      <point x="449" y="0" type="line"/>
+      <point x="854" y="0" type="line"/>
+      <point x="1438" y="528" type="line"/>
+      <point x="1516" y="932" type="line"/>
+      <point x="1121" y="1460" type="line"/>
+      <point x="733" y="1460" type="line"/>
+      <point x="147" y="932" type="line"/>
+      <point x="69" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="652" y="311" type="line"/>
+      <point x="416" y="643" type="line"/>
+      <point x="446" y="797" type="line"/>
+      <point x="835" y="1149" type="line"/>
+      <point x="933" y="1149" type="line"/>
+      <point x="1169" y="817" type="line"/>
+      <point x="1139" y="663" type="line"/>
+      <point x="750" y="311" type="line"/>
+    </contour>
+    <contour>
+      <point x="1109" y="1619" type="line"/>
+      <point x="830" y="1619" type="line"/>
+      <point x="1105" y="1918" type="line"/>
+      <point x="1458" y="1918" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

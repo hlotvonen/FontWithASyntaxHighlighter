@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcommaaccent" format="2">
+  <advance width="1240"/>
+  <unicode hex="0123"/>
+  <outline>
+    <contour>
+      <point x="310" y="-400" type="line"/>
+      <point x="781" y="-400" type="line"/>
+      <point x="1020" y="-112" type="line"/>
+      <point x="1020" y="1000" type="line"/>
+      <point x="904" y="1000" type="line"/>
+      <point x="904" y="299" type="line"/>
+      <point x="904" y="279" type="line"/>
+      <point x="904" y="-82" type="line"/>
+      <point x="725" y="-302" type="line"/>
+      <point x="290" y="-302" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="97" type="line"/>
+      <point x="971" y="256" type="line"/>
+      <point x="971" y="338" type="line"/>
+      <point x="493" y="203" type="line"/>
+      <point x="300" y="383" type="line"/>
+      <point x="300" y="653" type="line"/>
+      <point x="545" y="900" type="line"/>
+      <point x="971" y="900" type="line"/>
+      <point x="971" y="1000" type="line"/>
+      <point x="486" y="1000" type="line"/>
+      <point x="184" y="692" type="line"/>
+      <point x="184" y="348" type="line"/>
+    </contour>
+    <contour>
+      <point x="733" y="1527" type="line"/>
+      <point x="580" y="1527" type="line"/>
+      <point x="580" y="1471" type="line"/>
+      <point x="762" y="1707" type="line"/>
+      <point x="687" y="1747" type="line"/>
+      <point x="518" y="1527" type="line"/>
+      <point x="518" y="1312" type="line"/>
+      <point x="733" y="1312" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

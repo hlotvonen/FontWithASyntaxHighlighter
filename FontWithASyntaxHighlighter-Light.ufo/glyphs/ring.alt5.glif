@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="533" y="1215" type="line"/>
+      <point x="707" y="1215" type="line"/>
+      <point x="847" y="1372" type="line"/>
+      <point x="847" y="1506" type="line"/>
+      <point x="707" y="1662" type="line"/>
+      <point x="533" y="1662" type="line"/>
+      <point x="393" y="1505" type="line"/>
+      <point x="393" y="1371" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="1409" type="line"/>
+      <point x="487" y="1468" type="line"/>
+      <point x="580" y="1574" type="line"/>
+      <point x="660" y="1574" type="line"/>
+      <point x="753" y="1468" type="line"/>
+      <point x="753" y="1409" type="line"/>
+      <point x="660" y="1303" type="line"/>
+      <point x="580" y="1303" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

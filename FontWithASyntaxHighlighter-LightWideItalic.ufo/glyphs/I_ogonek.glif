@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek" format="2">
+  <advance width="1555"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="608" y="0" type="line"/>
+      <point x="734" y="0" type="line"/>
+      <point x="1018" y="1460" type="line"/>
+      <point x="892" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="0" type="line"/>
+      <point x="1231" y="0" type="line"/>
+      <point x="1272" y="110" type="line"/>
+      <point x="132" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="373" y="1350" type="line"/>
+      <point x="1513" y="1350" type="line"/>
+      <point x="1515" y="1460" type="line"/>
+      <point x="415" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="421" y="-132" type="line"/>
+      <point x="387" y="-310" type="line"/>
+      <point x="517" y="-400" type="line"/>
+      <point x="639" y="-400" type="line"/>
+      <point x="657" y="-310" type="line"/>
+      <point x="566" y="-310" type="line"/>
+      <point x="498" y="-262" type="line"/>
+      <point x="518" y="-161" type="line"/>
+      <point x="717" y="0" type="line"/>
+      <point x="643" y="37" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:00</string>
+    </dict>
+  </lib>
+</glyph>

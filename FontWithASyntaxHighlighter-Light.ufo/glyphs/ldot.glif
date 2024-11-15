@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot" format="2">
+  <advance width="1240"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="714" y="0" type="line"/>
+      <point x="1075" y="0" type="line"/>
+      <point x="1095" y="98" type="line"/>
+      <point x="770" y="98" type="line"/>
+      <point x="591" y="318" type="line"/>
+      <point x="591" y="1465" type="line"/>
+      <point x="530" y="1530" type="line"/>
+      <point x="125" y="1530" type="line"/>
+      <point x="105" y="1432" type="line"/>
+      <point x="513" y="1432" type="line"/>
+      <point x="475" y="1468" type="line"/>
+      <point x="475" y="288" type="line"/>
+    </contour>
+    <contour>
+      <point x="1123" y="683" type="line"/>
+      <point x="1260" y="813" type="line"/>
+      <point x="1123" y="943" type="line"/>
+      <point x="986" y="813" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

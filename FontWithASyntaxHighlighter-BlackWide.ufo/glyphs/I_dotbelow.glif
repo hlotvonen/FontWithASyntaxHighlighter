@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotbelow" format="2">
+  <advance width="1555"/>
+  <unicode hex="1ECA"/>
+  <outline>
+    <contour>
+      <point x="612" y="0" type="line"/>
+      <point x="942" y="0" type="line"/>
+      <point x="942" y="1460" type="line"/>
+      <point x="612" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="0" type="line"/>
+      <point x="1334" y="0" type="line"/>
+      <point x="1354" y="271" type="line"/>
+      <point x="200" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="1189" type="line"/>
+      <point x="1354" y="1189" type="line"/>
+      <point x="1334" y="1460" type="line"/>
+      <point x="220" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="778" y="-528" type="line"/>
+      <point x="996" y="-318" type="line"/>
+      <point x="778" y="-109" type="line"/>
+      <point x="559" y="-318" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:00</string>
+    </dict>
+  </lib>
+</glyph>

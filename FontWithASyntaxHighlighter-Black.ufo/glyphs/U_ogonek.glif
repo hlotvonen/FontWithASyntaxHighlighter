@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="1240"/>
+  <unicode hex="0172"/>
+  <outline>
+    <contour>
+      <point x="327" y="0" type="line"/>
+      <point x="913" y="0" type="line"/>
+      <point x="1108" y="249" type="line"/>
+      <point x="1108" y="1460" type="line"/>
+      <point x="773" y="1460" type="line"/>
+      <point x="773" y="353" type="line"/>
+      <point x="715" y="271" type="line"/>
+      <point x="525" y="271" type="line"/>
+      <point x="467" y="353" type="line"/>
+      <point x="467" y="1460" type="line"/>
+      <point x="132" y="1460" type="line"/>
+      <point x="132" y="249" type="line"/>
+    </contour>
+    <contour>
+      <point x="428" y="-133" type="line"/>
+      <point x="428" y="-320" type="line"/>
+      <point x="631" y="-443" type="line"/>
+      <point x="795" y="-443" type="line"/>
+      <point x="795" y="-240" type="line"/>
+      <point x="703" y="-240" type="line"/>
+      <point x="651" y="-210" type="line"/>
+      <point x="651" y="-173" type="line"/>
+      <point x="814" y="0" type="line"/>
+      <point x="697" y="44" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

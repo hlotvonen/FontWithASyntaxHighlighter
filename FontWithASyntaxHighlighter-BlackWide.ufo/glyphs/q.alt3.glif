@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q.alt3" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="1103" y="-400" type="line"/>
+      <point x="1433" y="-340" type="line"/>
+      <point x="1433" y="1082" type="line"/>
+      <point x="1118" y="1082" type="line"/>
+      <point x="1118" y="200" type="line"/>
+      <point x="1103" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="1251" y="1082" type="line"/>
+      <point x="581" y="1082" type="line"/>
+      <point x="109" y="739" type="line"/>
+      <point x="109" y="307" type="line"/>
+      <point x="551" y="-24" type="line"/>
+      <point x="1251" y="154" type="line"/>
+      <point x="1251" y="353" type="line"/>
+      <point x="648" y="277" type="line"/>
+      <point x="437" y="391" type="line"/>
+      <point x="437" y="628" type="line"/>
+      <point x="720" y="819" type="line"/>
+      <point x="1251" y="819" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.5</string>
+          <integer>5</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/25 20:59:23</string>
+    </dict>
+  </lib>
+</glyph>

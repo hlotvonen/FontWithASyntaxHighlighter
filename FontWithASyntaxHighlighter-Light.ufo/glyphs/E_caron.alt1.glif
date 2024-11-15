@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecaron.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="343" y="0" type="line"/>
+      <point x="343" y="1460" type="line"/>
+      <point x="217" y="1460" type="line"/>
+      <point x="217" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1078" y="110" type="line"/>
+      <point x="302" y="110" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="1058" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="915" y="779" type="line"/>
+      <point x="302" y="779" type="line"/>
+      <point x="302" y="674" type="line"/>
+      <point x="915" y="674" type="line"/>
+    </contour>
+    <contour>
+      <point x="1038" y="1350" type="line"/>
+      <point x="1018" y="1460" type="line"/>
+      <point x="302" y="1460" type="line"/>
+      <point x="302" y="1350" type="line"/>
+    </contour>
+    <contour>
+      <point x="328" y="1883" type="line"/>
+      <point x="459" y="1883" type="line"/>
+      <point x="678" y="1679" type="line"/>
+      <point x="622" y="1679" type="line"/>
+      <point x="841" y="1883" type="line"/>
+      <point x="972" y="1883" type="line"/>
+      <point x="708" y="1650" type="line"/>
+      <point x="592" y="1650" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

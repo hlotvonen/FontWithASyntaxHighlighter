@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Imacron.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="608" y="0" type="line"/>
+      <point x="734" y="0" type="line"/>
+      <point x="1018" y="1460" type="line"/>
+      <point x="892" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="0" type="line"/>
+      <point x="1231" y="0" type="line"/>
+      <point x="1272" y="110" type="line"/>
+      <point x="132" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="373" y="1350" type="line"/>
+      <point x="1513" y="1350" type="line"/>
+      <point x="1515" y="1460" type="line"/>
+      <point x="415" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="603" y="1731" type="line"/>
+      <point x="1432" y="1731" type="line"/>
+      <point x="1452" y="1831" type="line"/>
+      <point x="623" y="1831" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gbreve.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="413" y="0" type="line"/>
+      <point x="903" y="0" type="line"/>
+      <point x="1027" y="114" type="line"/>
+      <point x="1153" y="763" type="line"/>
+      <point x="707" y="763" type="line"/>
+      <point x="687" y="659" type="line"/>
+      <point x="1078" y="659" type="line"/>
+      <point x="1030" y="704" type="line"/>
+      <point x="927" y="176" type="line"/>
+      <point x="854" y="110" type="line"/>
+      <point x="495" y="110" type="line"/>
+      <point x="269" y="565" type="line"/>
+      <point x="331" y="885" type="line"/>
+      <point x="755" y="1350" type="line"/>
+      <point x="1215" y="1350" type="line"/>
+      <point x="1217" y="1460" type="line"/>
+      <point x="697" y="1460" type="line"/>
+      <point x="214" y="930" type="line"/>
+      <point x="138" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="765" y="1643" type="line"/>
+      <point x="1059" y="1643" type="line"/>
+      <point x="1202" y="1760" type="line"/>
+      <point x="1226" y="1883" type="line"/>
+      <point x="1136" y="1883" type="line"/>
+      <point x="1119" y="1797" type="line"/>
+      <point x="1036" y="1731" type="line"/>
+      <point x="822" y="1731" type="line"/>
+      <point x="765" y="1797" type="line"/>
+      <point x="782" y="1883" type="line"/>
+      <point x="692" y="1883" type="line"/>
+      <point x="668" y="1759" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

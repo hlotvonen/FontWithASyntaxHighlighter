@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ntilde.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="158" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="465" y="830" type="line"/>
+      <point x="477" y="830" type="line"/>
+      <point x="1194" y="0" type="line"/>
+      <point x="1396" y="0" type="line"/>
+      <point x="1396" y="1460" type="line"/>
+      <point x="1089" y="1460" type="line"/>
+      <point x="1089" y="591" type="line"/>
+      <point x="1077" y="591" type="line"/>
+      <point x="349" y="1460" type="line"/>
+      <point x="158" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="762" y="1911" type="line"/>
+      <point x="464" y="1911" type="line"/>
+      <point x="311" y="1758" type="line"/>
+      <point x="311" y="1615" type="line"/>
+      <point x="514" y="1615" type="line"/>
+      <point x="514" y="1686" type="line"/>
+      <point x="574" y="1758" type="line"/>
+      <point x="652" y="1758" type="line"/>
+      <point x="792" y="1615" type="line"/>
+      <point x="1090" y="1615" type="line"/>
+      <point x="1243" y="1768" type="line"/>
+      <point x="1243" y="1911" type="line"/>
+      <point x="1040" y="1911" type="line"/>
+      <point x="1040" y="1830" type="line"/>
+      <point x="980" y="1768" type="line"/>
+      <point x="902" y="1768" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oogonek.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="415" y="0" type="line"/>
+      <point x="825" y="0" type="line"/>
+      <point x="1140" y="369" type="line"/>
+      <point x="1140" y="713" type="line"/>
+      <point x="825" y="1082" type="line"/>
+      <point x="415" y="1082" type="line"/>
+      <point x="100" y="713" type="line"/>
+      <point x="100" y="369" type="line"/>
+    </contour>
+    <contour>
+      <point x="545" y="281" type="line"/>
+      <point x="405" y="453" type="line"/>
+      <point x="405" y="629" type="line"/>
+      <point x="545" y="801" type="line"/>
+      <point x="695" y="801" type="line"/>
+      <point x="835" y="629" type="line"/>
+      <point x="835" y="453" type="line"/>
+      <point x="695" y="281" type="line"/>
+    </contour>
+    <contour>
+      <point x="439" y="-133" type="line"/>
+      <point x="439" y="-320" type="line"/>
+      <point x="642" y="-443" type="line"/>
+      <point x="806" y="-443" type="line"/>
+      <point x="806" y="-240" type="line"/>
+      <point x="714" y="-240" type="line"/>
+      <point x="662" y="-210" type="line"/>
+      <point x="662" y="-173" type="line"/>
+      <point x="825" y="0" type="line"/>
+      <point x="708" y="44" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zdotaccent" format="2">
+  <advance width="1555"/>
+  <unicode hex="017B"/>
+  <outline>
+    <contour>
+      <point x="215" y="0" type="line"/>
+      <point x="1362" y="0" type="line"/>
+      <point x="1422" y="266" type="line"/>
+      <point x="428" y="266" type="line"/>
+      <point x="487" y="160" type="line"/>
+      <point x="1366" y="1245" type="line"/>
+      <point x="1305" y="1460" type="line"/>
+      <point x="220" y="1460" type="line"/>
+      <point x="160" y="1196" type="line"/>
+      <point x="1120" y="1196" type="line"/>
+      <point x="1027" y="1291" type="line"/>
+      <point x="155" y="226" type="line"/>
+    </contour>
+    <contour>
+      <point x="808" y="1629" type="line"/>
+      <point x="983" y="1797" type="line"/>
+      <point x="808" y="1964" type="line"/>
+      <point x="633" y="1797" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

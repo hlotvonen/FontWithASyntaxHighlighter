@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="literSign.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="872" y="-23" type="curve" smooth="yes"/>
+      <point x="983" y="-23"/>
+      <point x="1086" y="-1"/>
+      <point x="1211" y="37" type="curve"/>
+      <point x="1200" y="144" type="line"/>
+      <point x="1082" y="108"/>
+      <point x="994" y="92"/>
+      <point x="908" y="92" type="curve" smooth="yes"/>
+      <point x="675" y="92"/>
+      <point x="579" y="212"/>
+      <point x="679" y="727" type="curve" smooth="yes"/>
+      <point x="776" y="1226"/>
+      <point x="928" y="1371"/>
+      <point x="1074" y="1371" type="curve" smooth="yes"/>
+      <point x="1166" y="1371"/>
+      <point x="1228" y="1314"/>
+      <point x="1198" y="1158" type="curve" smooth="yes"/>
+      <point x="1127" y="791"/>
+      <point x="677" y="505"/>
+      <point x="149" y="275" type="curve"/>
+      <point x="172" y="180" type="line"/>
+      <point x="724" y="401"/>
+      <point x="1238" y="712"/>
+      <point x="1326" y="1165" type="curve" smooth="yes"/>
+      <point x="1361" y="1343"/>
+      <point x="1299" y="1483"/>
+      <point x="1092" y="1483" type="curve" smooth="yes"/>
+      <point x="839" y="1483"/>
+      <point x="665" y="1284"/>
+      <point x="552" y="703" type="curve" smooth="yes"/>
+      <point x="438" y="116"/>
+      <point x="585" y="-23"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

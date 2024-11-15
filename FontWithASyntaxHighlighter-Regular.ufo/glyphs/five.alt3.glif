@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.alt3" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="205.66666666666669" y="0.0" type="line"/>
+      <point x="742.6666666666667" y="0.0" type="line"/>
+      <point x="1086.6666666666667" y="325.6666666666667" type="line"/>
+      <point x="1086.6666666666667" y="628.3333333333334" type="line"/>
+      <point x="827.6666666666667" y="872.3333333333335" type="line"/>
+      <point x="316.0" y="872.3333333333335" type="line"/>
+      <point x="337.0" y="803.6666666666667" type="line"/>
+      <point x="367.33333333333337" y="1352.0" type="line"/>
+      <point x="335.66666666666663" y="1296.3333333333335" type="line"/>
+      <point x="1018.0" y="1296.3333333333335" type="line"/>
+      <point x="998.0000000000001" y="1460.0" type="line"/>
+      <point x="203.66666666666669" y="1460.0" type="line"/>
+      <point x="165.0" y="717.0" type="line"/>
+      <point x="731.0" y="717.0" type="line"/>
+      <point x="896.3333333333334" y="559.3333333333334" type="line"/>
+      <point x="896.3333333333334" y="396.0" type="line"/>
+      <point x="658.6666666666667" y="173.66666666666669" type="line"/>
+      <point x="182.33333333333334" y="173.66666666666669" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D.alt3" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="194" y="0" type="line"/>
+      <point x="921" y="0" type="line"/>
+      <point x="1466" y="539" type="line"/>
+      <point x="1544" y="943" type="line"/>
+      <point x="1205" y="1460" type="line"/>
+      <point x="478" y="1460" type="line"/>
+      <point x="389" y="1159" type="line"/>
+      <point x="999" y="1159" type="line"/>
+      <point x="1199" y="841" type="line"/>
+      <point x="1167" y="672" type="line"/>
+      <point x="813" y="301" type="line"/>
+      <point x="223" y="301" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="0" type="line"/>
+      <point x="387" y="0" type="line"/>
+      <point x="671" y="1460" type="line"/>
+      <point x="342" y="1460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/26 08:56:18</string>
+    </dict>
+  </lib>
+</glyph>

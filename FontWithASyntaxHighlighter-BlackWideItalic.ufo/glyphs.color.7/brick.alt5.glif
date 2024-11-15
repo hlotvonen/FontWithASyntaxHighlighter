@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brick.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="1302" y="-400" type="line"/>
+      <point x="2810" y="-400" type="line"/>
+      <point x="3185" y="1530" type="line"/>
+      <point x="1677" y="1530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

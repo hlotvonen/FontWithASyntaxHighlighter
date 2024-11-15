@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="785" y="0" type="line"/>
+      <point x="911" y="0" type="line"/>
+      <point x="911" y="1460" type="line"/>
+      <point x="785" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="275" y="821" type="line"/>
+      <point x="636" y="1350" type="line"/>
+      <point x="850" y="1350" type="line"/>
+      <point x="850" y="1460" type="line"/>
+      <point x="570" y="1460" type="line"/>
+      <point x="149" y="861" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="449" type="line"/>
+      <point x="833" y="449" type="line"/>
+      <point x="833" y="552" type="line"/>
+      <point x="228" y="552" type="line"/>
+    </contour>
+    <contour>
+      <point x="868" y="0" type="line"/>
+      <point x="1417" y="0" type="line"/>
+      <point x="1437" y="110" type="line"/>
+      <point x="868" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="868" y="674" type="line"/>
+      <point x="1334" y="674" type="line"/>
+      <point x="1334" y="779" type="line"/>
+      <point x="868" y="779" type="line"/>
+    </contour>
+    <contour>
+      <point x="868" y="1350" type="line"/>
+      <point x="1407" y="1350" type="line"/>
+      <point x="1387" y="1460" type="line"/>
+      <point x="868" y="1460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

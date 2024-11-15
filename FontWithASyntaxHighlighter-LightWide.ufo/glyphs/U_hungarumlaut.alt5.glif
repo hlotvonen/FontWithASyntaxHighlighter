@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhungarumlaut.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="436" y="0" type="line"/>
+      <point x="1120" y="0" type="line"/>
+      <point x="1322" y="244" type="line"/>
+      <point x="1322" y="1460" type="line"/>
+      <point x="1196" y="1460" type="line"/>
+      <point x="1196" y="295" type="line"/>
+      <point x="1047" y="110" type="line"/>
+      <point x="509" y="110" type="line"/>
+      <point x="360" y="295" type="line"/>
+      <point x="360" y="1460" type="line"/>
+      <point x="234" y="1460" type="line"/>
+      <point x="234" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="957" y="1666.41" type="line"/>
+      <point x="1062" y="1666.41" type="line"/>
+      <point x="1288" y="1897.904" type="line"/>
+      <point x="1153" y="1897.904" type="line"/>
+    </contour>
+    <contour>
+      <point x="465" y="1666.41" type="line"/>
+      <point x="571" y="1666.41" type="line"/>
+      <point x="796" y="1897.904" type="line"/>
+      <point x="662" y="1897.904" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

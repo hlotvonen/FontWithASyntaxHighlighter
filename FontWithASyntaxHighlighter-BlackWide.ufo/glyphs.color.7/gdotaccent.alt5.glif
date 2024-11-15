@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gdotaccent.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="330" y="-400" type="line"/>
+      <point x="1136" y="-400" type="line"/>
+      <point x="1411" y="-81" type="line"/>
+      <point x="1411" y="1082" type="line"/>
+      <point x="1096" y="1082" type="line"/>
+      <point x="1096" y="313" type="line"/>
+      <point x="1081" y="266" type="line"/>
+      <point x="1081" y="13" type="line"/>
+      <point x="960" y="-119" type="line"/>
+      <point x="300" y="-119" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="75" type="line"/>
+      <point x="1263" y="203" type="line"/>
+      <point x="1263" y="414" type="line"/>
+      <point x="696" y="348" type="line"/>
+      <point x="454" y="482" type="line"/>
+      <point x="454" y="613" type="line"/>
+      <point x="741" y="807" type="line"/>
+      <point x="1263" y="807" type="line"/>
+      <point x="1263" y="1083" type="line"/>
+      <point x="599" y="1083" type="line"/>
+      <point x="129" y="746" type="line"/>
+      <point x="130" y="371" type="line"/>
+    </contour>
+    <contour>
+      <point x="761" y="1231" type="line"/>
+      <point x="979" y="1441" type="line"/>
+      <point x="761" y="1650" type="line"/>
+      <point x="542" y="1441" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

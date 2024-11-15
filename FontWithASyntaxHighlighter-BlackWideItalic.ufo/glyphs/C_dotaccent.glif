@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cdotaccent" format="2">
+  <advance width="1555"/>
+  <unicode hex="010A"/>
+  <outline>
+    <contour>
+      <point x="463" y="0" type="line"/>
+      <point x="1213" y="0" type="line"/>
+      <point x="1312" y="301" type="line"/>
+      <point x="677" y="301" type="line"/>
+      <point x="464" y="635" type="line"/>
+      <point x="496" y="795" type="line"/>
+      <point x="863" y="1159" type="line"/>
+      <point x="1478" y="1159" type="line"/>
+      <point x="1497" y="1460" type="line"/>
+      <point x="747" y="1460" type="line"/>
+      <point x="197" y="932" type="line"/>
+      <point x="119" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="1087" y="1629" type="line"/>
+      <point x="1294" y="1797" type="line"/>
+      <point x="1152" y="1964" type="line"/>
+      <point x="944" y="1797" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:00</string>
+    </dict>
+  </lib>
+</glyph>

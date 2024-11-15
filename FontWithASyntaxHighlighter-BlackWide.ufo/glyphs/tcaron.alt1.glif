@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="714" y="-1" type="line"/>
+      <point x="1347" y="-1" type="line"/>
+      <point x="1347" y="280" type="line"/>
+      <point x="884" y="280" type="line"/>
+      <point x="764" y="432" type="line"/>
+      <point x="764" y="1341" type="line"/>
+      <point x="439" y="1281" type="line"/>
+      <point x="439" y="318" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="695" type="line"/>
+      <point x="1347" y="695" type="line"/>
+      <point x="1347" y="953" type="line"/>
+      <point x="139" y="953" type="line"/>
+    </contour>
+    <contour>
+      <point x="1224" y="1242" type="line"/>
+      <point x="1491" y="1242" type="line"/>
+      <point x="1532" y="1638" type="line"/>
+      <point x="1241" y="1638" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

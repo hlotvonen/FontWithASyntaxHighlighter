@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven" format="2">
+  <advance width="1555"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="449" y="0" type="line"/>
+      <point x="777" y="0" type="line"/>
+      <point x="843" y="342" type="line"/>
+      <point x="1544" y="1173" type="line"/>
+      <point x="1550" y="1460" type="line"/>
+      <point x="347" y="1460" type="line"/>
+      <point x="274" y="1189" type="line"/>
+      <point x="1353" y="1189" type="line"/>
+      <point x="1270" y="1284" type="line"/>
+      <point x="523" y="382" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.3</string>
+          <integer>3</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 15:43:13</string>
+    </dict>
+  </lib>
+</glyph>

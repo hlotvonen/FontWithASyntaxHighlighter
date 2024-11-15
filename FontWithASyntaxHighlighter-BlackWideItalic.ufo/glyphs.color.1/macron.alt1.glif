@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="495" y="1299" type="line"/>
+      <point x="1356" y="1299" type="line"/>
+      <point x="1393" y="1492" type="line"/>
+      <point x="532" y="1492" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:21</string>
+    </dict>
+  </lib>
+</glyph>

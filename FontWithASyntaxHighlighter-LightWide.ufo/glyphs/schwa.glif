@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa" format="2">
+  <advance width="1555"/>
+  <unicode hex="0259"/>
+  <outline>
+    <contour>
+      <point x="940" y="1000" type="line"/>
+      <point x="293" y="1000" type="line"/>
+      <point x="273" y="902" type="line"/>
+      <point x="894" y="902" type="line"/>
+      <point x="1256" y="627" type="line"/>
+      <point x="1256" y="373" type="line"/>
+      <point x="911" y="98" type="line"/>
+      <point x="499" y="98" type="line"/>
+      <point x="302" y="202" type="line"/>
+      <point x="302" y="330" type="line"/>
+      <point x="482" y="423" type="line"/>
+      <point x="1314" y="423" type="line"/>
+      <point x="1314" y="520" type="line"/>
+      <point x="443" y="520" type="line"/>
+      <point x="196" y="387" type="line"/>
+      <point x="196" y="153" type="line"/>
+      <point x="459" y="0" type="line"/>
+      <point x="965" y="0" type="line"/>
+      <point x="1372" y="330" type="line"/>
+      <point x="1372" y="670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

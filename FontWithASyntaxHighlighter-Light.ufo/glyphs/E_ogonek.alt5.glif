@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eogonek.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="343" y="0" type="line"/>
+      <point x="343" y="1460" type="line"/>
+      <point x="217" y="1460" type="line"/>
+      <point x="217" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1078" y="110" type="line"/>
+      <point x="302" y="110" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="1058" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="915" y="779" type="line"/>
+      <point x="302" y="779" type="line"/>
+      <point x="302" y="674" type="line"/>
+      <point x="915" y="674" type="line"/>
+    </contour>
+    <contour>
+      <point x="1038" y="1350" type="line"/>
+      <point x="1018" y="1460" type="line"/>
+      <point x="302" y="1460" type="line"/>
+      <point x="302" y="1350" type="line"/>
+    </contour>
+    <contour>
+      <point x="808" y="-122" type="line"/>
+      <point x="808" y="-310" type="line"/>
+      <point x="946" y="-400" type="line"/>
+      <point x="1058" y="-400" type="line"/>
+      <point x="1058" y="-310" type="line"/>
+      <point x="977" y="-310" type="line"/>
+      <point x="910" y="-262" type="line"/>
+      <point x="910" y="-151" type="line"/>
+      <point x="1058" y="0" type="line"/>
+      <point x="976" y="37" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

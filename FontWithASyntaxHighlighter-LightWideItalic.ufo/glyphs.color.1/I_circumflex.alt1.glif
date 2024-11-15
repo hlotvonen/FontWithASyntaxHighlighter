@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icircumflex.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="608" y="0" type="line"/>
+      <point x="734" y="0" type="line"/>
+      <point x="1018" y="1460" type="line"/>
+      <point x="892" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="0" type="line"/>
+      <point x="1231" y="0" type="line"/>
+      <point x="1272" y="110" type="line"/>
+      <point x="132" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="373" y="1350" type="line"/>
+      <point x="1513" y="1350" type="line"/>
+      <point x="1515" y="1460" type="line"/>
+      <point x="415" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="611" y="1650" type="line"/>
+      <point x="758" y="1650" type="line"/>
+      <point x="1073" y="1859" type="line"/>
+      <point x="1011" y="1859" type="line"/>
+      <point x="1247" y="1650" type="line"/>
+      <point x="1394" y="1650" type="line"/>
+      <point x="1125" y="1883" type="line"/>
+      <point x="969" y="1883" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

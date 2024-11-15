@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wcircumflex.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="464" y="0" type="line"/>
+      <point x="583" y="0" type="line"/>
+      <point x="807" y="714" type="line"/>
+      <point x="750" y="714" type="line"/>
+      <point x="971" y="0" type="line"/>
+      <point x="1090" y="0" type="line"/>
+      <point x="1344" y="739" type="line"/>
+      <point x="1344" y="1460" type="line"/>
+      <point x="1218" y="1460" type="line"/>
+      <point x="1218" y="767" type="line"/>
+      <point x="997" y="80" type="line"/>
+      <point x="1051" y="80" type="line"/>
+      <point x="840" y="771" type="line"/>
+      <point x="840" y="1013" type="line"/>
+      <point x="714" y="1013" type="line"/>
+      <point x="714" y="767" type="line"/>
+      <point x="503" y="80" type="line"/>
+      <point x="557" y="80" type="line"/>
+      <point x="336" y="771" type="line"/>
+      <point x="336" y="1460" type="line"/>
+      <point x="210" y="1460" type="line"/>
+      <point x="210" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="385" y="1650" type="line"/>
+      <point x="532" y="1650" type="line"/>
+      <point x="807" y="1859" type="line"/>
+      <point x="745" y="1859" type="line"/>
+      <point x="1021" y="1650" type="line"/>
+      <point x="1168" y="1650" type="line"/>
+      <point x="854" y="1883" type="line"/>
+      <point x="698" y="1883" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.alt1" format="2">
+  <outline>
+    <contour>
+      <point x="901" y="1577" type="line"/>
+      <point x="713" y="1577" type="line"/>
+      <point x="502" y="1419" type="line"/>
+      <point x="472" y="1267" type="line"/>
+      <point x="562" y="1267" type="line"/>
+      <point x="584" y="1378" type="line"/>
+      <point x="733" y="1489" type="line"/>
+      <point x="834" y="1489" type="line"/>
+      <point x="1023" y="1267" type="line"/>
+      <point x="1211" y="1267" type="line"/>
+      <point x="1422" y="1425" type="line"/>
+      <point x="1452" y="1577" type="line"/>
+      <point x="1362" y="1577" type="line"/>
+      <point x="1340" y="1466" type="line"/>
+      <point x="1190" y="1355" type="line"/>
+      <point x="1089" y="1355" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1555</integer>
+    </dict>
+  </lib>
+</glyph>

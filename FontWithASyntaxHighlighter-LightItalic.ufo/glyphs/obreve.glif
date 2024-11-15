@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obreve" format="2">
+  <advance width="1240"/>
+  <unicode hex="014F"/>
+  <outline>
+    <contour>
+      <point x="393" y="0" type="line"/>
+      <point x="652" y="0" type="line"/>
+      <point x="1047" y="330" type="line"/>
+      <point x="1113" y="670" type="line"/>
+      <point x="866" y="1000" type="line"/>
+      <point x="587" y="1000" type="line"/>
+      <point x="193" y="670" type="line"/>
+      <point x="127" y="330" type="line"/>
+    </contour>
+    <contour>
+      <point x="448" y="98" type="line"/>
+      <point x="247" y="350" type="line"/>
+      <point x="301" y="630" type="line"/>
+      <point x="624" y="902" type="line"/>
+      <point x="791" y="902" type="line"/>
+      <point x="993" y="650" type="line"/>
+      <point x="939" y="370" type="line"/>
+      <point x="615" y="98" type="line"/>
+    </contour>
+    <contour>
+      <point x="622" y="1267" type="line"/>
+      <point x="916" y="1267" type="line"/>
+      <point x="1065" y="1414" type="line"/>
+      <point x="1100" y="1597" type="line"/>
+      <point x="1010" y="1597" type="line"/>
+      <point x="982" y="1451" type="line"/>
+      <point x="873" y="1355" type="line"/>
+      <point x="699" y="1355" type="line"/>
+      <point x="628" y="1451" type="line"/>
+      <point x="656" y="1597" type="line"/>
+      <point x="566" y="1597" type="line"/>
+      <point x="531" y="1413" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

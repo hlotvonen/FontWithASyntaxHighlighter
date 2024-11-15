@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="771" y="1276" type="line"/>
+      <point x="933" y="1406" type="line"/>
+      <point x="822" y="1536" type="line"/>
+      <point x="659" y="1406" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

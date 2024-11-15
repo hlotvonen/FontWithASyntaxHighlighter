@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scommaaccent" format="2">
+  <advance width="1240"/>
+  <unicode hex="0219"/>
+  <outline>
+    <contour>
+      <point x="200" y="0" type="line"/>
+      <point x="885" y="0" type="line"/>
+      <point x="1052" y="236" type="line"/>
+      <point x="1052" y="405" type="line"/>
+      <point x="537" y="787" type="line"/>
+      <point x="537" y="817" type="line"/>
+      <point x="571" y="846" type="line"/>
+      <point x="1062" y="846" type="line"/>
+      <point x="1032" y="1082" type="line"/>
+      <point x="354" y="1082" type="line"/>
+      <point x="187" y="846" type="line"/>
+      <point x="187" y="677" type="line"/>
+      <point x="706" y="295" type="line"/>
+      <point x="706" y="265" type="line"/>
+      <point x="672" y="236" type="line"/>
+      <point x="170" y="236" type="line"/>
+    </contour>
+    <contour>
+      <point x="448" y="-494" type="line"/>
+      <point x="689" y="-494" type="line"/>
+      <point x="689" y="-418" type="line"/>
+      <point x="448" y="-721" type="line"/>
+      <point x="573" y="-786" type="line"/>
+      <point x="791" y="-504" type="line"/>
+      <point x="791" y="-151" type="line"/>
+      <point x="448" y="-151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

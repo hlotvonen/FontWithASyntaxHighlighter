@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcommaaccent.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="939" y="0" type="line"/>
+      <point x="1063" y="0" type="line"/>
+      <point x="1063" y="206" type="line"/>
+      <point x="675" y="574" type="line"/>
+      <point x="675" y="532" type="line"/>
+      <point x="1119" y="1000" type="line"/>
+      <point x="975" y="1000" type="line"/>
+      <point x="547" y="552" type="line"/>
+      <point x="634" y="598" type="line"/>
+      <point x="301" y="598" type="line"/>
+      <point x="301" y="493" type="line"/>
+      <point x="626" y="493" type="line"/>
+      <point x="571" y="516" type="line"/>
+      <point x="939" y="178" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="0" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="345" y="1530" type="line"/>
+      <point x="221" y="1510" type="line"/>
+    </contour>
+    <contour>
+      <point x="527" y="-527" type="line"/>
+      <point x="680" y="-527" type="line"/>
+      <point x="680" y="-471" type="line"/>
+      <point x="498" y="-707" type="line"/>
+      <point x="573" y="-747" type="line"/>
+      <point x="742" y="-527" type="line"/>
+      <point x="742" y="-312" type="line"/>
+      <point x="527" y="-312" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

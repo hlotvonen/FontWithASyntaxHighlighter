@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upArrow" format="2">
+  <advance width="1555"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="778" y="1242" type="line"/>
+      <point x="272" y="739" type="line"/>
+      <point x="353" y="658" type="line"/>
+      <point x="803" y="1110" type="line"/>
+      <point x="752" y="1110" type="line"/>
+      <point x="1202" y="658" type="line"/>
+      <point x="1283" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="719" y="1127" type="line"/>
+      <point x="719" y="234" type="line"/>
+      <point x="837" y="234" type="line"/>
+      <point x="837" y="1127" type="line"/>
+    </contour>
+    <contour>
+      <point x="936" y="1048" type="line"/>
+      <point x="778" y="1113" type="line"/>
+      <point x="620" y="1047" type="line"/>
+      <point x="778" y="986" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:04</string>
+    </dict>
+  </lib>
+</glyph>

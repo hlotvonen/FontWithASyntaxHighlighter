@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edieresis.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="461" y="0" type="line"/>
+      <point x="1227" y="0" type="line"/>
+      <point x="1306" y="251" type="line"/>
+      <point x="660" y="251" type="line"/>
+      <point x="433" y="431" type="line"/>
+      <point x="472" y="631" type="line"/>
+      <point x="809" y="851" type="line"/>
+      <point x="1069" y="851" type="line"/>
+      <point x="1211" y="769" type="line"/>
+      <point x="1199" y="703" type="line"/>
+      <point x="1049" y="630" type="line"/>
+      <point x="401" y="630" type="line"/>
+      <point x="365" y="440" type="line"/>
+      <point x="1192" y="440" type="line"/>
+      <point x="1437" y="561" type="line"/>
+      <point x="1492" y="843" type="line"/>
+      <point x="1217" y="1082" type="line"/>
+      <point x="696" y="1082" type="line"/>
+      <point x="183" y="713" type="line"/>
+      <point x="116" y="369" type="line"/>
+    </contour>
+    <contour>
+      <point x="636" y="1231" type="line"/>
+      <point x="889" y="1441" type="line"/>
+      <point x="717" y="1650" type="line"/>
+      <point x="463" y="1441" type="line"/>
+    </contour>
+    <contour>
+      <point x="1309" y="1231" type="line"/>
+      <point x="1562" y="1441" type="line"/>
+      <point x="1390" y="1650" type="line"/>
+      <point x="1136" y="1441" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

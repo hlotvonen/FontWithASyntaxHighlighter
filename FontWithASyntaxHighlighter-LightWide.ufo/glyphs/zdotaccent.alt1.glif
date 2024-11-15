@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdotaccent.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="246" y="0" type="line"/>
+      <point x="1324" y="0" type="line"/>
+      <point x="1324" y="103" type="line"/>
+      <point x="349" y="103" type="line"/>
+      <point x="365" y="79" type="line"/>
+      <point x="1277" y="918" type="line"/>
+      <point x="1247" y="1000" type="line"/>
+      <point x="217" y="1000" type="line"/>
+      <point x="217" y="896" type="line"/>
+      <point x="1126" y="896" type="line"/>
+      <point x="1140" y="931" type="line"/>
+      <point x="216" y="85" type="line"/>
+    </contour>
+    <contour>
+      <point x="787" y="1276" type="line"/>
+      <point x="924" y="1406" type="line"/>
+      <point x="787" y="1536" type="line"/>
+      <point x="650" y="1406" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

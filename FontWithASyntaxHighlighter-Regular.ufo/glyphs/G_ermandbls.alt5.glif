@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Germandbls.alt5" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="1023.3333333333335" y="1460.0" type="line"/>
+      <point x="187.0" y="1460.0" type="line"/>
+      <point x="187.0" y="0.0" type="line"/>
+      <point x="383.33333333333337" y="0.0" type="line"/>
+      <point x="383.33333333333337" y="1348.0" type="line"/>
+      <point x="337.6666666666667" y="1303.0" type="line"/>
+      <point x="871.3333333333335" y="1303.0" type="line"/>
+      <point x="843.3333333333335" y="1357.0" type="line"/>
+      <point x="640.0" y="888.3333333333334" type="line"/>
+      <point x="640.0" y="762.3333333333334" type="line"/>
+      <point x="930.3333333333334" y="544.0" type="line"/>
+      <point x="930.3333333333334" y="339.33333333333337" type="line"/>
+      <point x="745.0" y="147.0" type="line"/>
+      <point x="559.3333333333334" y="147.0" type="line"/>
+      <point x="559.3333333333334" y="0.0" type="line"/>
+      <point x="833.0" y="0.0" type="line"/>
+      <point x="1116.0" y="272.0" type="line"/>
+      <point x="1116.0" y="608.6666666666667" type="line"/>
+      <point x="769.6666666666667" y="883.6666666666667" type="line"/>
+      <point x="783.0" y="792.0" type="line"/>
+      <point x="1023.3333333333335" y="1331.6666666666667" type="line"/>
+    </contour>
+  </outline>
+</glyph>

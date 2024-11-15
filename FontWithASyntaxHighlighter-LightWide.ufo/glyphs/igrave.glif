@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="igrave" format="2">
+  <advance width="1555"/>
+  <unicode hex="00EC"/>
+  <outline>
+    <contour>
+      <point x="769" y="0" type="line"/>
+      <point x="893" y="0" type="line"/>
+      <point x="893" y="935" type="line"/>
+      <point x="832" y="1000" type="line"/>
+      <point x="284" y="1000" type="line"/>
+      <point x="264" y="902" type="line"/>
+      <point x="815" y="902" type="line"/>
+      <point x="769" y="938" type="line"/>
+    </contour>
+    <contour>
+      <point x="642" y="1274" type="line"/>
+      <point x="761" y="1274" type="line"/>
+      <point x="489" y="1597" type="line"/>
+      <point x="336" y="1597" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:01</string>
+    </dict>
+  </lib>
+</glyph>

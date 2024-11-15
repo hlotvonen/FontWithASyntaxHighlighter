@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ebreve.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="429" y="0" type="line"/>
+      <point x="713" y="1460" type="line"/>
+      <point x="384" y="1460" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1290" y="271" type="line"/>
+      <point x="314" y="271" type="line"/>
+      <point x="261" y="0" type="line"/>
+      <point x="1207" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1216" y="866" type="line"/>
+      <point x="459" y="866" type="line"/>
+      <point x="409" y="609" type="line"/>
+      <point x="1166" y="609" type="line"/>
+    </contour>
+    <contour>
+      <point x="1438" y="1189" type="line"/>
+      <point x="1461" y="1460" type="line"/>
+      <point x="545" y="1460" type="line"/>
+      <point x="492" y="1189" type="line"/>
+    </contour>
+    <contour>
+      <point x="770" y="1610" type="line"/>
+      <point x="1164" y="1610" type="line"/>
+      <point x="1399" y="1773" type="line"/>
+      <point x="1425" y="1908" type="line"/>
+      <point x="1227" y="1908" type="line"/>
+      <point x="1214" y="1840" type="line"/>
+      <point x="1116" y="1773" type="line"/>
+      <point x="882" y="1773" type="line"/>
+      <point x="810" y="1840" type="line"/>
+      <point x="823" y="1908" type="line"/>
+      <point x="625" y="1908" type="line"/>
+      <point x="598" y="1772" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

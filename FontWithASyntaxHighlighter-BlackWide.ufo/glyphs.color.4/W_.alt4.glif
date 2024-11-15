@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W.alt4" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="429" y="0" type="line"/>
+      <point x="657" y="0" type="line"/>
+      <point x="807" y="578" type="line"/>
+      <point x="750" y="578" type="line"/>
+      <point x="891" y="0" type="line"/>
+      <point x="1127" y="0" type="line"/>
+      <point x="1340" y="687" type="line"/>
+      <point x="1340" y="1460" type="line"/>
+      <point x="1070" y="1460" type="line"/>
+      <point x="1070" y="711" type="line"/>
+      <point x="965" y="306" type="line"/>
+      <point x="982" y="306" type="line"/>
+      <point x="887" y="771" type="line"/>
+      <point x="887" y="1032" type="line"/>
+      <point x="670" y="1032" type="line"/>
+      <point x="670" y="771" type="line"/>
+      <point x="575" y="306" type="line"/>
+      <point x="592" y="306" type="line"/>
+      <point x="487" y="711" type="line"/>
+      <point x="487" y="1460" type="line"/>
+      <point x="216" y="1460" type="line"/>
+      <point x="216" y="687" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/26 08:57:59</string>
+    </dict>
+  </lib>
+</glyph>

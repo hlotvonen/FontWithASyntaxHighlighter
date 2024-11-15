@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="1555"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="732" y="0" type="line"/>
+      <point x="1061" y="0" type="line"/>
+      <point x="1061" y="1460" type="line"/>
+      <point x="732" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="936" y="0" type="line"/>
+      <point x="1473" y="0" type="line"/>
+      <point x="1503" y="271" type="line"/>
+      <point x="936" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="936" y="609" type="line"/>
+      <point x="1408" y="609" type="line"/>
+      <point x="1408" y="866" type="line"/>
+      <point x="936" y="866" type="line"/>
+    </contour>
+    <contour>
+      <point x="936" y="1189" type="line"/>
+      <point x="1483" y="1189" type="line"/>
+      <point x="1453" y="1460" type="line"/>
+      <point x="936" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="854" y="0" type="line"/>
+      <point x="854" y="271" type="line"/>
+      <point x="642" y="271" type="line"/>
+      <point x="390" y="642" type="line"/>
+      <point x="390" y="841" type="line"/>
+      <point x="642" y="1189" type="line"/>
+      <point x="854" y="1189" type="line"/>
+      <point x="854" y="1460" type="line"/>
+      <point x="475" y="1460" type="line"/>
+      <point x="85" y="943" type="line"/>
+      <point x="85" y="539" type="line"/>
+      <point x="475" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:00</string>
+    </dict>
+  </lib>
+</glyph>

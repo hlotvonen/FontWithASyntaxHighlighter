@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downBlackSmallTriangle.alt1" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="955.3333333333334" y="1006.3333333333335" type="line"/>
+      <point x="283.6666666666667" y="1006.3333333333335" type="line"/>
+      <point x="620.0" y="419.00000000000006" type="line"/>
+    </contour>
+  </outline>
+</glyph>

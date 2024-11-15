@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightArrow.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="1151" y="730" type="line"/>
+      <point x="770" y="1205" type="line"/>
+      <point x="673" y="1124" type="line"/>
+      <point x="1015" y="705" type="line"/>
+      <point x="1025" y="755" type="line"/>
+      <point x="520" y="336" type="line"/>
+      <point x="586" y="255" type="line"/>
+    </contour>
+    <contour>
+      <point x="1043" y="789" type="line"/>
+      <point x="200" y="789" type="line"/>
+      <point x="177" y="671" type="line"/>
+      <point x="1020" y="671" type="line"/>
+    </contour>
+    <contour>
+      <point x="927" y="572" type="line"/>
+      <point x="1020" y="730" type="line"/>
+      <point x="988" y="888" type="line"/>
+      <point x="898" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.alt4" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="465" y="0" type="line"/>
+      <point x="815" y="0" type="line"/>
+      <point x="1112" y="308" type="line"/>
+      <point x="1112" y="628" type="line"/>
+      <point x="841" y="879" type="line"/>
+      <point x="225" y="690" type="line"/>
+      <point x="225" y="608" type="line"/>
+      <point x="803" y="745" type="line"/>
+      <point x="993" y="585" type="line"/>
+      <point x="993" y="367" type="line"/>
+      <point x="751" y="110" type="line"/>
+      <point x="529" y="110" type="line"/>
+      <point x="294" y="367" type="line"/>
+      <point x="294" y="963" type="line"/>
+      <point x="586" y="1350" type="line"/>
+      <point x="1010" y="1350" type="line"/>
+      <point x="990" y="1460" type="line"/>
+      <point x="520" y="1460" type="line"/>
+      <point x="168" y="997" type="line"/>
+      <point x="168" y="308" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/26 08:39:31</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="radical.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="720" y="1460" type="line"/>
+      <point x="418" y="-5" type="line"/>
+      <point x="406" y="-5" type="line"/>
+      <point x="283" y="494" type="line"/>
+      <point x="16" y="427" type="line"/>
+      <point x="226" y="-400" type="line"/>
+      <point x="609" y="-400" type="line"/>
+      <point x="950" y="1253" type="line"/>
+      <point x="818" y="1189" type="line"/>
+      <point x="1160" y="1189" type="line"/>
+      <point x="1160" y="1460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

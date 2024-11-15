@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="946" y="965" type="line"/>
+      <point x="1223" y="461" type="line"/>
+      <point x="1335" y="500" type="line"/>
+      <point x="1048" y="1024" type="line"/>
+    </contour>
+    <contour>
+      <point x="844" y="-24" type="line"/>
+      <point x="1335" y="500" type="line"/>
+      <point x="1241" y="546" type="line"/>
+      <point x="766" y="43" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="965" type="line"/>
+      <point x="648" y="461" type="line"/>
+      <point x="760" y="500" type="line"/>
+      <point x="473" y="1024" type="line"/>
+    </contour>
+    <contour>
+      <point x="269" y="-24" type="line"/>
+      <point x="760" y="500" type="line"/>
+      <point x="666" y="546" type="line"/>
+      <point x="191" y="43" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

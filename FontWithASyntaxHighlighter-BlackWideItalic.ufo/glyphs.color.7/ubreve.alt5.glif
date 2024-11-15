@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ubreve.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="556" y="1082" type="line"/>
+      <point x="231" y="1082" type="line"/>
+      <point x="72" y="262" type="line"/>
+      <point x="387" y="-24" type="line"/>
+      <point x="1169" y="154" type="line"/>
+      <point x="1204" y="335" type="line"/>
+      <point x="566" y="259" type="line"/>
+      <point x="412" y="342" type="line"/>
+    </contour>
+    <contour>
+      <point x="1533" y="1082" type="line"/>
+      <point x="1208" y="1082" type="line"/>
+      <point x="1035" y="190" type="line"/>
+      <point x="1078" y="0" type="line"/>
+      <point x="1323" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="688" y="1275" type="line"/>
+      <point x="1153" y="1275" type="line"/>
+      <point x="1402" y="1460" type="line"/>
+      <point x="1437" y="1643" type="line"/>
+      <point x="1234" y="1643" type="line"/>
+      <point x="1213" y="1532" type="line"/>
+      <point x="1095" y="1440" type="line"/>
+      <point x="810" y="1440" type="line"/>
+      <point x="728" y="1532" type="line"/>
+      <point x="749" y="1643" type="line"/>
+      <point x="546" y="1643" type="line"/>
+      <point x="511" y="1459" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="614" y="601" type="curve" smooth="yes"/>
+      <point x="614" y="1080"/>
+      <point x="840" y="1343"/>
+      <point x="1125" y="1602" type="curve"/>
+      <point x="836" y="1602" type="line"/>
+      <point x="603" y="1428"/>
+      <point x="300" y="1140"/>
+      <point x="300" y="601" type="curve" smooth="yes"/>
+      <point x="300" y="60"/>
+      <point x="603" y="-226"/>
+      <point x="836" y="-400" type="curve"/>
+      <point x="1125" y="-400" type="line"/>
+      <point x="840" y="-141"/>
+      <point x="614" y="122"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

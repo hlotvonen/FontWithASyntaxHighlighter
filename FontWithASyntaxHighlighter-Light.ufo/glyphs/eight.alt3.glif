@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.alt3" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="447" y="0" type="line"/>
+      <point x="793" y="0" type="line"/>
+      <point x="1090" y="258" type="line"/>
+      <point x="1090" y="556" type="line"/>
+      <point x="834" y="763" type="line"/>
+      <point x="1050" y="976" type="line"/>
+      <point x="1050" y="1210" type="line"/>
+      <point x="793" y="1460" type="line"/>
+      <point x="447" y="1460" type="line"/>
+      <point x="190" y="1210" type="line"/>
+      <point x="190" y="976" type="line"/>
+      <point x="406" y="763" type="line"/>
+      <point x="150" y="556" type="line"/>
+      <point x="150" y="258" type="line"/>
+    </contour>
+    <contour>
+      <point x="506" y="100" type="line"/>
+      <point x="276" y="297" type="line"/>
+      <point x="276" y="521" type="line"/>
+      <point x="506" y="702" type="line"/>
+      <point x="734" y="702" type="line"/>
+      <point x="964" y="521" type="line"/>
+      <point x="964" y="297" type="line"/>
+      <point x="734" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="506" y="812" type="line"/>
+      <point x="316" y="1011" type="line"/>
+      <point x="316" y="1171" type="line"/>
+      <point x="506" y="1360" type="line"/>
+      <point x="734" y="1360" type="line"/>
+      <point x="924" y="1171" type="line"/>
+      <point x="924" y="1011" type="line"/>
+      <point x="734" y="812" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.5</string>
+          <integer>5</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/26 08:38:02</string>
+    </dict>
+  </lib>
+</glyph>

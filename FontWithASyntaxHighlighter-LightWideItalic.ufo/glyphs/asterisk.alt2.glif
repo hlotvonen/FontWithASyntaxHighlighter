@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk.alt2" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="914" y="968" type="line"/>
+      <point x="1052" y="1530" type="line"/>
+      <point x="904" y="1530" type="line"/>
+      <point x="824" y="968" type="line"/>
+    </contour>
+    <contour>
+      <point x="874" y="927" type="line"/>
+      <point x="1451" y="1067" type="line"/>
+      <point x="1432" y="1209" type="line"/>
+      <point x="864" y="1011" type="line"/>
+    </contour>
+    <contour>
+      <point x="827" y="942" type="line"/>
+      <point x="1044" y="459" type="line"/>
+      <point x="1179" y="547" type="line"/>
+      <point x="910" y="995" type="line"/>
+    </contour>
+    <contour>
+      <point x="837" y="995" type="line"/>
+      <point x="393" y="549" type="line"/>
+      <point x="497" y="457" type="line"/>
+      <point x="900" y="942" type="line"/>
+    </contour>
+    <contour>
+      <point x="892" y="1011" type="line"/>
+      <point x="400" y="1209" type="line"/>
+      <point x="325" y="1067" type="line"/>
+      <point x="848" y="927" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.2</string>
+          <integer>2</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/03/25 14:42:09</string>
+    </dict>
+  </lib>
+</glyph>

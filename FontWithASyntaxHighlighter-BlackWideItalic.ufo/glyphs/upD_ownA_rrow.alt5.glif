@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upDownArrow.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="687" y="72" type="line"/>
+      <point x="1203" y="444" type="line"/>
+      <point x="1104" y="599" type="line"/>
+      <point x="691" y="298" type="line"/>
+      <point x="771" y="298" type="line"/>
+      <point x="474" y="599" type="line"/>
+      <point x="315" y="444" type="line"/>
+    </contour>
+    <contour>
+      <point x="953" y="398" type="line"/>
+      <point x="773" y="513" type="line"/>
+      <point x="547" y="398" type="line"/>
+      <point x="726" y="275" type="line"/>
+    </contour>
+    <contour>
+      <point x="943" y="1387" type="line"/>
+      <point x="426" y="1015" type="line"/>
+      <point x="525" y="860" type="line"/>
+      <point x="939" y="1161" type="line"/>
+      <point x="859" y="1161" type="line"/>
+      <point x="1155" y="860" type="line"/>
+      <point x="1314" y="1015" type="line"/>
+    </contour>
+    <contour>
+      <point x="1020" y="1196" type="line"/>
+      <point x="790" y="1196" type="line"/>
+      <point x="609" y="262" type="line"/>
+      <point x="839" y="262" type="line"/>
+    </contour>
+    <contour>
+      <point x="676" y="1061" type="line"/>
+      <point x="857" y="946" type="line"/>
+      <point x="1082" y="1061" type="line"/>
+      <point x="903" y="1184" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccircumflex.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="490" y="0" type="line"/>
+      <point x="1030" y="0" type="line"/>
+      <point x="1050" y="98" type="line"/>
+      <point x="536" y="98" type="line"/>
+      <point x="276" y="360" type="line"/>
+      <point x="276" y="640" type="line"/>
+      <point x="536" y="902" type="line"/>
+      <point x="1050" y="902" type="line"/>
+      <point x="1030" y="1000" type="line"/>
+      <point x="490" y="1000" type="line"/>
+      <point x="160" y="670" type="line"/>
+      <point x="160" y="330" type="line"/>
+    </contour>
+    <contour>
+      <point x="338" y="1274" type="line"/>
+      <point x="459" y="1274" type="line"/>
+      <point x="688" y="1562" type="line"/>
+      <point x="632" y="1562" type="line"/>
+      <point x="861" y="1274" type="line"/>
+      <point x="982" y="1274" type="line"/>
+      <point x="708" y="1597" type="line"/>
+      <point x="612" y="1597" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:19</string>
+    </dict>
+  </lib>
+</glyph>

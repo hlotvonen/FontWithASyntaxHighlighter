@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="northEastArrow.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="967" y="1078" type="line"/>
+      <point x="296" y="1079" type="line"/>
+      <point x="296" y="965" type="line"/>
+      <point x="892" y="968" type="line"/>
+      <point x="856" y="1003" type="line"/>
+      <point x="854" y="408" type="line"/>
+      <point x="968" y="408" type="line"/>
+    </contour>
+    <contour>
+      <point x="841" y="1035" type="line"/>
+      <point x="245" y="439" type="line"/>
+      <point x="328" y="356" type="line"/>
+      <point x="924" y="952" type="line"/>
+    </contour>
+    <contour>
+      <point x="942" y="830" type="line"/>
+      <point x="874" y="985" type="line"/>
+      <point x="718" y="1052" type="line"/>
+      <point x="788" y="899" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

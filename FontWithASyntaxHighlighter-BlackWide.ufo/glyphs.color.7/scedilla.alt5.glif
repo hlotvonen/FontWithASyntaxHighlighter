@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scedilla.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="187" y="0" type="line"/>
+      <point x="1180" y="0" type="line"/>
+      <point x="1373" y="236" type="line"/>
+      <point x="1373" y="431" type="line"/>
+      <point x="532" y="779" type="line"/>
+      <point x="532" y="826" type="line"/>
+      <point x="583" y="846" type="line"/>
+      <point x="1391" y="846" type="line"/>
+      <point x="1361" y="1082" type="line"/>
+      <point x="375" y="1082" type="line"/>
+      <point x="182" y="846" type="line"/>
+      <point x="182" y="660" type="line"/>
+      <point x="1027" y="312" type="line"/>
+      <point x="1027" y="257" type="line"/>
+      <point x="976" y="236" type="line"/>
+      <point x="157" y="236" type="line"/>
+    </contour>
+    <contour>
+      <point x="657" y="-687" type="line"/>
+      <point x="851" y="-687" type="line"/>
+      <point x="1093" y="-534" type="line"/>
+      <point x="1093" y="-270" type="line"/>
+      <point x="851" y="-139" type="line"/>
+      <point x="822" y="-139" type="line"/>
+      <point x="877" y="-200" type="line"/>
+      <point x="877" y="48" type="line"/>
+      <point x="697" y="48" type="line"/>
+      <point x="697" y="-305" type="line"/>
+      <point x="783" y="-305" type="line"/>
+      <point x="910" y="-370" type="line"/>
+      <point x="910" y="-434" type="line"/>
+      <point x="783" y="-499" type="line"/>
+      <point x="657" y="-499" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uring.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="362" y="1000" type="line"/>
+      <point x="236" y="1000" type="line"/>
+      <point x="236" y="219" type="line"/>
+      <point x="555" y="-23" type="line"/>
+      <point x="1261" y="136" type="line"/>
+      <point x="1261" y="218" type="line"/>
+      <point x="593" y="93" type="line"/>
+      <point x="362" y="263" type="line"/>
+    </contour>
+    <contour>
+      <point x="1320" y="1000" type="line"/>
+      <point x="1196" y="1000" type="line"/>
+      <point x="1196" y="142" type="line"/>
+      <point x="1233" y="0" type="line"/>
+      <point x="1320" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="688" y="1215" type="line"/>
+      <point x="862" y="1215" type="line"/>
+      <point x="1002" y="1372" type="line"/>
+      <point x="1002" y="1506" type="line"/>
+      <point x="862" y="1662" type="line"/>
+      <point x="688" y="1662" type="line"/>
+      <point x="548" y="1505" type="line"/>
+      <point x="548" y="1371" type="line"/>
+    </contour>
+    <contour>
+      <point x="642" y="1409" type="line"/>
+      <point x="642" y="1468" type="line"/>
+      <point x="735" y="1574" type="line"/>
+      <point x="815" y="1574" type="line"/>
+      <point x="908" y="1468" type="line"/>
+      <point x="908" y="1409" type="line"/>
+      <point x="815" y="1303" type="line"/>
+      <point x="735" y="1303" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.1</string>
+          <integer>1</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

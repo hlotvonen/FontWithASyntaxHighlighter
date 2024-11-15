@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresis.alt1" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="437" y="1082" type="line"/>
+      <point x="112" y="1082" type="line"/>
+      <point x="112" y="271" type="line"/>
+      <point x="407" y="-24" type="line"/>
+      <point x="984" y="154" type="line"/>
+      <point x="984" y="335" type="line"/>
+      <point x="531" y="259" type="line"/>
+      <point x="437" y="342" type="line"/>
+    </contour>
+    <contour>
+      <point x="1128" y="1082" type="line"/>
+      <point x="803" y="1082" type="line"/>
+      <point x="803" y="165" type="line"/>
+      <point x="883" y="0" type="line"/>
+      <point x="1128" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="339.46" y="1227.184" type="line"/>
+      <point x="531.954" y="1436.533" type="line"/>
+      <point x="339.46" y="1644.885" type="line"/>
+      <point x="146.083" y="1436.533" type="line"/>
+    </contour>
+    <contour>
+      <point x="900.46" y="1227.184" type="line"/>
+      <point x="1092.954" y="1436.533" type="line"/>
+      <point x="900.46" y="1644.885" type="line"/>
+      <point x="707.083" y="1436.533" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

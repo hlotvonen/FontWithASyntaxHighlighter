@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="summation.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="811" y="569" type="line"/>
+      <point x="260" y="-318" type="line"/>
+      <point x="273" y="-400" type="line"/>
+      <point x="1260" y="-400" type="line"/>
+      <point x="1260" y="-290" type="line"/>
+      <point x="362" y="-290" type="line"/>
+      <point x="391" y="-334" type="line"/>
+      <point x="928" y="533" type="line"/>
+      <point x="391" y="1400" type="line"/>
+      <point x="362" y="1350" type="line"/>
+      <point x="1260" y="1350" type="line"/>
+      <point x="1260" y="1460" type="line"/>
+      <point x="273" y="1460" type="line"/>
+      <point x="260" y="1378" type="line"/>
+      <point x="811" y="491" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+    </dict>
+  </lib>
+</glyph>

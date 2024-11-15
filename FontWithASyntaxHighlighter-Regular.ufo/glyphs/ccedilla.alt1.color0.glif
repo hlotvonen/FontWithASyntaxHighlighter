@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccedilla.alt1.color0" format="2">
+  <advance width="1240.0"/>
+  <outline>
+    <contour>
+      <point x="465.0" y="0.0" type="line"/>
+      <point x="1043.6666666666667" y="0.0" type="line"/>
+      <point x="1071.3333333333335" y="159.0" type="line"/>
+      <point x="539.0" y="159.0" type="line"/>
+      <point x="319.0" y="391.0" type="line"/>
+      <point x="319.0" y="636.3333333333334" type="line"/>
+      <point x="539.0" y="868.3333333333334" type="line"/>
+      <point x="1071.3333333333335" y="868.3333333333334" type="line"/>
+      <point x="1043.6666666666667" y="1027.3333333333335" type="line"/>
+      <point x="465.0" y="1027.3333333333335" type="line"/>
+      <point x="140.0" y="684.3333333333334" type="line"/>
+      <point x="140.0" y="343.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="585.3333333333334" y="-589.0" type="line"/>
+      <point x="772.6666666666667" y="-589.0" type="line"/>
+      <point x="924.0" y="-461.33333333333337" type="line"/>
+      <point x="924.0" y="-279.33333333333337" type="line"/>
+      <point x="774.3333333333335" y="-159.33333333333334" type="line"/>
+      <point x="722.3333333333334" y="-159.33333333333334" type="line"/>
+      <point x="748.0" y="-197.33333333333334" type="line"/>
+      <point x="748.0" y="48.0" type="line"/>
+      <point x="625.3333333333334" y="48.0" type="line"/>
+      <point x="625.3333333333334" y="-274.33333333333337" type="line"/>
+      <point x="724.6666666666667" y="-274.33333333333337" type="line"/>
+      <point x="807.6666666666667" y="-339.33333333333337" type="line"/>
+      <point x="807.6666666666667" y="-401.33333333333337" type="line"/>
+      <point x="724.6666666666667" y="-466.33333333333337" type="line"/>
+      <point x="585.3333333333334" y="-466.33333333333337" type="line"/>
+    </contour>
+  </outline>
+</glyph>

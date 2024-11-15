@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="angle.alt5" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="1070" y="0" type="line"/>
+      <point x="1070" y="271" type="line"/>
+      <point x="568" y="271" type="line"/>
+      <point x="560" y="285" type="line"/>
+      <point x="916" y="981" type="line"/>
+      <point x="638" y="1094" type="line"/>
+      <point x="135" y="99" type="line"/>
+      <point x="176" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

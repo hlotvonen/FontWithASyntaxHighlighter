@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lacute" format="2">
+  <advance width="1555"/>
+  <unicode hex="0139"/>
+  <outline>
+    <contour>
+      <point x="201" y="0" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="611" y="1460" type="line"/>
+      <point x="485" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="0" type="line"/>
+      <point x="1262" y="0" type="line"/>
+      <point x="1303" y="110" type="line"/>
+      <point x="307" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="650" y="1652" type="line"/>
+      <point x="531" y="1652" type="line"/>
+      <point x="848" y="1884" type="line"/>
+      <point x="1001" y="1884" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:00</string>
+    </dict>
+  </lib>
+</glyph>

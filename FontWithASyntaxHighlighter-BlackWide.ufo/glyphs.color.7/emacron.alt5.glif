@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emacron.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="560" y="0" type="line"/>
+      <point x="1326" y="0" type="line"/>
+      <point x="1356" y="251" type="line"/>
+      <point x="720" y="251" type="line"/>
+      <point x="448" y="431" type="line"/>
+      <point x="448" y="631" type="line"/>
+      <point x="743" y="851" type="line"/>
+      <point x="1003" y="851" type="line"/>
+      <point x="1161" y="769" type="line"/>
+      <point x="1161" y="703" type="line"/>
+      <point x="1026" y="630" type="line"/>
+      <point x="378" y="630" type="line"/>
+      <point x="378" y="440" type="line"/>
+      <point x="1205" y="440" type="line"/>
+      <point x="1427" y="561" type="line"/>
+      <point x="1427" y="843" type="line"/>
+      <point x="1106" y="1082" type="line"/>
+      <point x="585" y="1082" type="line"/>
+      <point x="143" y="713" type="line"/>
+      <point x="143" y="369" type="line"/>
+    </contour>
+    <contour>
+      <point x="401" y="1299" type="line"/>
+      <point x="1262" y="1299" type="line"/>
+      <point x="1262" y="1492" type="line"/>
+      <point x="401" y="1492" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

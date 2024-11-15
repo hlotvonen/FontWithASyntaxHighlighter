@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="760" y="0" type="line"/>
+      <point x="884" y="0" type="line"/>
+      <point x="884" y="935" type="line"/>
+      <point x="823" y="1000" type="line"/>
+      <point x="275" y="1000" type="line"/>
+      <point x="255" y="902" type="line"/>
+      <point x="806" y="902" type="line"/>
+      <point x="760" y="938" type="line"/>
+    </contour>
+    <contour>
+      <point x="502" y="1267" type="line"/>
+      <point x="856" y="1267" type="line"/>
+      <point x="1016" y="1414" type="line"/>
+      <point x="1016" y="1597" type="line"/>
+      <point x="926" y="1597" type="line"/>
+      <point x="926" y="1451" type="line"/>
+      <point x="814" y="1355" type="line"/>
+      <point x="544" y="1355" type="line"/>
+      <point x="432" y="1451" type="line"/>
+      <point x="432" y="1597" type="line"/>
+      <point x="342" y="1597" type="line"/>
+      <point x="342" y="1413" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

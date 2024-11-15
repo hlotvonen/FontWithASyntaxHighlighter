@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="705" y="0" type="line"/>
+      <point x="831" y="0" type="line"/>
+      <point x="831" y="1460" type="line"/>
+      <point x="705" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="0" type="line"/>
+      <point x="1328" y="0" type="line"/>
+      <point x="1348" y="110" type="line"/>
+      <point x="208" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="1350" type="line"/>
+      <point x="1348" y="1350" type="line"/>
+      <point x="1328" y="1460" type="line"/>
+      <point x="228" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="779" y="1626" type="line"/>
+      <point x="916" y="1756" type="line"/>
+      <point x="779" y="1886" type="line"/>
+      <point x="642" y="1756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:44</string>
+    </dict>
+  </lib>
+</glyph>

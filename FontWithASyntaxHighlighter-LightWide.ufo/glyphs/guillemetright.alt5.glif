@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright.alt5" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="855" y="961" type="line"/>
+      <point x="1230" y="457" type="line"/>
+      <point x="1335" y="500" type="line"/>
+      <point x="946" y="1024" type="line"/>
+    </contour>
+    <contour>
+      <point x="946" y="-24" type="line"/>
+      <point x="1335" y="500" type="line"/>
+      <point x="1232" y="542" type="line"/>
+      <point x="855" y="39" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="961" type="line"/>
+      <point x="655" y="457" type="line"/>
+      <point x="760" y="500" type="line"/>
+      <point x="371" y="1024" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="-24" type="line"/>
+      <point x="760" y="500" type="line"/>
+      <point x="657" y="542" type="line"/>
+      <point x="280" y="39" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color.7</string>
+          <integer>7</integer>
+        </array>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 13:32:45</string>
+    </dict>
+  </lib>
+</glyph>

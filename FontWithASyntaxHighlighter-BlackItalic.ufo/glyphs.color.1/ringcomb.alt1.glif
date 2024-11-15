@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.alt1" format="2">
+  <outline>
+    <contour>
+      <point x="663" y="1210" type="line"/>
+      <point x="837" y="1210" type="line"/>
+      <point x="1030" y="1377" type="line"/>
+      <point x="1063" y="1547" type="line"/>
+      <point x="935" y="1713" type="line"/>
+      <point x="761" y="1713" type="line"/>
+      <point x="569" y="1546" type="line"/>
+      <point x="535" y="1376" type="line"/>
+    </contour>
+    <contour>
+      <point x="671" y="1428" type="line"/>
+      <point x="684" y="1496" type="line"/>
+      <point x="792" y="1592" type="line"/>
+      <point x="856" y="1592" type="line"/>
+      <point x="928" y="1496" type="line"/>
+      <point x="915" y="1428" type="line"/>
+      <point x="806" y="1331" type="line"/>
+      <point x="742" y="1331" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:20</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1240</integer>
+    </dict>
+  </lib>
+</glyph>

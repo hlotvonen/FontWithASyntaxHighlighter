@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcommaaccent" format="2">
+  <advance width="1555"/>
+  <unicode hex="013B"/>
+  <outline>
+    <contour>
+      <point x="256" y="0" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="585" y="1460" type="line"/>
+      <point x="256" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="0" type="line"/>
+      <point x="1335" y="0" type="line"/>
+      <point x="1365" y="271" type="line"/>
+      <point x="416" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="662" y="-494" type="line"/>
+      <point x="903" y="-494" type="line"/>
+      <point x="903" y="-418" type="line"/>
+      <point x="662" y="-721" type="line"/>
+      <point x="787" y="-786" type="line"/>
+      <point x="1005" y="-504" type="line"/>
+      <point x="1005" y="-151" type="line"/>
+      <point x="662" y="-151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/01 23:36:00</string>
+    </dict>
+  </lib>
+</glyph>

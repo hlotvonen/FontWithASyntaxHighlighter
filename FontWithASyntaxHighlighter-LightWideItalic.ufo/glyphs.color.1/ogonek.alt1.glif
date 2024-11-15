@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonek.alt1" format="2">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="357" y="-132" type="line"/>
+      <point x="323" y="-310" type="line"/>
+      <point x="453" y="-400" type="line"/>
+      <point x="575" y="-400" type="line"/>
+      <point x="593" y="-310" type="line"/>
+      <point x="502" y="-310" type="line"/>
+      <point x="434" y="-262" type="line"/>
+      <point x="454" y="-161" type="line"/>
+      <point x="653" y="0" type="line"/>
+      <point x="579" y="37" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/08/16 11:33:21</string>
+    </dict>
+  </lib>
+</glyph>
